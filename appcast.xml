@@ -3,20 +3,30 @@
     <channel>
         <title>Vokomi</title>
         <item>
+            <title>2.2.6</title>
+            <pubDate>Fri, 04 Sep 2026 13:42:20 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>2.2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/raphaelnew/vokomi-releases/releases/download/downloads/Vokomi-2.2.6.zip" length="72973339" type="application/octet-stream" sparkle:edSignature="wkMtOfdy3S2BiKRoyw0NYLOQR99fu0mjPGuOyjTnussDIq7tiJYOdJFLeppX30QoXd5ScjEM7EGEM3L6OA0iCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/raphaelnew/vokomi-releases/releases/download/downloads/Vokomi9-8.delta" sparkle:deltaFrom="8" length="1369222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uCt6qiuYltSqQl29Rgm3qmFTLPIeLrfyAsYHiWlrqndgImaitF/RD79rKWyySktgaDf7cc8aap46uqdDuhE7Cw=="/>
+                <enclosure url="https://github.com/raphaelnew/vokomi-releases/releases/download/downloads/Vokomi9-7.delta" sparkle:deltaFrom="7" length="17081362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ue44bFMpdTjnbfeLYTCjBjbthHrC54/RTOFToxzETMNzShCw8yJAm8fCuF9xOozDuadmL+pB/udhRm/JjaIRBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.2.5</title>
-            <pubDate>Thu, 03 Sep 2026 16:43:47 +0000</pubDate>
+            <pubDate>Fri, 04 Sep 2026 13:42:17 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>2.2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/raphaelnew/vokomi-releases/releases/download/downloads/Vokomi-2.2.5.zip" length="72863555" type="application/octet-stream" sparkle:edSignature="w7iCxZIPNhqMeVaGTs5Q/BtXKdNA/pKzFxXKvBhE4E+MfArSwBBHcUAjuWIgzzkZAkXBdZ1ZgDKOwYCgpwXWCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/raphaelnew/vokomi-releases/releases/download/downloads/Vokomi8-7.delta" sparkle:deltaFrom="7" length="16969706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bLzoy4bstl6Ao04mosyB6P7wC06Gq3l6ys24cUnVce08ORBIf1PATCf3xYVfih6LoCg4anQyfrGzGTQDDWzmBw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>2.2.4</title>
-            <pubDate>Thu, 03 Sep 2026 16:43:46 +0000</pubDate>
+            <pubDate>Fri, 04 Sep 2026 13:42:17 +0000</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>2.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
