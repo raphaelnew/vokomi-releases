@@ -1,0 +1,288 @@
+{
+  "station": "lighthouse",
+  "version": 1,
+  "generated": "2026-09-12",
+  "writer": "claude-opus-5",
+  "segments": [
+    {
+      "id": "lighthouse-0001",
+      "kind": "station-id",
+      "flavor": "the station signature, landing like a lamp turning",
+      "words": 23,
+      "text": "Heart: [gentle] Two hundred miles of dark water, and one lamp turning.\nHeart: Lighthouse FM. Stay close to the light, and here is more music."
+    },
+    {
+      "id": "lighthouse-0002",
+      "kind": "station-id",
+      "flavor": "the station signature, landing like a lamp turning",
+      "words": 22,
+      "text": "Heart: The water is wide tonight and the lamp is patient. This is Lighthouse FM.\nHeart: The music is not finished with us yet."
+    },
+    {
+      "id": "lighthouse-0003",
+      "kind": "station-id",
+      "flavor": "the station signature, landing like a lamp turning",
+      "words": 25,
+      "text": "Heart: Somewhere out past the shipping lanes, someone is still awake.\nEmma: So we left the lamp on. Lighthouse FM.\nHeart: Music follows, all the way to morning."
+    },
+    {
+      "id": "lighthouse-0004",
+      "kind": "station-id",
+      "flavor": "the station signature, landing like a lamp turning",
+      "words": 23,
+      "text": "Heart: The tide comes up the stairs and goes quietly back down again.\nHeart: We keep the lamp turning. Lighthouse FM, and more music now."
+    },
+    {
+      "id": "lighthouse-0005",
+      "kind": "talk-break",
+      "flavor": "a slow time check, spoken like a thought, with one image of light or water",
+      "words": 28,
+      "text": "Heart: This is the long hour, when the sea forgets which way it was going.\nHeart: Nothing here is late anymore. Not you, not the tide. Let the music run."
+    },
+    {
+      "id": "lighthouse-0006",
+      "kind": "talk-break",
+      "flavor": "a gentle back-announce of the music, like naming a passing ship",
+      "words": 27,
+      "text": "Heart: That last piece went by like a ship with its lights held low.\nHeart: No name, no flag, only a wake on the water. More of it now."
+    },
+    {
+      "id": "lighthouse-0007",
+      "kind": "talk-break",
+      "flavor": "a gentle back-announce of the music, like naming a passing ship",
+      "words": 42,
+      "text": "Heart: That was a long, slow crossing of a song. One idea, carried the whole way.\nEmma: It took its time arriving at the point.\nHeart: Everything out here does. The light needs twelve seconds to come back around.\nEmma: And here comes the next ship."
+    },
+    {
+      "id": "lighthouse-0008",
+      "kind": "talk-break",
+      "flavor": "one short reflective thought for night workers, with a soft unexpected smile at the end",
+      "words": 47,
+      "text": "Heart: A word for the people awake on purpose tonight. Bakers, nurses, keepers of engines.\nEmma: And the ones awake by accident. They also count.\nHeart: You are all running the same small errand. Keeping something lit until morning.\nEmma: Nicely put. Now play the music, before he writes a poem."
+    },
+    {
+      "id": "lighthouse-0009",
+      "kind": "talk-break",
+      "flavor": "one short reflective thought for night workers, with a soft unexpected smile at the end",
+      "words": 59,
+      "text": "Heart: There is a kind of work that only happens while everyone else is asleep.\nEmma: Mine is listening to him find the word for it.\nHeart: [chuckle] Loading docks, dialysis wards, two people watching a bridge that never moves.\nEmma: All of it invisible again by morning.\nHeart: So here is the light, pointed at nobody in particular, and here is the music."
+    },
+    {
+      "id": "lighthouse-0010",
+      "kind": "talk-break",
+      "flavor": "a slow time check, spoken like a thought, with one image of light or water",
+      "words": 55,
+      "text": "Heart: The lamp goes around once every twelve seconds. That is the only clock up here.\nEmma: Which makes this a great many seconds after midnight.\nHeart: Close enough. The sea has never asked for it more precise than that.\nEmma: Nobody has ever missed a wave.\nHeart: True. Let the music take the next few turns of the light."
+    },
+    {
+      "id": "lighthouse-0011",
+      "kind": "talk-break",
+      "flavor": "a slow time check, spoken like a thought, with one image of light or water",
+      "words": 73,
+      "text": "Heart: The hour just slid past the place where the names for it stop working.\nEmma: It is either very late or slightly early.\nHeart: Nicole is on the line, from somewhere the sun has already found.\nNicole: [gentle] It is morning here. The harbour is grey and the gulls are awful.\nHeart: So one of us is ahead, and one of us is behind.\nNicole: Same water, though.\nEmma: That is the whole show, honestly. Back into the music."
+    },
+    {
+      "id": "lighthouse-0012",
+      "kind": "talk-break",
+      "flavor": "a gentle back-announce of the music, like naming a passing ship",
+      "words": 76,
+      "text": "Heart: We have been running long pieces tonight, one after another, like ships in convoy.\nEmma: That last one was the slow one at the back.\nHeart: Every convoy has one. Loaded heavy, keeping its own time, arriving when it arrives.\nEmma: And nobody signals it to hurry.\nHeart: Nobody would dare. The whole point of a convoy is the slowest ship.\nEmma: [gentle] Which is a fine thing to be, some nights.\nHeart: Here comes the next one, out of the dark."
+    },
+    {
+      "id": "lighthouse-0013",
+      "kind": "talk-break",
+      "flavor": "a gentle back-announce of the music, like naming a passing ship",
+      "words": 108,
+      "text": "Heart: A long stretch of music just went past us, and I did not interrupt once.\nEmma: A personal record.\nHeart: It came in like a night ferry. Lit windows, nobody on deck, engines very low.\nEmma: You could hear where it had been. Salt in the chords.\nHeart: Nicole, you get this music out on the far side of the water.\nNicole: We get it later, actually. It arrives about the time our fishing boats leave.\nHeart: So it crosses an entire ocean and still gets to work on time.\nNicole: [chuckle] It is more reliable than the ferry.\nEmma: Everything is more reliable than the ferry.\nHeart: Then we sail on. Here is the next crossing."
+    },
+    {
+      "id": "lighthouse-0014",
+      "kind": "talk-break",
+      "flavor": "one short reflective thought for night workers, with a soft unexpected smile at the end",
+      "words": 113,
+      "text": "Heart: The night shift has its own weather, and it has nothing to do with the sky.\nEmma: Hour three is fine. Hour five is a different country with its own laws.\nHeart: You never get a visa for hour five. You simply arrive and start apologising.\nEmma: To whom?\nHeart: The room. The chair. Anyone at all. It is a very polite exhaustion.\nEmma: Meanwhile the coffee has quietly given up.\nHeart: It did what it could. It is not a miracle, it is a bean.\nEmma: A bean with a job, same as the rest of us.\nHeart: [gentle] Same as the rest of us.\nEmma: Play something kind.\nHeart: Something kind, then, all the way to the end of the watch."
+    },
+    {
+      "id": "lighthouse-0015",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for Fathom Wool, a blanket sold by weight",
+      "words": 58,
+      "text": "Heart: A word about Fathom Wool, the blanket sold by weight and never by size.\nEmma: It is the only blanket with a displacement rating.\nHeart: Each one is spun thick enough to hold a person still until morning.\nEmma: Fathom Wool cannot be lifted with one arm. Do not attempt stairs while wrapped.\nHeart: Fathom Wool. Sink slowly. And now, the music."
+    },
+    {
+      "id": "lighthouse-0016",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for the Low Lamp, a lamp that lights one chair",
+      "words": 70,
+      "text": "Heart: The Low Lamp makes one circle of light, roughly the size of a chair.\nEmma: Beyond that circle, nothing. The Low Lamp does not believe in the rest of the room.\nHeart: Read in it. Sit in it. Let the corners take care of themselves.\nEmma: The Low Lamp cannot be aimed, dimmed, or argued with. Bulb sold separately, obviously.\nHeart: The Low Lamp. One chair, well lit. Music, out in the dark part."
+    },
+    {
+      "id": "lighthouse-0017",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for Slack Water Tea, a tin with no steeping time",
+      "words": 36,
+      "text": "Heart: Slack Water Tea arrives in a plain tin, with no steeping time printed anywhere on the lid.\nHeart: Because the answer is always, until you are ready. Slack Water Tea. Steep long, and stay with the music."
+    },
+    {
+      "id": "lighthouse-0018",
+      "kind": "feature",
+      "flavor": "the Ship's Log, one line from a vessel that does not exist",
+      "words": 69,
+      "text": "Heart: Time for the Ship's Log. One line, from a vessel that does not exist.\nEmma: Tonight's entry.\nHeart: Fourth night out. Sea calm. The cook says the bread is winning.\nEmma: Winning what?\nHeart: The log does not say. The log is not interested in follow-up questions.\nEmma: That is the whole entry?\nHeart: That is the whole entry. Somewhere a cook is losing to bread.\nEmma: [chuckle] Sail on.\nHeart: Sail on. Here is the music."
+    },
+    {
+      "id": "lighthouse-0019",
+      "kind": "feature",
+      "flavor": "the forecast for a coast that does not exist",
+      "words": 73,
+      "text": "Heart: Now the forecast, for a coast that does not exist.\nEmma: My favourite unreliable service.\nHeart: Fog on the inner banks until the light comes. Wind light, from nowhere in particular.\nEmma: Sea state?\nHeart: Long slow swell. Nothing breaking. Nothing that would spill a cup.\nEmma: And the outlook?\nHeart: Unchanged, for as long as anyone can be bothered to look.\nEmma: Perfect. No notes.\nHeart: That is the forecast for a coast with no name. Music, over the banks."
+    },
+    {
+      "id": "lighthouse-0020",
+      "kind": "feature",
+      "flavor": "the Word of the Night, an old word from the water",
+      "words": 61,
+      "text": "Heart: The word tonight is dogwatch.\nEmma: It sounds like a punishment.\nHeart: A dogwatch is a short watch, split in two so the crew rotates fairly.\nEmma: So nobody always gets the terrible hours.\nHeart: Exactly. Someone thought about fairness, at sea, in the dark, and then fixed it.\nEmma: With a word. Very sea.\nHeart: Dogwatch. Take yours gently. Music, for the rest of the watch."
+    },
+    {
+      "id": "lighthouse-0021",
+      "kind": "talk-break",
+      "flavor": "one short reflective thought for night workers, with a soft unexpected smile at the end",
+      "words": 26,
+      "text": "Heart: To everyone holding a night shift, the dark is not judging your posture.\nHeart: It has seen worse. It has seen lighthouse keepers. Back to the music."
+    },
+    {
+      "id": "lighthouse-0022",
+      "kind": "talk-break",
+      "flavor": "a slow time check, spoken like a thought, with one image of light or water",
+      "words": 28,
+      "text": "Heart: Somewhere behind us the hour turned over quietly, the way a page turns in water.\nHeart: Nobody signed for it. The lamp went around anyway. Here comes more music."
+    },
+    {
+      "id": "lighthouse-0023",
+      "kind": "talk-break",
+      "flavor": "a slow time check, spoken like a thought, with one image of light or water",
+      "words": 44,
+      "text": "Heart: [gentle] The hour has a number somewhere, but the dark has changed colour twice since.\nEmma: It went from ink to something softer.\nHeart: That is our clock. Two shades in, one shade left to go.\nEmma: Then we are exactly here. Put the music back on."
+    },
+    {
+      "id": "lighthouse-0024",
+      "kind": "talk-break",
+      "flavor": "a gentle back-announce of the music, like naming a passing ship",
+      "words": 42,
+      "text": "Heart: We let that one run long. It seemed rude to interrupt a tide.\nEmma: You do not cut in on something that patient.\nHeart: Name the next one if you catch it. They go by without introductions.\nEmma: Here it comes, low on the water."
+    },
+    {
+      "id": "lighthouse-0025",
+      "kind": "talk-break",
+      "flavor": "a gentle back-announce of the music, like naming a passing ship",
+      "words": 58,
+      "text": "Heart: That one came in slow, low in the water, carrying more than it showed.\nEmma: Like a freighter, where you only ever see the top third of it.\nHeart: The rest stays under, doing the actual work of the crossing.\nEmma: Good crossing. No cargo lost.\nHeart: Another is already on the horizon with its lights low. We let it pass through."
+    },
+    {
+      "id": "lighthouse-0026",
+      "kind": "talk-break",
+      "flavor": "one short reflective thought for night workers, with a soft unexpected smile at the end",
+      "words": 68,
+      "text": "Heart: Night work rearranges a person. You start noticing which machines hum in which key.\nEmma: The freezer at my old job was in E flat. I am not proud of it.\nHeart: You should be. Somebody has to keep the inventory of small sounds.\nEmma: [chuckle] It is a short list, and I am the only one on it.\nHeart: Then the job is yours. Music, while the freezer holds its note."
+    },
+    {
+      "id": "lighthouse-0027",
+      "kind": "talk-break",
+      "flavor": "one short reflective thought for night workers, with a soft unexpected smile at the end",
+      "words": 76,
+      "text": "Heart: Somebody is awake right now because a machine needs a person nearby.\nEmma: Not doing anything. Simply being nearby.\nHeart: That is real work. The machine runs better when it is not alone.\nEmma: [chuckle] I have the same arrangement with my houseplants.\nHeart: Then you understand the job. It is mostly company, and a little vigilance.\nEmma: And a thermos. The thermos is doing half of it.\nHeart: More than half. We will keep the same kind of company with this."
+    },
+    {
+      "id": "lighthouse-0028",
+      "kind": "talk-break",
+      "flavor": "a slow time check, spoken like a thought, with one image of light or water",
+      "words": 82,
+      "text": "Heart: There is a moment in the night when the building stops settling and simply sits.\nEmma: The pipes go quiet. Even the fridge takes a break.\nHeart: We are in it now. The whole place is holding one long low note.\nEmma: Do not name the hour out loud. You will scare it off.\nHeart: [whisper] I will not. I will say only that the lamp is still turning.\nEmma: Careful. That was almost a number.\nHeart: Nearly. Music now, before I start doing arithmetic at the water."
+    },
+    {
+      "id": "lighthouse-0029",
+      "kind": "talk-break",
+      "flavor": "a slow time check, spoken like a thought, with one image of light or water",
+      "words": 102,
+      "text": "Heart: I stopped keeping the hour a while ago, and nothing came looking for me.\nEmma: That is either freedom or negligence.\nHeart: Up here they are the same job.\nEmma: The kettle still marks the quarters, though.\nHeart: The kettle is the most accurate instrument in this building.\nEmma: It has never once been wrong. Loud, opinionated, never wrong.\nHeart: It has boiled four times since the last time I looked out the window.\nEmma: So. Four kettles past the dark.\nHeart: [gentle] Four kettles past the dark. I like that better than a number.\nEmma: It will never catch on.\nHeart: Nothing good does, quickly. More music now, four kettles in."
+    },
+    {
+      "id": "lighthouse-0030",
+      "kind": "talk-break",
+      "flavor": "a gentle back-announce of the music, like naming a passing ship",
+      "words": 112,
+      "text": "Heart: Three pieces went by while we said nothing at all.\nEmma: I counted. It was four.\nHeart: Four, then. A small fleet, all heading the same direction.\nEmma: One of them had a cello in it. Low, like an engine room.\nHeart: That was the one that changed the temperature of this room.\nEmma: It did. I put a blanket on halfway through and I am not sorry.\nHeart: Nobody is asking you to be sorry. That is what the music was for.\nEmma: [gentle] Warmth, with strings attached.\nHeart: [chuckle] There it is. The one joke, right on time.\nEmma: One a night. That is the agreement.\nHeart: And it was a good one. Here comes the rest of the fleet."
+    },
+    {
+      "id": "lighthouse-0031",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for the Hourless Clock, a clock face with no numbers",
+      "words": 64,
+      "text": "Heart: The Hourless Clock has a face, two hands, and no numbers anywhere on it.\nEmma: It tells you that time is passing and declines to say how much.\nHeart: Hang it where a clock would go. Notice how little you actually needed.\nEmma: The Hourless Clock is not accepted as evidence by any employer.\nHeart: [gentle] The Hourless Clock. It has all night, and so does this music."
+    },
+    {
+      "id": "lighthouse-0032",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for Harbor Socks, wool knitted for standing still",
+      "words": 36,
+      "text": "Heart: [gentle] Harbor Socks are knitted for people who stand still, which is far harder on the feet than walking.\nHeart: Thick, grey, and honest. Sold two pairs to a box, with no returns once worn. Music now."
+    },
+    {
+      "id": "lighthouse-0033",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for Deep Water Blue, a ceiling paint in one shade",
+      "words": 90,
+      "text": "Heart: Deep Water Blue is a ceiling paint, and it comes in exactly one shade.\nEmma: The colour of the sea at the depth where the light gives up.\nHeart: Nicole painted hers with it. Nicole, an honest word.\nNicole: I have not seen my ceiling since. I do not miss it at all.\nHeart: Any regrets?\nNicole: One. I did the hallway too. Now the hallway is a harbour.\nEmma: One coat covers. Two is a commitment. Three and we cannot help you.\nHeart: Deep Water Blue. Look up, and go under. Music, all the way down."
+    },
+    {
+      "id": "lighthouse-0034",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for Ballast, a weighted pillow of river stones",
+      "words": 68,
+      "text": "Heart: Ballast is a pillow filled with small smooth stones from a river nobody named.\nEmma: It weighs what a cat weighs, and it does not move in the night.\nHeart: You put it on your chest, and something in you decides the boat is steady.\nEmma: Ballast is not a medical device. Do not place Ballast on a cat.\nHeart: [gentle] Ballast. Heavy, in the good way. Let the music carry on."
+    },
+    {
+      "id": "lighthouse-0035",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for the Watch Chair, built for sitting up at night",
+      "words": 86,
+      "text": "Heart: The Watch Chair was built for sitting up, not for falling asleep in.\nEmma: A subtle difference your spine understands immediately.\nHeart: The back is straight. The arms are wide enough for a cup and a book.\nEmma: And there is a small shelf for the thing you keep checking.\nHeart: One chair, one lamp, one long night. It has done this before.\nEmma: The Watch Chair is assembled with a tool that is not included. Good luck.\nHeart: The Watch Chair. Sit up, stay warm, and let this next piece play."
+    },
+    {
+      "id": "lighthouse-0036",
+      "kind": "feature",
+      "flavor": "the Lost and Found, things the water gave back",
+      "words": 90,
+      "text": "Heart: The Lost and Found. Things the water gave back this week.\nEmma: One glove. Left hand. It is always the left hand.\nHeart: One bottle, sealed, with sand inside and nothing written at all.\nEmma: A message with the message removed. Very modern.\nHeart: One wooden spoon, worn thin on one side. Somebody stirred with that for years.\nEmma: And one shoe, which we are not going to describe further.\nHeart: The sea keeps what it likes and returns the rest. Claims at the door.\nEmma: Nobody ever claims.\nHeart: Nobody ever does. On with the music, then."
+    },
+    {
+      "id": "lighthouse-0037",
+      "kind": "feature",
+      "flavor": "the sounding, measuring how deep the night is",
+      "words": 59,
+      "text": "Heart: Time for the sounding. We drop the line and see how deep the night is.\nEmma: Standing by.\nHeart: [gentle] Twelve fathoms. No bottom found.\nEmma: Twelve, and still nothing?\nHeart: Thirty. Still nothing. The line is simply going.\nEmma: At some point that is not a measurement, it is a mood.\nHeart: [chuckle] No bottom found. Log it, and let the music run on."
+    },
+    {
+      "id": "lighthouse-0038",
+      "kind": "feature",
+      "flavor": "the Keeper's Inventory, what a lamp room actually holds",
+      "words": 97,
+      "text": "Heart: The Keeper's Inventory. What is actually in a lamp room, item by item.\nEmma: Go.\nHeart: One brass oil can. One cloth, only for the glass. One chair with a dent.\nEmma: The dent is doing a lot of work in that sentence.\nHeart: Nicole keeps a lamp room too, on the far side of the water.\nNicole: One kettle. One radio. One window that has been painted shut for decades.\nHeart: Anything else?\nNicole: A list of everything I meant to fix. That is also an inventory.\nEmma: [gentle] Every lamp room has one of those.\nHeart: Every single one. Back out to the music."
+    },
+    {
+      "id": "lighthouse-0039",
+      "kind": "feature",
+      "flavor": "Distances, one thing and how far away it is",
+      "words": 73,
+      "text": "Heart: Distances. One thing, and how far away it is.\nEmma: Which thing?\nHeart: The nearest other light on this water is eleven miles out.\nEmma: Can you see it?\nHeart: On a clear night, yes. It blinks in a different rhythm than ours.\nEmma: Do you ever signal it?\nHeart: No. We keep our own time and let it keep its own.\nEmma: That is either very peaceful or slightly sad.\nHeart: Both, probably. Music, across eleven miles of dark water."
+    },
+    {
+      "id": "lighthouse-0040",
+      "kind": "feature",
+      "flavor": "the Slow Question, one question with no hurry on the answer",
+      "words": 79,
+      "text": "Heart: The Slow Question. One question, and no hurry at all on the answer.\nEmma: Ready.\nHeart: What is the last thing you do before sleep that nobody ever taught you?\nEmma: I check a door I already checked. Twice.\nHeart: Same. Everyone has one. A small ceremony that nobody wrote down.\nEmma: Mine is the door. What is yours?\nHeart: I look out at the water once, for no reason at all.\nEmma: There is a reason.\nHeart: Probably. Think about yours while this next one plays."
+    }
+  ]
+}

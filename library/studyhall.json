@@ -1,0 +1,288 @@
+{
+  "station": "studyhall",
+  "version": 1,
+  "generated": "2026-09-12",
+  "writer": "claude-opus-5",
+  "segments": [
+    {
+      "id": "studyhall-0001",
+      "kind": "station-id",
+      "flavor": "the sign on the door",
+      "words": 28,
+      "text": "Ivy: [whisper] Study Hall. Open all night. The lamps are on and nobody is going to bother you.\nIvy: Stay as long as you need. The record is still going."
+    },
+    {
+      "id": "studyhall-0002",
+      "kind": "station-id",
+      "flavor": "the sign on the door, shorter",
+      "words": 17,
+      "text": "Ivy: [gentle] Study Hall, all night, every night. Put the chair back when you leave. Here's the music."
+    },
+    {
+      "id": "studyhall-0003",
+      "kind": "station-id",
+      "flavor": "the whole handbook",
+      "words": 25,
+      "text": "Ivy: This is Study Hall. Two rules. Keep it quiet, and finish the sentence you started.\nIvy: [whisper] That is the whole handbook. Back to the record."
+    },
+    {
+      "id": "studyhall-0004",
+      "kind": "station-id",
+      "flavor": "the station id with a forecast under it",
+      "words": 30,
+      "text": "June: [gentle] Study Hall. Marlow Bay tonight is fog, mostly, with a long calm over the harbor.\nIvy: And inside, warm. Nothing due for hours.\nJune: Nothing at all. Roll the next one."
+    },
+    {
+      "id": "studyhall-0005",
+      "kind": "talk-break",
+      "flavor": "Ivy whispers one reminder — the water",
+      "words": 32,
+      "text": "Ivy: [whisper] One reminder, then I will be quiet. The glass beside the mug is still full.\nIvy: Drink half of it. This next one is long, and it will wait. Here it comes."
+    },
+    {
+      "id": "studyhall-0006",
+      "kind": "talk-break",
+      "flavor": "June reads the overnight forecast for Marlow Bay",
+      "words": 40,
+      "text": "June: [gentle] Marlow Bay overnight. Fog on the harbor, thick enough to lean on, thinning by the causeway.\nIvy: And in the reading room?\nJune: Mild. Still. A ninety percent chance of somebody falling asleep on the long table. Back to the music."
+    },
+    {
+      "id": "studyhall-0007",
+      "kind": "talk-break",
+      "flavor": "back-announce like a book placed gently back on the shelf",
+      "words": 58,
+      "text": "Ivy: [whisper] That was the one with the rain inside it. I am putting it back on the shelf now.\nJune: Spine out?\nIvy: Spine out. Third shelf, where the tall books live.\nJune: [gentle] Good. Take the next one down gently; the cover is loose and the ending is soft.\nIvy: It is already open at the right page. Listen with me."
+    },
+    {
+      "id": "studyhall-0008",
+      "kind": "talk-break",
+      "flavor": "a library object the station would sell you a better one of",
+      "words": 81,
+      "text": "Ivy: The third desk by the window wobbles. It has wobbled since before either of us worked nights.\nJune: Someone folded a library card under one leg.\nIvy: A folded card under the short leg. It held for a week, then the card gave up.\nJune: [gentle] We could buy a desk that does not move.\nIvy: We could. But then what would we talk about at four in the morning.\nJune: Fair. Nothing changes tonight. The next song does not wobble at all; let it in."
+    },
+    {
+      "id": "studyhall-0009",
+      "kind": "talk-break",
+      "flavor": "Theo whispers in about the essay due at dawn",
+      "words": 115,
+      "text": "Theo: [whisper] Ivy. It is Theo. I am under the stairs in the stacks, whispering, because someone shushed me.\nIvy: We know the one. That stairwell has heard a lot of essays. How long do you have?\nTheo: Six hours. Eleven pages. Zero sentences. I have a title and a lot of courage.\nIvy: Write this down. The first sentence only has to be true, not good.\nJune: [gentle] And it can be short. Shorter than a forecast, and a forecast is only two sentences.\nTheo: True, not good. Short. Okay. Okay. I can do that.\nIvy: Good. Put the phone down and do not call back until page twelve.\nJune: [whisper] Go gently, Theo. We will keep the music on for you."
+    },
+    {
+      "id": "studyhall-0010",
+      "kind": "talk-break",
+      "flavor": "Ivy whispers one reminder — the shoulders",
+      "words": 35,
+      "text": "Ivy: [whisper] Posture, and then I will leave it alone. The shoulders have climbed toward the ears again.\nIvy: Let them fall, unclench the jaw, drop the elbows, and give the next four minutes to the piano."
+    },
+    {
+      "id": "studyhall-0011",
+      "kind": "talk-break",
+      "flavor": "June reads the overnight forecast for Marlow Bay",
+      "words": 63,
+      "text": "June: [gentle] Overnight in Marlow Bay. A light rain on the fish market, moving slowly toward the canal.\nIvy: Slowly how?\nJune: Slower than the rain wants. It will arrive by morning and apologize for the noise.\nIvy: [whisper] The harbor?\nJune: Flat as a desk. Nothing moving out there except the bell on the breakwater.\nIvy: Then we are clear until dawn. Something with rain in it, please."
+    },
+    {
+      "id": "studyhall-0012",
+      "kind": "talk-break",
+      "flavor": "back-announce like a book placed gently back on the shelf",
+      "words": 74,
+      "text": "Ivy: That one had tape hiss all the way under it, like a radiator in another room.\nJune: I thought that was our radiator.\nIvy: [chuckle] It might have been both. Either way, it is going back on the shelf now.\nJune: Careful with the corner.\nIvy: Always. Down, flat, spine aligned, and the shelf will never know that it left the room.\nJune: [gentle] Beautiful. Now pull something with a little dust on it and start the next hour."
+    },
+    {
+      "id": "studyhall-0013",
+      "kind": "talk-break",
+      "flavor": "a library object the station would sell you a better one of",
+      "words": 122,
+      "text": "Ivy: There are nine coat hooks by the door. Eight of them hold nothing at all.\nJune: And the ninth?\nIvy: A grey scarf. It has hung there long enough to be considered a fixture.\nJune: [gentle] We could put a small sign under it. Something kind.\nIvy: What would the sign say?\nJune: It would say, we are not asking for it back, we are only curious.\nIvy: [whisper] That is too many words for a sign, and exactly right for a scarf.\nJune: [gentle] It is warm, at least. A scarf on a hook is still a scarf.\nIvy: Nobody claims a scarf in the dark. They walk past it every night.\nJune: We will write it in the morning. For now, the music, before either of us gets sentimental."
+    },
+    {
+      "id": "studyhall-0014",
+      "kind": "talk-break",
+      "flavor": "Theo whispers in about the essay due at dawn",
+      "words": 36,
+      "text": "Theo: [whisper] It is Theo. The essay is due at dawn and I have written the title.\nIvy: How is the title?\nTheo: ... it is bold.\nIvy: A bold title is a promise. Go and keep it. Music, quietly."
+    },
+    {
+      "id": "studyhall-0015",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a library product — a chair that does not creak",
+      "words": 80,
+      "text": "Ivy: [gentle] Study Hall is brought to you tonight by the Hush Chair, from the Marlow Bay Chair Company.\nJune: One chair. Four legs. No opinion.\nIvy: The Hush Chair does not creak, does not roll, and does not wake the person beside you.\nJune: It arrives flat and stays flat until assembled by someone patient.\nIvy: The Hush Chair. Sit in it for six hours and feel almost nothing.\nJune: [whisper] Chair not responsible for what you do while sitting in it. The music, please."
+    },
+    {
+      "id": "studyhall-0016",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a library product — a lamp with one setting",
+      "words": 82,
+      "text": "June: [gentle] A word about the Third Shelf Lamp, from the people who make almost nothing else.\nIvy: One switch. One brightness. The correct one.\nJune: It does not dim, pulse, change colour, or ask anything of the room.\nIvy: [whisper] It makes a small circle of light the size of an open book.\nJune: The Third Shelf Lamp. Warm, steady, and entirely uninterested in your mood.\nIvy: Sold in libraries, mostly to librarians.\nJune: [whisper] Bulb not included, shade sold separately, lamp does not do homework. Music now."
+    },
+    {
+      "id": "studyhall-0017",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a library product — a tea that stays warm",
+      "words": 82,
+      "text": "Ivy: [gentle] Tonight's break is supported by the Nightwatch Flask. Steel outside. Steel inside. Nothing to argue with.\nJune: It holds one litre of anything hot for eleven hours.\nIvy: Eleven hours is longer than any night in this building, and we have measured that.\nJune: The lid seals without a sound, which matters here more than anywhere.\nIvy: The Nightwatch Flask. Warm at four in the morning, warm at six.\nJune: [whisper] Flask cannot make you drink from it. That part remains yours. Here comes the music."
+    },
+    {
+      "id": "studyhall-0018",
+      "kind": "feature",
+      "flavor": "the book nobody has returned",
+      "words": 77,
+      "text": "Ivy: [gentle] Library notice. The overdue shelf has one permanent resident, and we speak of it kindly.\nJune: Focus, Finally. Borrowed once. Never returned.\nIvy: It has been out so long that the card in the back is a historical document.\nJune: [gentle] We are not angry.\nIvy: We are not angry. We would simply like to know whether it worked.\nJune: Did the focus arrive?\nIvy: [whisper] Did it finally? Leave it on the step if so. No questions. On with the record."
+    },
+    {
+      "id": "studyhall-0019",
+      "kind": "feature",
+      "flavor": "Ivy's cold tea, reported hourly",
+      "words": 82,
+      "text": "June: [gentle] It is time for the tea report. Ivy, what is the temperature of the mug?\nIvy: Room.\nJune: It was hot at the top of the hour.\nIvy: It was hot at the top of the hour. Then I said one sentence about fog.\nJune: [chuckle] One sentence.\nIvy: One long sentence. The tea has never survived a forecast, not once, in all these years.\nJune: I will make you another one.\nIvy: You will, and it will go cold, and that is the arrangement. Play something warm."
+    },
+    {
+      "id": "studyhall-0020",
+      "kind": "feature",
+      "flavor": "June's forecast for the reading room",
+      "words": 91,
+      "text": "June: [gentle] And now the indoor forecast, which we take as seriously as the outdoor one.\nIvy: The reading room, floor by floor.\nJune: Ground floor, warm, with a draught near the door that nobody has ever located.\nIvy: [whisper] I have looked. It comes from inside the building.\nJune: Second floor, steady. Third floor, colder, with a seventy percent chance of a borrowed cardigan.\nIvy: And the archives?\nJune: [gentle] The archives are their own country. Bring a coat and a reason to be there.\nIvy: That concludes the indoor forecast. The next song is a warm one."
+    },
+    {
+      "id": "studyhall-0021",
+      "kind": "talk-break",
+      "flavor": "Ivy whispers one reminder — save the file",
+      "words": 64,
+      "text": "Ivy: [whisper] Save the file. Not at the end of the paragraph. Now, while I am talking.\nJune: Did you save yours?\nIvy: I save mine every eleven seconds. It is not a system, it is a condition.\nJune: [gentle] A tidy condition. My files are named with numbers that stopped meaning anything long ago.\nIvy: The tidiest. There, it is saved, and nothing was lost tonight. Onward, softly."
+    },
+    {
+      "id": "studyhall-0022",
+      "kind": "talk-break",
+      "flavor": "June reads the overnight forecast for Marlow Bay",
+      "words": 74,
+      "text": "June: [gentle] The overnight numbers for Marlow Bay. Nine degrees at the waterfront, seven by the archive doors.\nIvy: Seven. That explains the cardigan.\nJune: It explains a great deal. The archives are colder than the weather outside them.\nIvy: [whisper] They keep the paper happy, and the paper has never once thanked anybody for it.\nJune: Paper never does. Winds light, harbor quiet, a long grey calm until sunrise.\nIvy: Perfect weather for a slow song. Here is one."
+    },
+    {
+      "id": "studyhall-0023",
+      "kind": "talk-break",
+      "flavor": "back-announce like a book placed gently back on the shelf",
+      "words": 104,
+      "text": "Ivy: Three songs in a row and not one of them raised its voice. That was the point.\nJune: The middle one had a door closing in it.\nIvy: [whisper] Somebody recorded that in a room with a door. I think about that often.\nJune: You think about it every time we play it.\nIvy: Every time. Now the three of them go back on the shelf, one at a time, in order.\nJune: [gentle] You could put them back in any order. Nobody is checking the shelf tonight.\nIvy: I am checking the shelf tonight.\nJune: Of course. Take your time; the next set is already leaning against the desk, waiting."
+    },
+    {
+      "id": "studyhall-0024",
+      "kind": "talk-break",
+      "flavor": "a library object the station would sell you a better one of",
+      "words": 31,
+      "text": "Ivy: [whisper] The fountain on the second floor runs warm for eleven seconds, then turns cold and honest.\nIvy: Count to eleven. It is worth the wait, and so is this next one."
+    },
+    {
+      "id": "studyhall-0025",
+      "kind": "talk-break",
+      "flavor": "Theo whispers in about the essay due at dawn",
+      "words": 49,
+      "text": "Theo: [whisper] Ivy. I did a bad thing. I wrote the conclusion before anything else.\nIvy: That is not a bad thing. That is a map.\nTheo: It is four sentences and they are all very confident.\nIvy: Then follow them backwards until you meet the beginning. Go. The music will cover you."
+    },
+    {
+      "id": "studyhall-0026",
+      "kind": "talk-break",
+      "flavor": "Ivy whispers one reminder — stand up",
+      "words": 76,
+      "text": "Ivy: [whisper] Stand up. Not for long. Just long enough for the chair to forget your shape.\nJune: How far is far enough?\nIvy: To the window and back. The window is eleven steps from most desks in here.\nJune: [gentle] And what is at the window?\nIvy: Nothing. Fog, a parked car, a light on in one other building.\nJune: Somebody else is up.\nIvy: Somebody else is always up. Sit down again slowly; the next song starts on the way back."
+    },
+    {
+      "id": "studyhall-0027",
+      "kind": "talk-break",
+      "flavor": "June reads the overnight forecast for Marlow Bay",
+      "words": 100,
+      "text": "June: [gentle] The full overnight for Marlow Bay, since we have a moment and nobody is in a hurry.\nIvy: Take as long as you like.\nJune: Fog on the water until three. Then a thin wind from the east, tidying it away.\nIvy: [whisper] Tidying. I like that.\nJune: The ferry does not run any more, so the harbor has nothing to be woken by.\nIvy: Only the bell.\nJune: Only the bell, and it is polite about it. Inland, mild. The hill district stays dry.\nIvy: And the reading room?\nJune: [gentle] Warm, quiet, one lamp too bright in the corner. Twelve more minutes of music now."
+    },
+    {
+      "id": "studyhall-0028",
+      "kind": "talk-break",
+      "flavor": "back-announce like a book placed gently back on the shelf",
+      "words": 30,
+      "text": "Ivy: [whisper] That last one goes back face up, because the cover is nicer than the title.\nIvy: There. Shelved. Now something with brushes on the drums and nowhere particular to be."
+    },
+    {
+      "id": "studyhall-0029",
+      "kind": "talk-break",
+      "flavor": "a library object the station would sell you a better one of",
+      "words": 33,
+      "text": "Ivy: [whisper] The radiator under the north window sings one note all night, and it is slightly flat.\nIvy: We have stopped tuning around it. Consider it the oldest member of tonight's band. Play on."
+    },
+    {
+      "id": "studyhall-0030",
+      "kind": "talk-break",
+      "flavor": "Theo whispers in about the essay due at dawn",
+      "words": 64,
+      "text": "Theo: [whisper] I have read the same paragraph nine times. It is a fine paragraph. It will not go in.\nIvy: Nine is the number where you stop. Close the book.\nTheo: And then what?\nJune: [gentle] And then you say the paragraph out loud, badly, in your own words.\nTheo: Badly is allowed?\nIvy: Badly is the door. Go on, Theo. Music for the walk back to the table."
+    },
+    {
+      "id": "studyhall-0031",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a library product — wool socks for the stacks",
+      "words": 90,
+      "text": "June: [gentle] A short word from Cathedral Wool, makers of the Stack Sock, in grey and darker grey.\nIvy: Thick enough for a cold floor. Quiet enough for the third floor after midnight.\nJune: Wear them under boots, or instead of boots, if the night has gone that way.\nIvy: [whisper] No one can hear you cross a reading room in Stack Socks. Nobody ever has.\nJune: Cathedral Wool. Warm feet, clear head, no announcement.\nIvy: Sold in pairs, which is generous of them.\nJune: [whisper] Socks do not improve spelling. Results vary. Something slow next, please."
+    },
+    {
+      "id": "studyhall-0032",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a library product — a pen with nothing to click",
+      "words": 77,
+      "text": "Ivy: [gentle] Study Hall is quiet tonight thanks to the Vesper Pen, the pen with nothing to click.\nJune: The cap comes off. That is the entire mechanism.\nIvy: No spring. No button. No small plastic sound at the end of every thought.\nJune: Ink is black, blue, or the blue that looks black under a lamp.\nIvy: The Vesper Pen. It will never give you away.\nJune: [whisper] Pen writes what it is told. Cap sold separately after you lose it. Music."
+    },
+    {
+      "id": "studyhall-0033",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a library product — a door that closes slowly",
+      "words": 94,
+      "text": "June: [gentle] The Marlow Bay Hinge Company presents the Slow Return, a door closer for serious buildings.\nIvy: A door with the Slow Return takes nine seconds to close and makes no announcement.\nJune: Nine seconds is long enough for a coat, a bag, and an armful of books.\nIvy: [whisper] We have one on the east stairwell. It has never startled anybody.\nJune: The Slow Return. Because a door should end a sentence, not interrupt one.\nIvy: Installation requires a screwdriver and a friend.\nJune: [whisper] Company not liable for doors held open by furniture. Let the song back in."
+    },
+    {
+      "id": "studyhall-0034",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a library product — a keyboard nobody can hear",
+      "words": 77,
+      "text": "Ivy: [gentle] The Featherstone Keyboard. Every key travels two millimetres and arrives without telling the room.\nJune: We tested it at the long table. Nobody looked up. Nobody ever looks up.\nIvy: The space bar is the quietest part, which is the part that gets hit hardest.\nJune: [gentle] It is beige. They did not have to do that, and yet.\nIvy: The Featherstone Keyboard. Type all night. Wake nobody.\nJune: [whisper] Keyboard does not improve the writing. Nothing does. Something gentle next."
+    },
+    {
+      "id": "studyhall-0035",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a library product — a clock with no tick",
+      "words": 85,
+      "text": "June: [gentle] Now a word about the Quiet Hour, a wall clock with no tick whatsoever.\nIvy: The hands move. They simply do not comment on it.\nJune: Available in white, in cream, and in the shade libraries choose when nobody is watching.\nIvy: [whisper] It will still tell you it is late. It will just be kind about it.\nJune: The Quiet Hour. Time, without the small noise.\nIvy: Batteries last a year, which feels like a promise.\nJune: [whisper] Clock does not slow time. We asked. The next song, gently."
+    },
+    {
+      "id": "studyhall-0036",
+      "kind": "feature",
+      "flavor": "the lost and found drawer, read aloud",
+      "words": 88,
+      "text": "Ivy: [gentle] Time for the drawer. The lost and found, read aloud, as we do.\nJune: One glove. Left hand. Good condition. Slightly hopeful.\nIvy: One set of keys with a wooden fish on the ring.\nJune: [gentle] A pressed leaf inside a book about tax law.\nIvy: Somebody was having a much better time than the book suggests.\nJune: One umbrella, dry, which means it has been here a while.\nIvy: [whisper] And a single earring that has outlasted three carpets.\nJune: The drawer stays open until dawn. Until then, music, and plenty of it."
+    },
+    {
+      "id": "studyhall-0037",
+      "kind": "feature",
+      "flavor": "the stacks report",
+      "words": 96,
+      "text": "Ivy: [gentle] The stacks report, for anybody who has to go down there tonight.\nJune: Aisle four has the light that hums.\nIvy: Aisle seven has the light that does not come on at all until you give up.\nJune: [gentle] Then it comes on.\nIvy: Then it comes on, proudly, as if it had been working the whole time.\nJune: Aisle nine is cold. Aisle ten is colder and smells like old paper and rain.\nIvy: [whisper] Aisle ten is my favourite place in this building.\nJune: Of course it is. Take a lamp, take your time, and take this song with you."
+    },
+    {
+      "id": "studyhall-0038",
+      "kind": "feature",
+      "flavor": "what the returns desk found inside the books",
+      "words": 94,
+      "text": "June: [gentle] The returns desk collected four books tonight, and three of them had something inside.\nIvy: A bus ticket, folded twice, used as a bookmark at page two hundred.\nJune: They got to page two hundred. That is a finished book, nearly.\nIvy: [gentle] A shopping list in the second one. Bread, batteries, something crossed out twice.\nJune: And the third?\nIvy: A note that says, keep going. No name. No date. Just that.\nJune: [gentle] We put it back where we found it, obviously.\nIvy: Page ninety. Somebody will need it. Here is a song that agrees with the note."
+    },
+    {
+      "id": "studyhall-0039",
+      "kind": "feature",
+      "flavor": "the night shelf recommendation",
+      "words": 81,
+      "text": "Ivy: [whisper] The night shelf. One book, recommended quietly, with no obligation whatsoever.\nJune: What is on it?\nIvy: A thin book about lighthouses. Nobody has opened it since the shelf was built.\nJune: [gentle] Is it good?\nIvy: I have no idea. It has an excellent first page and I stopped there, twice.\nJune: That is a recommendation of a kind.\nIvy: [whisper] It is the only kind we give. It will be there tomorrow, and after.\nJune: Something with a lighthouse in it now, probably by accident."
+    },
+    {
+      "id": "studyhall-0040",
+      "kind": "feature",
+      "flavor": "the hourly count of lamps still on",
+      "words": 87,
+      "text": "June: [gentle] Ivy does a count at this hour. She has done it for years.\nIvy: Fourteen lamps on. Nine desks in use. One kettle, cooling.\nJune: The kettle is not a person.\nIvy: [whisper] The kettle is doing more work than most people in this building tonight.\nJune: Fourteen is a good number. It was eight last week at this hour.\nIvy: Eight is a sad number. Fourteen is a room with something happening in it.\nJune: [gentle] Quietly happening.\nIvy: The best kind. That is the count. The music takes it from here."
+    }
+  ]
+}

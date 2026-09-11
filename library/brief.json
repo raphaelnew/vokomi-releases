@@ -1,0 +1,288 @@
+{
+  "station": "brief",
+  "version": 1,
+  "generated": "2026-09-12",
+  "writer": "claude-opus-5",
+  "segments": [
+    {
+      "id": "brief-0001",
+      "kind": "station-id",
+      "flavor": "the station ID, landing like the station's signature",
+      "words": 15,
+      "text": "Daniel: You are with The Brief. Calm news, no noise, and more music in a moment."
+    },
+    {
+      "id": "brief-0002",
+      "kind": "station-id",
+      "flavor": "the station ID, landing like the station's signature",
+      "words": 21,
+      "text": "Daniel: The Brief runs on two simple ideas. Say the thing plainly.\nDaniel: Then stop talking and let the piano finish its sentence."
+    },
+    {
+      "id": "brief-0003",
+      "kind": "station-id",
+      "flavor": "the station ID, landing like the station's signature",
+      "words": 22,
+      "text": "Emma: The Brief, where the headlines are short and the saxophone solos are not.\nEmma: Stay exactly where you are. Here comes another one."
+    },
+    {
+      "id": "brief-0004",
+      "kind": "station-id",
+      "flavor": "the station ID, landing like the station's signature",
+      "words": 26,
+      "text": "Daniel: The Brief. Calm news for people with somewhere to be.\nEmma: And for the people going nowhere at all. No judgement here.\nDaniel: Back to the quiet stuff."
+    },
+    {
+      "id": "brief-0005",
+      "kind": "talk-break",
+      "flavor": "a calm time check and a one-line tease of what the rest of the hour holds",
+      "words": 28,
+      "text": "Daniel: It is a quarter past the hour, and nothing has gone wrong so far.\nDaniel: Ahead of us: one short word, one small correction. But first, the long song."
+    },
+    {
+      "id": "brief-0006",
+      "kind": "talk-break",
+      "flavor": "back-announce the music stream in one warm sentence, then a dry observation from Emma",
+      "words": 34,
+      "text": "Daniel: That was a piano trio taking its time, and taking ours along with it.\nEmma: Nobody in that band was in a hurry. Nobody in that band has a boss.\nDaniel: More of the same, gladly."
+    },
+    {
+      "id": "brief-0007",
+      "kind": "talk-break",
+      "flavor": "a short 'and finally' style light story, invented but plausible, clearly framed as the hosts' own anecdote",
+      "words": 28,
+      "text": "Emma: And finally: my neighbour returned a ladder I lent him two summers ago.\nDaniel: That is a happy ending.\nEmma: He had painted it a different colour. Anyway, the music."
+    },
+    {
+      "id": "brief-0008",
+      "kind": "talk-break",
+      "flavor": "a measured public-service style reminder with one dry twist",
+      "words": 27,
+      "text": "Daniel: A reminder from the desk. Drink a glass of water before the next coffee.\nDaniel: The body is mostly water. Coffee knows that, and the music will wait."
+    },
+    {
+      "id": "brief-0009",
+      "kind": "talk-break",
+      "flavor": "a calm time check and a one-line tease of what the rest of the hour holds",
+      "words": 34,
+      "text": "Daniel: It is half past the hour here on The Brief, and the desk is calm about that.\nDaniel: Coming up in this half hour: a forecast, a small apology, and a great deal of saxophone."
+    },
+    {
+      "id": "brief-0010",
+      "kind": "talk-break",
+      "flavor": "back-announce the music stream in one warm sentence, then a dry observation from Emma",
+      "words": 42,
+      "text": "Daniel: That last set came to us from a saxophone in no particular hurry at all.\nEmma: It sounded like an apology that went on slightly too long, and I loved it.\nDaniel: We will let the horn player explain himself after this next one."
+    },
+    {
+      "id": "brief-0011",
+      "kind": "talk-break",
+      "flavor": "a short 'and finally' style light story, invented but plausible, clearly framed as the hosts' own anecdote",
+      "words": 47,
+      "text": "Daniel: And finally: I found a library book in a coat I had not worn since spring.\nEmma: How late is it, exactly?\nDaniel: The card inside says it was due at an address I left years ago.\nEmma: Return it anyway, quietly, and let this next song cover the sound."
+    },
+    {
+      "id": "brief-0012",
+      "kind": "talk-break",
+      "flavor": "a measured public-service style reminder with one dry twist",
+      "words": 32,
+      "text": "Daniel: A measured reminder from the desk: the smoke alarm in the hallway runs on a battery.\nDaniel: That battery waits until the exact middle of the night to mention it. Now, some piano."
+    },
+    {
+      "id": "brief-0013",
+      "kind": "talk-break",
+      "flavor": "a calm time check and a one-line tease of what the rest of the hour holds",
+      "words": 56,
+      "text": "Daniel: Ten minutes to the top of the hour, and The Brief is where you left it.\nEmma: Which is here. Still here. Suspiciously here.\nDaniel: In these ten minutes: the word of the hour, and one useful fact about rain.\nEmma: Before all of that, three more minutes of a man playing a double bass.\nDaniel: Take it away, sir."
+    },
+    {
+      "id": "brief-0014",
+      "kind": "talk-break",
+      "flavor": "back-announce the music stream in one warm sentence, then a dry observation from Emma",
+      "words": 58,
+      "text": "Daniel: That was a long, slow piece of music, and it outlasted my tea entirely.\nEmma: Your tea had a considerable head start and still lost.\nDaniel: The music we lean on here is mostly brushes, rarely sticks, and never shouting.\nEmma: A drummer holding a brush is a drummer who has made peace with something.\nDaniel: More of that peace, right now."
+    },
+    {
+      "id": "brief-0015",
+      "kind": "talk-break",
+      "flavor": "a short 'and finally' style light story, invented but plausible, clearly framed as the hosts' own anecdote",
+      "words": 61,
+      "text": "Emma: And finally, from my own household: my grandmother labelled every key in the drawer.\nDaniel: Sensible.\nEmma: Every single label said the same two words. Not this one.\nDaniel: So the drawer was a complete map of everything it could not open.\nEmma: She called that honest work, and she was never once locked out.\nDaniel: Honest work, and a good place to start the music."
+    },
+    {
+      "id": "brief-0016",
+      "kind": "talk-break",
+      "flavor": "a measured public-service style reminder with one dry twist",
+      "words": 58,
+      "text": "Daniel: A public service note from the desk, and this one is genuinely useful.\nEmma: Those are my favourite kind. Rare, but my favourite.\nDaniel: Write the name on the box before you tape the box shut.\nEmma: Otherwise the box becomes a small mystery you have to open twice.\nDaniel: A mystery with your own winter coat inside it. Now, the music."
+    },
+    {
+      "id": "brief-0017",
+      "kind": "talk-break",
+      "flavor": "a calm time check and a one-line tease of what the rest of the hour holds",
+      "words": 83,
+      "text": "Daniel: It is coming up on the top of the hour here at The Brief.\nEmma: And Sky is somewhere outside the building, which she insists counts as a location.\nSky: [breathless] It counts. It has weather, a bench, and a man feeding three birds.\nDaniel: Ahead in the next hour: a forecast, the word of the hour, and Sky recovering.\nSky: The recovery takes longer than the reporting. That is simply the job.\nEmma: Take as long as you need. We have a piano to get through first."
+    },
+    {
+      "id": "brief-0018",
+      "kind": "talk-break",
+      "flavor": "back-announce the music stream in one warm sentence, then a dry observation from Emma",
+      "words": 77,
+      "text": "Daniel: That was a quartet who clearly rehearsed in a room with a low ceiling.\nEmma: You can hear the ceiling. That is not a criticism.\nDaniel: The music on this station is chosen for one quality above all the others.\nEmma: Volume?\nDaniel: Restraint. Nobody here has ever played a long solo to prove a point.\nEmma: One trumpet nearly did. We faded him out with great affection.\nDaniel: Stay for this next one. It is four minutes of a man being careful."
+    },
+    {
+      "id": "brief-0019",
+      "kind": "talk-break",
+      "flavor": "a short 'and finally' style light story, invented but plausible, clearly framed as the hosts' own anecdote",
+      "words": 80,
+      "text": "Daniel: And finally, a small story from my own family, and it is entirely true.\nEmma: That is how every invented story begins.\nDaniel: My uncle kept a folded map of a town he never once visited.\nEmma: Why?\nDaniel: He liked knowing the way there. He folded it so often it came apart.\nEmma: It came apart along the roads. That is almost poetry, Daniel.\nDaniel: It came apart along the creases, which is worse and somehow better.\nEmma: Beautiful. Nobody say another word. Let it play."
+    },
+    {
+      "id": "brief-0020",
+      "kind": "talk-break",
+      "flavor": "a measured public-service style reminder with one dry twist",
+      "words": 82,
+      "text": "Daniel: The desk has a reminder, and the desk wants it on the record.\nEmma: The desk is unusually formal about this.\nDaniel: Stand up. Roll the shoulders back once. Then sit down again, a little lower.\nEmma: Lower?\nDaniel: The chair has been winning all afternoon. The shoulders would like a rematch.\nEmma: Mine have conceded. They sit exactly where the chair tells them to sit.\nDaniel: This is the most exercise The Brief has ever recommended, and the last.\nEmma: Let the music do the rest of it."
+    },
+    {
+      "id": "brief-0021",
+      "kind": "talk-break",
+      "flavor": "a calm time check and a one-line tease of what the rest of the hour holds",
+      "words": 103,
+      "text": "Daniel: It is nine minutes past the hour, and I will say that again shortly.\nEmma: Why shortly?\nDaniel: Because the time changes. It is the only part of the hour that does.\nEmma: That is the most public radio sentence ever spoken inside this building.\nDaniel: Ahead in this hour: one forecast, one correction, and one advertisement we stand behind.\nEmma: We stand near it. Behind is a strong word, Daniel.\nDaniel: We stand within clear sight of it. After that, a great deal of piano.\nEmma: A great deal. Bring a chair and something warm to drink.\nDaniel: Nine minutes past, and now ten. Told you. Here is the piano."
+    },
+    {
+      "id": "brief-0022",
+      "kind": "talk-break",
+      "flavor": "back-announce the music stream in one warm sentence, then a dry observation from Emma",
+      "words": 112,
+      "text": "Daniel: That was thirty minutes of music without a single raised voice anywhere in it.\nEmma: Thirty minutes, no shouting. Try that in any other room.\nDaniel: Sky listened to the entire set outside, on a bench, wearing headphones.\nSky: [breathless] I did. I also ran for the bus during the slow part.\nEmma: You ran during the slow part. That is the wrong part to run in.\nSky: The bus does not slow down for a double bass. I have asked.\nDaniel: The double bass is unmoved by public transport. That is its entire character.\nEmma: Unmoved, unhurried, unbothered. I would like to be a double bass.\nDaniel: Then stand very still, and let this next one hold you up."
+    },
+    {
+      "id": "brief-0023",
+      "kind": "talk-break",
+      "flavor": "a short 'and finally' style light story, invented but plausible, clearly framed as the hosts' own anecdote",
+      "words": 106,
+      "text": "Emma: And finally, from my own life, a story about a swimming pool.\nDaniel: The desk is ready.\nEmma: There was a lifeguard at that pool who blew his whistle at nobody.\nDaniel: At nobody at all?\nEmma: Empty water. Every twenty minutes. One short blast, then silence, then nothing.\nDaniel: Perhaps he was simply keeping the water honest.\nEmma: That is what I decided. The water behaved beautifully for the entire summer.\nDaniel: Somewhere a pool is still being warned about something, and it has not moved.\nEmma: I think about that whistle more often than I think about most people.\nDaniel: Say nothing more about the lifeguard. The music can take it from here."
+    },
+    {
+      "id": "brief-0024",
+      "kind": "talk-break",
+      "flavor": "a measured public-service style reminder with one dry twist",
+      "words": 112,
+      "text": "Daniel: A public service reminder, delivered slowly, because the fast ones never work.\nEmma: Slow it down further. I have the whole hour.\nDaniel: Check the spare tyre. Not now. But before the day you actually need it.\nEmma: Nobody in history has checked a spare tyre on a calm afternoon.\nDaniel: That is precisely when it should be checked. Calm is the correct weather.\nEmma: Calm is the correct weather for everything, including this entire conversation.\nDaniel: A spare tyre is a promise your past self made to your future self.\nEmma: My past self promised a great deal. She was optimistic and had more time.\nDaniel: Make one small promise this hour. Then let the saxophone take the rest."
+    },
+    {
+      "id": "brief-0025",
+      "kind": "fake-ad",
+      "flavor": "a sponsor only The Brief would have: a kettle that refuses to hurry",
+      "words": 52,
+      "text": "Daniel: The Brief is supported by Ambler Kettles, makers of the kettle that takes its time.\nEmma: It takes four minutes. It will not be hurried and it does not explain itself.\nDaniel: Ambler cannot promise the tea is better, only that you waited for it.\nEmma: Ambler Kettles. Boil slowly. Now, back to the music."
+    },
+    {
+      "id": "brief-0026",
+      "kind": "fake-ad",
+      "flavor": "a sponsor only The Brief would have: a desk lamp with one brightness",
+      "words": 63,
+      "text": "Daniel: Support for The Brief comes from Hollowell Desk Lamps, which have exactly one brightness.\nEmma: One. There is no dial. There is no second setting. There is one.\nDaniel: Hollowell believe a lamp should decide, so that you no longer have to.\nEmma: Hollowell also believe a lamp cannot be argued with, and it cannot hear you.\nDaniel: Hollowell Desk Lamps. One brightness, honestly. The music returns."
+    },
+    {
+      "id": "brief-0027",
+      "kind": "fake-ad",
+      "flavor": "a sponsor only The Brief would have: an unlined notebook",
+      "words": 74,
+      "text": "Daniel: The Brief is brought to you in part by Fennimore Notebooks, the unlined ones.\nEmma: No lines. No grid. No dots. Nothing at all to disappoint you.\nDaniel: A Fennimore page asks nothing of your handwriting, because it holds no opinion of it.\nEmma: My handwriting needs an opinion. My handwriting needs close supervision.\nDaniel: Fennimore. For thoughts that do not sit in tidy rows.\nEmma: Fennimore accepts no responsibility for thoughts that sit in rows anyway. Music, please."
+    },
+    {
+      "id": "brief-0028",
+      "kind": "fake-ad",
+      "flavor": "a sponsor only The Brief would have: an alarm clock that takes nine minutes",
+      "words": 56,
+      "text": "Daniel: Marlow Clocks support The Brief. A Marlow wakes you across nine full minutes.\nEmma: Nine minutes of light, arriving the way a morning should, instead of all at once.\nDaniel: No sound. No buzzing. Only a room slowly agreeing to be awake.\nEmma: Marlow takes no responsibility for anyone who sleeps straight through a sunrise. Back to the jazz."
+    },
+    {
+      "id": "brief-0029",
+      "kind": "fake-ad",
+      "flavor": "a sponsor only The Brief would have: a canvas bag built to outlast the trend",
+      "words": 64,
+      "text": "Daniel: Our sponsor is Pell and Daughter, who make one bag and have for decades.\nEmma: It is canvas. It is beige. It holds far more than it should.\nDaniel: Every seam is stitched twice, because the first stitch is only an opinion.\nEmma: Pell and Daughter make no claim whatsoever about what you carry inside it.\nDaniel: Pell and Daughter. A bag that outlives the trend. Music, gently."
+    },
+    {
+      "id": "brief-0030",
+      "kind": "fake-ad",
+      "flavor": "a sponsor only The Brief would have: a radio that reports the weather already over",
+      "words": 99,
+      "text": "Daniel: The Brief is supported by the Varden Weather Radio, a small grey box.\nEmma: It reports the weather that has already happened, with total and quiet confidence.\nDaniel: Sky has carried one in the field for a considerable stretch of time.\nSky: [breathless] It told me it had rained. I was already wet. It was correct.\nSky: It has never once been wrong. It has also never once been early.\nEmma: Correct, and late. Varden call that being certain.\nDaniel: The Varden Weather Radio. The weather you already survived, confirmed at last.\nEmma: Varden accepts no liability for umbrellas bought too late. Here is the music."
+    },
+    {
+      "id": "brief-0031",
+      "kind": "fake-ad",
+      "flavor": "a sponsor only The Brief would have: a plain archive box",
+      "words": 102,
+      "text": "Daniel: Support for The Brief comes from Cobb and Hale, who make the plain archive box.\nEmma: Grey. Rectangular. Deeply uninterested in your feelings about paperwork.\nDaniel: Each box holds one year of anything, and one blank label on the end.\nEmma: The label is the hard part. Everyone stands there staring at the label.\nDaniel: Cobb and Hale suggest writing the boring truth, and writing it in pen.\nEmma: Miscellaneous is not a year. Miscellaneous is a decision you are avoiding.\nDaniel: Cobb and Hale. Put it in the box. Close the lid.\nEmma: Cobb and Hale cannot help with the box you labelled miscellaneous. Back to the horns."
+    },
+    {
+      "id": "brief-0032",
+      "kind": "fake-ad",
+      "flavor": "a sponsor only The Brief would have: coffee for the second half of the day",
+      "words": 90,
+      "text": "Daniel: The Brief is supported by Second Half, a coffee for the afternoon, decaffeinated.\nEmma: It is coffee shaped. It is coffee coloured. It is not, technically, coffee.\nDaniel: Second Half exists for the cup you want at four, not the one you need.\nEmma: The ritual survives. The sleep survives. Everybody wins except the plant.\nDaniel: Roasted slowly, in small batches, by people who do not rush anything at all.\nEmma: Second Half makes no promise about the mug you left in the other room.\nDaniel: Second Half. Drink the ritual, not the caffeine. Music now."
+    },
+    {
+      "id": "brief-0033",
+      "kind": "feature",
+      "flavor": "the long pause, the only part of the hour with no words in it",
+      "words": 37,
+      "text": "Daniel: It is time now for the long pause, the only part of The Brief that carries no words.\nDaniel: Four whole seconds of nothing at all, held completely on purpose, and then the piano walks in behind it."
+    },
+    {
+      "id": "brief-0034",
+      "kind": "feature",
+      "flavor": "the correction desk",
+      "words": 36,
+      "text": "Daniel: A note now from the correction desk. Earlier in this hour I twice called a clarinet an oboe.\nDaniel: The clarinet has now been told, the oboe forgave me at once, and the music resumes from here."
+    },
+    {
+      "id": "brief-0035",
+      "kind": "feature",
+      "flavor": "the word of the hour",
+      "words": 80,
+      "text": "Daniel: It is time for the word of the hour. The word is petrichor.\nEmma: Here we go.\nDaniel: Petrichor is the smell of rain arriving on ground that has been dry.\nEmma: There is a word for that, and none at all for finding the other sock.\nDaniel: The priorities were settled long ago, and nobody thought to consult us.\nEmma: Petrichor. Use it once, casually, and then never explain it to anyone.\nDaniel: The word of the hour. And now, the music of the hour."
+    },
+    {
+      "id": "brief-0036",
+      "kind": "feature",
+      "flavor": "the forecast for a town that does not exist",
+      "words": 103,
+      "text": "Daniel: Now the forecast for Greyhaven, a small coastal town that does not exist.\nEmma: It never has. We forecast it anyway, every single hour, without fail.\nDaniel: Sky has the conditions.\nSky: [breathless] Mist until the middle of the morning, then a long grey brightness.\nSky: The harbour is calm. Two boats are out. One of them is apparently ours.\nEmma: We do not own a boat.\nSky: Greyhaven does not know that.\nDaniel: Winds light. Visibility honest. Nothing will happen there, which is the entire appeal.\nEmma: A full forecast for a town with no weather station and no residents.\nDaniel: Greyhaven, out. The music has the rest of the hour."
+    },
+    {
+      "id": "brief-0037",
+      "kind": "feature",
+      "flavor": "found objects, the things left behind in the studio",
+      "words": 85,
+      "text": "Daniel: Time for found objects, the small things left behind in this studio.\nEmma: This hour: one glove. Left handed, wool, and very slightly damp.\nDaniel: It has been sitting on the shelf for three weeks, waiting to be claimed.\nEmma: It has stopped waiting. It has settled. It lives there now.\nDaniel: We have given it a name. That was almost certainly a mistake.\nEmma: Naming a glove ends any chance of returning it to a human being.\nDaniel: The glove stays. Found objects will return. The music returns much sooner."
+    },
+    {
+      "id": "brief-0038",
+      "kind": "feature",
+      "flavor": "the obituary, which on this station is always for an object",
+      "words": 108,
+      "text": "Daniel: And now the obituary, which on this station is always for an object.\nEmma: This hour we mark the quiet passing of the studio stapler.\nDaniel: It served eleven years without a single complaint and without a single jam.\nEmma: It jammed constantly. We are being kind to the dead.\nDaniel: It is survived by a box of staples that now fits nothing at all.\nEmma: And by one paperclip it never once spoke to.\nDaniel: The stapler asked for no flowers and it asked for no speeches.\nEmma: It received a speech. It would have hated the speech.\nDaniel: In its memory, we will hold things together loosely.\nEmma: Very loosely. Now, music, for the stapler."
+    },
+    {
+      "id": "brief-0039",
+      "kind": "feature",
+      "flavor": "the second opinion, in which one sentence gets rewritten",
+      "words": 65,
+      "text": "Daniel: Time now for the second opinion, in which Emma improves one sentence of mine.\nEmma: The sentence was this. Conditions remain broadly unchanged across the whole region.\nDaniel: It is accurate.\nEmma: It is furniture. Nothing remains broadly anything. Say that nothing changed.\nDaniel: Nothing changed.\nEmma: Better. Shorter. True. That is the second opinion, and it was free.\nDaniel: The desk accepts the correction, and the music accepts us back."
+    },
+    {
+      "id": "brief-0040",
+      "kind": "feature",
+      "flavor": "the index, three numbers that describe the hour and nothing else",
+      "words": 87,
+      "text": "Daniel: Now the index, three numbers that describe this hour and nothing beyond it.\nEmma: Number one is four. That is the count of mugs on this desk.\nDaniel: Number two is one. That is how many mugs anyone is drinking from.\nEmma: Number three is nine. The minutes since I last mentioned the mugs.\nDaniel: The index is not a survey. The index is a small act of honesty.\nEmma: It is also the only attention those mugs will get all hour.\nDaniel: That is the index. The numbers reset. The music continues."
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "station": "arcade",
+  "version": 1,
+  "generated": "2026-09-12",
+  "writer": "claude-opus-5",
+  "segments": [
+    {
+      "id": "arcade-0001",
+      "kind": "station-id",
+      "flavor": "the station ID sweeper, landing on the tagline",
+      "words": 17,
+      "text": "Adam: [cheerful] Arcade. Two buttons, one stick, and the whole afternoon gone.\nAdam: Insert coin. Here comes the music."
+    },
+    {
+      "id": "arcade-0002",
+      "kind": "station-id",
+      "flavor": "the station ID sweeper, a secret-wall gag",
+      "words": 24,
+      "text": "Adam: This is Arcade, where every hallway has a secret.\nNicole: Push against the wall for four seconds. Trust me.\nAdam: Ohhh that's optimal. Play the track."
+    },
+    {
+      "id": "arcade-0003",
+      "kind": "station-id",
+      "flavor": "the station ID sweeper, the high score promise",
+      "words": 17,
+      "text": "Adam: Arcade. Your high score is safe with us. Mostly.\nAdam: Hands on the controller, the song is starting."
+    },
+    {
+      "id": "arcade-0004",
+      "kind": "station-id",
+      "flavor": "the station ID sweeper, the hummed soundtrack",
+      "words": 19,
+      "text": "Adam: Arcade. The soundtrack you hummed long after the console stopped working.\nAdam: Still humming it. Volume up, here it comes."
+    },
+    {
+      "id": "arcade-0005",
+      "kind": "talk-break",
+      "flavor": "a real-life situation described entirely in game mechanics, landing a genuine punchline",
+      "words": 29,
+      "text": "Adam: Parallel parking is a precision platforming section. The curb has a hitbox, and it is generous.\nAdam: One attempt, no scratches, no retries. Ohhh that's optimal. Somebody roll the music."
+    },
+    {
+      "id": "arcade-0006",
+      "kind": "talk-break",
+      "flavor": "a real-life situation described entirely in game mechanics, landing a genuine punchline",
+      "words": 28,
+      "text": "Adam: Making coffee before your eyes open is playing with stick drift. You will overshoot the mug.\nAdam: Recalibrate, wipe the counter, accept the damage. Next track is already loading."
+    },
+    {
+      "id": "arcade-0007",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} like a high score entry; Adam rates the run",
+      "words": 29,
+      "text": "Adam: That set goes on the board under three letters. A-D-M. Do not challenge it.\nAdam: A clean run, zero continues, and style points for that ending. More music, right now."
+    },
+    {
+      "id": "arcade-0008",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} like a high score entry; Adam rates the run",
+      "words": 28,
+      "text": "Adam: The last two tracks landed back to back with no gap. Frame perfect segue.\nAdam: I am giving that an S rank and the board agrees. Keep it rolling."
+    },
+    {
+      "id": "arcade-0009",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} like a high score entry; Adam rates the run",
+      "words": 35,
+      "text": "Adam: New entry on the board for that last stretch of music. Gold split, no deaths, and no menu time.\nAdam: Initials are in and my hands are off the stick. The next runner needs a soundtrack."
+    },
+    {
+      "id": "arcade-0010",
+      "kind": "talk-break",
+      "flavor": "Nicole's lore corner: an absurd 'fact' declared canon with total confidence",
+      "words": 44,
+      "text": "Nicole: Lore corner. Every shopping cart has one bad wheel because the cart is cursed loot.\nAdam: Cursed loot. So the wobble is a stat penalty?\nNicole: Minus two to steering, plus one to humility. It is canon now.\nAdam: Ha! Sold. Push the cart, play the song."
+    },
+    {
+      "id": "arcade-0011",
+      "kind": "talk-break",
+      "flavor": "Nicole's lore corner: an absurd 'fact' declared canon with total confidence",
+      "words": 44,
+      "text": "Adam: Nicole has the lore face. Give us the fact.\nNicole: The last slice in any box is behind an invisible wall. Nobody may take it.\nAdam: Ohhh that explains so much. It sits there glowing until someone is brave.\nNicole: Canon. Dust it off later. Track, please."
+    },
+    {
+      "id": "arcade-0012",
+      "kind": "talk-break",
+      "flavor": "Emma reports from inside a game as an NPC with feelings about the player's behavior",
+      "words": 44,
+      "text": "Adam: Emma is reporting from inside a shop menu. Emma, status?\nEmma: The player has opened my shop forty times and bought nothing.\nNicole: Forty.\nEmma: I have said welcome forty times. My voice is a loop and I am tired.\nAdam: Hang in there, Emma. Music will help."
+    },
+    {
+      "id": "arcade-0013",
+      "kind": "talk-break",
+      "flavor": "a real-life situation described entirely in game mechanics, landing a genuine punchline",
+      "words": 60,
+      "text": "Adam: Building flat-pack furniture is a co-op puzzle with no tutorial and one shared inventory.\nNicole: And one player is holding the manual upside down.\nAdam: Then the screw. There is always one screw left over.\nNicole: That is the collectible. You missed a room.\nAdam: Pshhh. I am not rebuilding the shelf for a trophy.\nNicole: Completionists would. Let the music carry us past it."
+    },
+    {
+      "id": "arcade-0014",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} like a high score entry; Adam rates the run",
+      "words": 57,
+      "text": "Adam: Putting that last track on the board. Three letters, all caps, fists up.\nNicole: You always enter the same three letters.\nAdam: Consistency is a speedrun virtue. I rate that run an A minus.\nNicole: Minus for what?\nAdam: The fade at the end cost me two frames. Two.\nNicole: You are unwell, and I mean that warmly. Play the next one."
+    },
+    {
+      "id": "arcade-0015",
+      "kind": "talk-break",
+      "flavor": "Nicole's lore corner: an absurd 'fact' declared canon with total confidence",
+      "words": 56,
+      "text": "Adam: Lore corner. Nicole, hit us.\nNicole: The smell before rain is the world loading the outdoor texture pack.\nAdam: Oh. OH. That is why it smells like nothing indoors.\nNicole: Indoors is a smaller map. Cheaper to render, fewer smells.\nAdam: Is this canon or is this you talking?\nNicole: Both. It is canon because I said it. Roll the tune."
+    },
+    {
+      "id": "arcade-0016",
+      "kind": "talk-break",
+      "flavor": "Emma reports from inside a game as an NPC with feelings about the player's behavior",
+      "words": 57,
+      "text": "Adam: Emma, our NPC correspondent, is somewhere in a castle. Emma?\nEmma: I guard a doorway. The player is jumping on my head.\nNicole: How long has this been happening?\nEmma: Long enough that I have stopped counting. I cannot move. I am scenery.\nAdam: To be fair, the jump physics there are incredible.\nNicole: Not helping. Emma, we are sending music instead."
+    },
+    {
+      "id": "arcade-0017",
+      "kind": "talk-break",
+      "flavor": "a real-life situation described entirely in game mechanics, landing a genuine punchline",
+      "words": 83,
+      "text": "Adam: A haircut is the character creation screen, except the sliders move while you sit still.\nNicole: And there is no preview. You describe the build out loud and hope.\nAdam: Then the mirror comes up. That is the confirm screen.\nNicole: And everyone says yes. Everyone. Nobody has ever said no.\nAdam: Because there is no back button. You live in that build for a month.\nNicole: Six weeks. Then the world patches it out and you are new again.\nAdam: Ha! New build, new music. Here we go."
+    },
+    {
+      "id": "arcade-0018",
+      "kind": "talk-break",
+      "flavor": "Nicole's lore corner: an absurd 'fact' declared canon with total confidence",
+      "words": 79,
+      "text": "Nicole: Canon check. Fire escapes were designed by a level designer who lost a bet.\nAdam: What was the bet?\nNicole: That nobody would notice the ladder stops two floors above the ground.\nAdam: Wait. Wait. That is a platforming gap. Somebody put a platforming gap on a building.\nNicole: Every one of them. The designer is still laughing somewhere.\nAdam: I will never look at a building the same way again.\nNicole: Good. That is what lore corner is for. Take us to the music."
+    },
+    {
+      "id": "arcade-0019",
+      "kind": "talk-break",
+      "flavor": "Emma reports from inside a game as an NPC with feelings about the player's behavior",
+      "words": 86,
+      "text": "Adam: Emma is standing in a village square with an exclamation mark. Emma, go ahead.\nEmma: My quest has been in the log for three hundred hours. I am still waiting.\nNicole: What is the quest?\nEmma: Ten rat tails. It is a bad quest. I know it is a bad quest.\nAdam: The reward is the problem. Nobody routes a side quest for twelve gold.\nEmma: I would raise it, but the sign is carved in stone.\nNicole: [gentle] Stay hopeful, Emma. Somebody will need those tails one day.\nAdam: Until then, music."
+    },
+    {
+      "id": "arcade-0020",
+      "kind": "talk-break",
+      "flavor": "Emma reports from inside a game as an NPC with feelings about the player's behavior",
+      "words": 76,
+      "text": "Nicole: Emma is at a finish line somewhere. Emma, how is the race?\nEmma: I won. I win every time. The player restarts before I cross.\nAdam: Oh, that is a reset. That is just a reset, Emma.\nEmma: I have crossed that line four thousand times and never once celebrated.\nNicole: You are allowed to celebrate. Nobody is stopping you.\nEmma: [surprised] Oh. Then I am celebrating. Quietly. In the car.\nAdam: Ha! Go, Emma. Somebody give her a victory lap track."
+    },
+    {
+      "id": "arcade-0021",
+      "kind": "talk-break",
+      "flavor": "a real-life situation described entirely in game mechanics, landing a genuine punchline",
+      "words": 111,
+      "text": "Adam: The self-checkout machine is a boss fight and most people go in with no strategy.\nNicole: It has a phase change. Everyone forgets the phase change.\nAdam: Phase one is scanning. Easy. You feel great. You feel fast.\nNicole: Phase two is the bagging area. It speaks. It accuses.\nAdam: Unexpected item. That is the boss shouting your own mistake back at you.\nNicole: And then the light on the pole turns on. Help is coming.\nAdam: That is a summon. The machine summoned an employee. That is phase three.\nNicole: The employee taps twice and leaves. Nobody knows what they tapped.\nAdam: Two taps. Boss defeated. No damage taken.\nNicole: Load the next area. The music is already playing."
+    },
+    {
+      "id": "arcade-0022",
+      "kind": "talk-break",
+      "flavor": "Nicole's lore corner: an absurd 'fact' declared canon with total confidence",
+      "words": 112,
+      "text": "Nicole: Time for lore corner, and this one is load bearing.\nAdam: Load bearing lore. Go.\nNicole: Every hotel hallway is the same hallway. It is reused to save memory.\nAdam: No waaay.\nNicole: Count the doors sometime. The numbers change and nothing else does.\nAdam: I am never sleeping in a hotel again. This is a horror fact.\nNicole: The carpet pattern is there so your eyes cannot measure the length.\nAdam: That is why the walk to the room takes nine minutes.\nNicole: It is a corridor on a loop. The door number tells the engine to stop.\nAdam: And the ice machine is the checkpoint.\nNicole: The ice machine is absolutely the checkpoint. Canon.\nAdam: Every hallway, one song. Hit it."
+    },
+    {
+      "id": "arcade-0023",
+      "kind": "talk-break",
+      "flavor": "Emma reports from inside a game as an NPC with feelings about the player's behavior",
+      "words": 108,
+      "text": "Adam: Our NPC correspondent Emma is in a village with a hammer. Emma, report.\nEmma: I am the blacksmith. I make swords. Nobody buys the swords.\nNicole: What do they do instead?\nEmma: They smash my pots. Every visitor smashes every pot in my shop.\nAdam: Because pots drop coins. That is efficient. That is optimal routing.\nNicole: Adam. Those are her pots. She made those pots.\nAdam: I am sorry about the pots. I would still smash them.\nEmma: I refill them overnight. I have accepted this. It is my loop.\nNicole: [gentle] That is the healthiest thing anyone has said on this station.\nAdam: Buy a sword sometime, people. Here is a song for the blacksmith."
+    },
+    {
+      "id": "arcade-0024",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} like a high score entry; Adam rates the run",
+      "words": 110,
+      "text": "Adam: That was a run. Initials on the board, and I am rating it out loud.\nNicole: He rates every set. He has a scale nobody else can see.\nAdam: The scale is simple. Opening, movement, ending, and one point for nerve.\nNicole: Nerve is not a category.\nAdam: Nerve is the whole category. That last track started on a drum fill.\nNicole: It did. It walked in like it owned the building.\nAdam: Whoever queued that has taste and a spine.\nAdam: S rank. No hesitation. Gold split on the chorus.\nNicole: And the bass line at the end?\nAdam: Ohhh, that was optimal. Put it in the book.\nNicole: Board is full. Clear it and start the next one."
+    },
+    {
+      "id": "arcade-0025",
+      "kind": "fake-ad",
+      "flavor": "a product only Arcade would sell, sincere announcer grammar, fast disclaimer from Nicole",
+      "words": 66,
+      "text": "Adam: The Continue Coin. One heavy brass token, carried in your pocket, for the moment you want to quit.\nNicole: You hold it. You feel it. You keep going.\nAdam: The Continue Coin does not fit any machine ever made. That is not the point.\nNicole: Not legal tender, not a real coin, not returnable, and it will set off the airport gate.\nAdam: Insert coin to continue. Music continues too."
+    },
+    {
+      "id": "arcade-0026",
+      "kind": "fake-ad",
+      "flavor": "a product only Arcade would sell, sincere announcer grammar, fast disclaimer from Nicole",
+      "words": 60,
+      "text": "Adam: Respawn Roast. A dark roast for the morning you did not survive.\nNicole: One cup and you wake up at the last place you felt fine.\nAdam: Full health. Half your inventory. That is the trade.\nNicole: Respawn Roast does not restore lost items, lost hours, or anything you said before coffee.\nAdam: Brew it hot, sit down, and let this next one play."
+    },
+    {
+      "id": "arcade-0027",
+      "kind": "fake-ad",
+      "flavor": "a product only Arcade would sell, sincere announcer grammar, fast disclaimer from Nicole",
+      "words": 59,
+      "text": "Adam: Frame Perfect Shoelaces. The only lace with a one frame tie window.\nNicole: Miss it and the knot fails. Hit it and the knot holds for a lifetime.\nAdam: I have hit it twice. Twice! The feeling never leaves you.\nNicole: Frame Perfect Shoelaces come untied for most people. Practice is sold separately and does not help.\nAdam: Tie them tight. Track time."
+    },
+    {
+      "id": "arcade-0028",
+      "kind": "fake-ad",
+      "flavor": "a product only Arcade would sell, sincere announcer grammar, fast disclaimer from Nicole",
+      "words": 59,
+      "text": "Adam: Inventory Pants. Forty slots, stackable, and one pocket that holds a full sized lamp.\nNicole: The lamp pocket is real. We have seen the lamp.\nAdam: Carry your whole life at walking speed. No encumbrance. No penalty.\nNicole: Encumbrance applies after eleven items. Walking speed drops. Sitting becomes a two person job.\nAdam: Pack light. Or do not. Here is the next song."
+    },
+    {
+      "id": "arcade-0029",
+      "kind": "fake-ad",
+      "flavor": "a product only Arcade would sell, sincere announcer grammar, fast disclaimer from Nicole",
+      "words": 54,
+      "text": "Adam: Hitbox Furniture builds a coffee table with a hitbox smaller than the table.\nNicole: Walk straight through the corner. Your shin stays untouched.\nAdam: Every dark room in your home becomes a safe room.\nNicole: Hitbox Furniture cannot hold cups, plates, books, or weight of any kind.\nAdam: It is a table in spirit. That counts. Play it."
+    },
+    {
+      "id": "arcade-0030",
+      "kind": "fake-ad",
+      "flavor": "a product only Arcade would sell, sincere announcer grammar, fast disclaimer from Nicole",
+      "words": 58,
+      "text": "Adam: The Cutscene Skipper. One button, worn on the wrist, for a story with no end.\nNicole: Press once to summarize. Press twice to nod politely forever.\nAdam: Your uncle's dream. The full recap of a movie you already saw.\nNicole: The Cutscene Skipper does nothing. The button is not connected to anything.\nAdam: Ha! Press it anyway. It helps. Next track, rolling."
+    },
+    {
+      "id": "arcade-0031",
+      "kind": "fake-ad",
+      "flavor": "a product only Arcade would sell, sincere announcer grammar, fast disclaimer from Nicole",
+      "words": 59,
+      "text": "Adam: The Hard Mode Alarm Clock. No snooze button. It has an attack pattern.\nNicole: Learn the pattern, and it lets you sleep eight more minutes.\nAdam: Fail the pattern and it moves across the room. It is fast.\nNicole: Nobody has learned the pattern. The clock adapts, and it remembers your name.\nAdam: Set it and get up. Wake up music, right now."
+    },
+    {
+      "id": "arcade-0032",
+      "kind": "fake-ad",
+      "flavor": "a product only Arcade would sell, sincere announcer grammar, fast disclaimer from Nicole",
+      "words": 59,
+      "text": "Adam: Grind Gum. Chew one piece and every boring chore gives experience points.\nNicole: Folding laundry becomes a grind spot. The dishes become a farming route.\nAdam: Level up in your own kitchen. Hear the chime. Feel the progress.\nNicole: The chime is in the gum. There are no levels, and the flavor lasts ninety seconds.\nAdam: Ninety good seconds. Back to the soundtrack."
+    },
+    {
+      "id": "arcade-0033",
+      "kind": "feature",
+      "flavor": "the recurring bit: patch notes for real life",
+      "words": 81,
+      "text": "Adam: Patch notes for the human body, version whatever we are on now.\nNicole: Knees have been nerfed. Knees were too strong for too long.\nAdam: Sneezing now has a wind up animation. You cannot cancel it.\nNicole: Hiccups remain in the game. The team knows. The team is not fixing it.\nAdam: Buff to the nap. Naps now scale with how much you needed one.\nNicole: And the itch on your back stays unreachable. Working as intended.\nAdam: Working as intended. Ha! Patch notes over, music on."
+    },
+    {
+      "id": "arcade-0034",
+      "kind": "feature",
+      "flavor": "the recurring bit: achievement unlocked, with rarity",
+      "words": 72,
+      "text": "Nicole: Achievement unlocked. You said the right name on the first try.\nAdam: Rarity?\nNicole: Point four percent of players have this one.\nAdam: Point four! That is rarer than a no hit boss run.\nNicole: Next achievement. You opened a jar on the first attempt, with witnesses.\nAdam: Witnesses are required. Without witnesses it does not count.\nNicole: That is why the jar sits on the counter for two days.\nAdam: Waiting for an audience. Beautiful. Play us out."
+    },
+    {
+      "id": "arcade-0035",
+      "kind": "feature",
+      "flavor": "the recurring bit: cheat code corner",
+      "words": 61,
+      "text": "Adam: Cheat code corner. Up, up, down, down, and then you say it out loud.\nNicole: Say what out loud?\nAdam: The thing you have been avoiding. That is the code.\nNicole: What does it unlock?\nAdam: Thirty extra lives. Well, it feels like thirty extra lives.\nNicole: [gentle] That is the best code we have run here.\nAdam: Enter it soon. Code accepted. Bring the music up."
+    },
+    {
+      "id": "arcade-0036",
+      "kind": "feature",
+      "flavor": "the recurring bit: boss music watch",
+      "words": 90,
+      "text": "Nicole: Boss music watch. Some moments deserve boss music and never get it.\nAdam: Example one. The last stair in the dark, when you think there is one more.\nNicole: Full orchestra. Choir. A low horn that means the floor lied to you.\nAdam: Example two. Pulling a sticker off in one clean piece.\nNicole: That is a victory theme, not boss music. Learn the difference.\nAdam: Fair. Fair! Example three. Reversing out of a narrow space with people watching.\nNicole: Boss music. Phase two if someone waves you back.\nAdam: Correct. Speaking of themes, here is one."
+    },
+    {
+      "id": "arcade-0037",
+      "kind": "feature",
+      "flavor": "the recurring bit: inventory check and encumbrance",
+      "words": 77,
+      "text": "Adam: Inventory check. Empty your pockets and we will read the weight.\nNicole: Keys. Three of them, and one opens nothing anyone remembers.\nAdam: Never drop that key. That key is a quest item.\nNicole: One receipt, folded. One coin of a currency you cannot spend here.\nAdam: Junk. Sell it to a merchant.\nNicole: You will need it in nine hours and feel terrible.\nAdam: That is the real rule. Never sell anything, ever.\nNicole: Pockets full, hands free. Let the next track in."
+    },
+    {
+      "id": "arcade-0038",
+      "kind": "feature",
+      "flavor": "the recurring bit: the save point survey",
+      "words": 86,
+      "text": "Nicole: Save point survey. Every home has one and most people never notice it.\nAdam: Mine is the kitchen doorway. I stop there. I do not know why.\nNicole: Because it is a save point. You stand in it and nothing bad happens.\nAdam: Ohhh. The light is different there too.\nNicole: Warm light. A quiet hum. That is the save point sound.\nAdam: And you always stand in it holding nothing, doing nothing.\nNicole: Saving. That is what saving looks like.\nAdam: Ha! Go stand in yours. We will keep the music going."
+    },
+    {
+      "id": "arcade-0039",
+      "kind": "feature",
+      "flavor": "the recurring bit: loading screen tips",
+      "words": 78,
+      "text": "Adam: Loading screen tip. Tip number one. Press any button to continue.\nNicole: That is not a tip. That is an instruction.\nAdam: Tip two. Water is wet, and enemies are dangerous.\nNicole: The tips get worse as the load gets longer. That is the rule.\nAdam: Tip three. If your health is low, try having more health.\nNicole: There it is. That is a long load.\nAdam: Tip four. You are doing fine. Keep going.\nNicole: [gentle] Leave that one in. Load complete, music up."
+    },
+    {
+      "id": "arcade-0040",
+      "kind": "feature",
+      "flavor": "the recurring bit: item description of the hour",
+      "words": 78,
+      "text": "Nicole: Item description of the hour. A mug, chipped, half full of cold tea.\nAdam: Stats?\nNicole: No stats. Flavor text only. It reads, someone loved this once.\nAdam: Oof. That is a lot for a mug.\nNicole: Next item. A sock, single, found behind a radiator.\nAdam: Sell value, one coin. Sentimental value, unmeasurable.\nNicole: The description says, its partner is out there.\nAdam: [sad] Why is the sock sad? Why did you do that?\nNicole: Every good item is a little sad. Next song, please."
+    }
+  ]
+}

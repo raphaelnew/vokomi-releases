@@ -1,0 +1,288 @@
+{
+  "station": "weazel",
+  "version": 1,
+  "generated": "2026-09-12",
+  "writer": "claude-opus-5",
+  "segments": [
+    {
+      "id": "weazel-0001",
+      "kind": "station-id",
+      "flavor": "station ID, the anchor's signature",
+      "words": 24,
+      "text": "George: Weazel Waves. Every hour on the hour, and also between the hours.\nGeorge: Nothing here is confirmed and everything here is urgent. Roll the synth."
+    },
+    {
+      "id": "weazel-0002",
+      "kind": "station-id",
+      "flavor": "station ID, breathless watts of alarm",
+      "words": 25,
+      "text": "George: [breathless] This is Weazel Waves, where the news never sleeps and neither do I.\nGeorge: Four hundred watts of pure alarm. Here comes a keyboard solo."
+    },
+    {
+      "id": "weazel-0003",
+      "kind": "station-id",
+      "flavor": "station ID, one line",
+      "words": 12,
+      "text": "George: Weazel Waves. We broke this song before anyone else heard it. Listen."
+    },
+    {
+      "id": "weazel-0004",
+      "kind": "station-id",
+      "flavor": "station ID, the weather desk",
+      "words": 23,
+      "text": "George: Weazel Waves! The only station that reports the weather as a developing situation.\nBella: It is weather. It happens outside. The music continues regardless."
+    },
+    {
+      "id": "weazel-0005",
+      "kind": "talk-break",
+      "flavor": "George declares an utterly mundane thing BREAKING NEWS and commits completely; Bella deadpans the traffic angle",
+      "words": 27,
+      "text": "George: BREAKING. A man on the north side has opened a jar on the first try.\nGeorge: Traffic is moving freely, which I confirmed myself. Back to the arpeggios."
+    },
+    {
+      "id": "weazel-0006",
+      "kind": "talk-break",
+      "flavor": "back-announce the last song as if it were an exclusive Weazel acquisition",
+      "words": 27,
+      "text": "George: That last song is now the exclusive property of Weazel Waves, forever.\nGeorge: We bought the chorus outright and the bass line came free. Rolling another one now."
+    },
+    {
+      "id": "weazel-0007",
+      "kind": "talk-break",
+      "flavor": "a listener poll with absurd options, results delivered by Bella with total neutrality",
+      "words": 27,
+      "text": "George: Our poll asked nine hundred people to name the loudest color. Orange won.\nGeorge: I conducted that poll, and I answered it twice. Straight into the next song."
+    },
+    {
+      "id": "weazel-0008",
+      "kind": "talk-break",
+      "flavor": "a station self-promo that spirals into an on-air legal disclaimer",
+      "words": 26,
+      "text": "George: Weazel Waves is the most trusted name in whatever this turns out to be.\nGeorge: Trusted is our own opinion of ourselves, not a finding. Synth, immediately."
+    },
+    {
+      "id": "weazel-0009",
+      "kind": "talk-break",
+      "flavor": "a fake ad: real ad grammar, sincere delivery, one monstrous product, rapid disclaimer from Bella",
+      "words": 50,
+      "text": "George: A word from the people who sponsor our optimism. MirrorMate!\nBella: It is a mirror that says what it would have done differently.\nGeorge: Honest feedback every morning, from glass that never had a job!\nBella: MirrorMate cannot be turned off and is now a load bearing wall. Give it to the keyboards."
+    },
+    {
+      "id": "weazel-0010",
+      "kind": "talk-break",
+      "flavor": "back-announce the last song as if it were an exclusive Weazel acquisition",
+      "words": 44,
+      "text": "George: Weazel Waves has purchased the previous song outright.\nBella: We purchased a recording. Not the melody. The melody belongs to a cousin.\nGeorge: We also acquired the silence between the tracks. Both seconds of it!\nBella: Legal says silence cannot be owned. The next acquisition starts now."
+    },
+    {
+      "id": "weazel-0011",
+      "kind": "talk-break",
+      "flavor": "a listener poll with absurd options, results delivered by Bella with total neutrality",
+      "words": 47,
+      "text": "George: The Weazel Waves poll! We asked the city to rank three sounds.\nBella: A fridge at night. A stranger saying your full name. A zipper.\nGeorge: And the winner, by a landslide of fourteen votes, is the zipper!\nBella: The fridge demanded a recount and lost again. Play the song."
+    },
+    {
+      "id": "weazel-0012",
+      "kind": "talk-break",
+      "flavor": "a station self-promo that spirals into an on-air legal disclaimer",
+      "words": 45,
+      "text": "George: Weazel Waves is family owned, family operated, and family adjacent!\nBella: The family is a holding company. It has never met itself.\nGeorge: Award winning coverage! We hand out the awards ourselves, at a banquet!\nBella: The banquet is a hallway. Attendance is mandatory. Back to the tape."
+    },
+    {
+      "id": "weazel-0013",
+      "kind": "talk-break",
+      "flavor": "a fake ad: real ad grammar, sincere delivery, one monstrous product, rapid disclaimer from Bella",
+      "words": 64,
+      "text": "George: Our sponsor is NapFridge, and NapFridge wants a moment of your rest.\nBella: NapFridge is a refrigerator you sleep in. It holds one adult, folded.\nGeorge: Wake up chilled, alert, and slightly preserved! Coworkers will notice immediately!\nBella: Preservation is the goal. Freshness is the goal. You are the produce.\nGeorge: NapFridge! The nap that keeps!\nBella: Do not close the NapFridge from the inside. Here comes the bass."
+    },
+    {
+      "id": "weazel-0014",
+      "kind": "talk-break",
+      "flavor": "George declares an utterly mundane thing BREAKING NEWS and commits completely; Bella deadpans the traffic angle",
+      "words": 63,
+      "text": "George: BREAKING. The elevator in this building has reached the fourth floor.\nBella: It was asked to. That is the arrangement it has with the button.\nGeorge: [gasp] No warning, no statement, no press conference. It simply ASCENDED!\nBella: In traffic, the stairs remain wide open and entirely unused.\nGeorge: I am told the doors then opened. I am shaking!\nBella: They do that too. Back to the keyboards."
+    },
+    {
+      "id": "weazel-0015",
+      "kind": "talk-break",
+      "flavor": "a listener poll with absurd options, results delivered by Bella with total neutrality",
+      "words": 66,
+      "text": "George: The Weazel Waves poll asked one question. Should Tuesday be optional?\nBella: Forty percent said yes. Forty percent said Tuesday already is optional.\nGeorge: The remaining twenty percent submitted a drawing of a horse!\nBella: The horse has been counted as a yes. It was very persuasive.\nGeorge: Democracy, alive and drawn in pencil, right here on Weazel Waves!\nBella: The horse has requested a second vote. Music first, questions never."
+    },
+    {
+      "id": "weazel-0016",
+      "kind": "talk-break",
+      "flavor": "a station self-promo that spirals into an on-air legal disclaimer",
+      "words": 65,
+      "text": "George: Weazel Waves reaches four hundred thousand ears, conservatively counted.\nBella: Counted by George. Twice per person. Sometimes three times per person.\nGeorge: We are the station of record! Whatever happens, we recorded something!\nBella: The recordings are not indexed. Nobody can find anything. Ever.\nGeorge: Our archive is a room. A proud room, full of boxes!\nBella: The boxes are empty and legal insists we say so. Let it play."
+    },
+    {
+      "id": "weazel-0017",
+      "kind": "talk-break",
+      "flavor": "a fake ad: real ad grammar, sincere delivery, one monstrous product, rapid disclaimer from Bella",
+      "words": 75,
+      "text": "George: A message from the Quiet Van, and the Quiet Van is already outside.\nBella: The Quiet Van arrives when a household becomes too loud. It parks.\nGeorge: No knocking! No paperwork! No shouting! Just a calm van, idling with intent!\nBella: The van does not enter. The van waits. The volume goes down.\nGeorge: Families report whispering for weeks afterward! That is the Quiet Van difference!\nBella: The van is now in three hundred neighborhoods. Here is a loud song."
+    },
+    {
+      "id": "weazel-0018",
+      "kind": "talk-break",
+      "flavor": "George declares an utterly mundane thing BREAKING NEWS and commits completely; Bella deadpans the traffic angle",
+      "words": 86,
+      "text": "George: BREAKING. A vending machine has taken a coin and given nothing back.\nBella: That is the machine's entire business model, faithfully executed.\nGeorge: Our field operative is on the scene. Adam, what do you see?\nAdam: I see a coin slot. I see a snack behind glass.\nAdam: The snack is calm. The snack has made peace with this.\nBella: In traffic, the second floor is clear. Nothing there is moving, including the snack.\nGeorge: [serious] Adam, hold the line. Do not blink.\nBella: He blinked. The machine won. Let the music start."
+    },
+    {
+      "id": "weazel-0019",
+      "kind": "talk-break",
+      "flavor": "back-announce the last song as if it were an exclusive Weazel acquisition",
+      "words": 87,
+      "text": "George: That was three songs in a row, all of them Weazel Waves exclusives.\nBella: Exclusive means we played them. Other stations played them too.\nGeorge: We have also acquired the drum machine. Not that machine. The concept.\nBella: The concept now belongs to a radio station operating out of a basement.\nGeorge: Every snare from this point forward is technically Weazel property!\nBella: It is not technically ours. It is emotionally ours. Different thing.\nGeorge: The paperwork is coming. The paperwork is thorough!\nBella: The paperwork is a laminated napkin. Roll the next track."
+    },
+    {
+      "id": "weazel-0020",
+      "kind": "talk-break",
+      "flavor": "a station self-promo that spirals into an on-air legal disclaimer",
+      "words": 87,
+      "text": "George: Weazel Waves now offers a Trust Guarantee on every broadcast!\nBella: If a story is false, we will simply say a new story.\nGeorge: That is the guarantee! Replacement content, at no cost, forever!\nBella: The replacement may also be false. The guarantee then applies again.\nGeorge: It is a perpetual guarantee! It never runs out! Nothing ever ends!\nBella: [sarcastic] Legal calls this an infinite loop and asked us to stop.\nGeorge: Trust is a subscription and the first month is free!\nBella: There is no second month. We return to the songs."
+    },
+    {
+      "id": "weazel-0021",
+      "kind": "talk-break",
+      "flavor": "a fake ad: real ad grammar, sincere delivery, one monstrous product, rapid disclaimer from Bella",
+      "words": 115,
+      "text": "George: Our next sponsor is Nostalgic, the fragrance for a year you did not have.\nBella: Nostalgic smells like a kitchen, a radio, and someone calling you inside.\nGeorge: One spray and you remember a summer! It is not your summer!\nBella: The summer belongs to a man named Dale. Dale sold the rights.\nGeorge: The childhood of Dale, on your wrist, for the price of lunch!\nBella: Dale has been notified. Dale is not pleased. Dale signed anyway.\nGeorge: Available in Original, Original Stronger, and the new scent, Grandmother's Car!\nBella: Grandmother's Car contains actual car. Do not apply near a flame.\nGeorge: Nostalgic! Because the past is available and the past is affordable!\nBella: Dale would like his summer back. A song follows."
+    },
+    {
+      "id": "weazel-0022",
+      "kind": "talk-break",
+      "flavor": "George declares an utterly mundane thing BREAKING NEWS and commits completely; Bella deadpans the traffic angle",
+      "words": 113,
+      "text": "George: BREAKING out of the grocery parking lot, and I need a moment.\nGeorge: A man has returned his shopping cart to the corral. Voluntarily.\nBella: The corral is nine steps from his car. I measured it once.\nGeorge: Nine steps! He walked nine steps for a society that will never thank him!\nBella: Society is asleep. The steps happened anyway. That is the whole story.\nGeorge: Witnesses say he nodded at the cart. He NODDED at it!\nBella: In traffic, the lot is clear except one cart, correctly stored.\nGeorge: We requested a statement. The cart has declined to comment.\nGeorge: This is why we do this job! For the nine steps!\nBella: The music waited nine steps behind him. Music now."
+    },
+    {
+      "id": "weazel-0023",
+      "kind": "talk-break",
+      "flavor": "back-announce the last song as if it were an exclusive Weazel acquisition",
+      "words": 114,
+      "text": "George: Weazel Waves has completed its largest acquisition. We bought a warehouse of sound.\nBella: It is a storage unit. It contains four keyboards and a damp carpet.\nGeorge: Our field operative is inside the unit right now. Adam!\nAdam: I am standing in the unit. It is dark. It hums.\nAdam: The carpet is damp, as reported. The keyboards are warm to the touch.\nGeorge: Warm keyboards! Bella, the instruments are ALIVE and they are ours!\nBella: They are unplugged. Warmth is not a sign of life. Usually.\nGeorge: Every song from that unit is now a Weazel Waves original!\nGeorge: Adam, secure the keyboards. Do not let them cool down!\nBella: He is asleep on the carpet. The synthesizers have the floor."
+    },
+    {
+      "id": "weazel-0024",
+      "kind": "talk-break",
+      "flavor": "a listener poll with absurd options, results delivered by Bella with total neutrality",
+      "words": 118,
+      "text": "George: The Weazel Waves poll closed at noon and the results are catastrophic!\nBella: The results are ordinary. The poll asked the city to name our mascot.\nGeorge: Three options! A siren with legs. A cardboard hawk. Or Gary.\nBella: Gary is a folding chair in the lobby. Gary has been here longest.\nGeorge: Gary took sixty one percent of the vote! Gary is the mascot!\nBella: The siren with legs took twelve percent and demanded a recount.\nGeorge: A recount of what? It is a drawing! It has no standing!\nBella: It has legs. That was the entire premise of the option.\nGeorge: Gary will be photographed at noon! Gary will not be moved!\nBella: Gary cannot be moved. Gary is bolted down. Back to the melody."
+    },
+    {
+      "id": "weazel-0025",
+      "kind": "fake-ad",
+      "flavor": "a product only this station would sell",
+      "words": 61,
+      "text": "George: A word from CalmCola, the beverage that removes ambition!\nBella: CalmCola tastes like cola and works like a resignation letter.\nGeorge: One can and the promotion simply stops mattering! Refreshing!\nBella: Nine out of ten drinkers stopped answering the phone. The tenth sold the phone.\nGeorge: CalmCola! For the person who has done enough!\nBella: CalmCola is not a beverage in three states. Cue the neon."
+    },
+    {
+      "id": "weazel-0026",
+      "kind": "fake-ad",
+      "flavor": "a product only this station would sell",
+      "words": 86,
+      "text": "George: The Forever Jacket has arrived, and it comes with a payment plan!\nBella: The plan is ninety years. The jacket is guaranteed for two.\nGeorge: Water resistant! Wind resistant! Resistant to cancellation of any kind!\nBella: The jacket cannot be returned. The jacket knows where it lives.\nGeorge: Wear it once and it is yours, and you are also somewhat its!\nBella: Your children inherit the jacket and the remaining eighty eight years.\nGeorge: The Forever Jacket! One coat. One lifetime. One invoice!\nBella: Invoices continue after the lifetime. Music, before legal calls."
+    },
+    {
+      "id": "weazel-0027",
+      "kind": "fake-ad",
+      "flavor": "a product only this station would sell",
+      "words": 67,
+      "text": "George: Introducing FriendBrick, the brick that remembers your name!\nBella: FriendBrick is a brick. It has a small speaker and a long memory.\nGeorge: Say hello in the morning and FriendBrick says hello back, warmly!\nBella: FriendBrick also remembers your address, your habits, and your worst opinion.\nGeorge: A friend that never leaves! Because it weighs nine pounds!\nBella: Do not attempt to return FriendBrick. It has returned once already. More synth, please."
+    },
+    {
+      "id": "weazel-0028",
+      "kind": "fake-ad",
+      "flavor": "a product only this station would sell",
+      "words": 84,
+      "text": "George: TimeShave! The service that shortens your weekend so the week feels smaller!\nBella: TimeShave removes four hours from Saturday. Nobody notices. That is the product.\nGeorge: Monday arrives sooner but FEELS closer to Friday! Science!\nBella: It is not science. It is a subtraction performed while you sleep.\nGeorge: The hours are stored safely in a facility! They are fine!\nBella: The hours are not returned. The facility has no door. No refunds.\nGeorge: TimeShave! Less weekend, same you!\nBella: Enrollment is automatic in some buildings. Back to the night music."
+    },
+    {
+      "id": "weazel-0029",
+      "kind": "fake-ad",
+      "flavor": "a product only this station would sell, read solo",
+      "words": 35,
+      "text": "George: Everwake Coffee replaces your sleep with pure alertness, and every drop of that alertness is borrowed from later.\nGeorge: Repayment begins in year three, arrives all at once, and cannot be refinanced. Start the song, please."
+    },
+    {
+      "id": "weazel-0030",
+      "kind": "fake-ad",
+      "flavor": "a product only this station would sell, read solo",
+      "words": 35,
+      "text": "George: The Apology Machine says sorry in your own voice, to people you have never even met, automatically.\nGeorge: It apologizes for things you have not done yet, which legally counts as a confession. Music, at volume."
+    },
+    {
+      "id": "weazel-0031",
+      "kind": "fake-ad",
+      "flavor": "a product only this station would sell",
+      "words": 100,
+      "text": "George: Mood Paint changes color with the feelings in the room, and it reports them!\nBella: It reports them to the manufacturer. The manufacturer keeps a file.\nGeorge: Our field operative stands in a fully painted room. Adam?\nAdam: [whisper] The walls are grey. I have been here eleven minutes.\nAdam: The walls just went greyer. I would like to leave now.\nGeorge: Grey is a color of enormous depth and possibility, Adam!\nBella: Grey is the color of the file getting thicker. Mood Paint. Two coats.\nGeorge: Mood Paint! Your walls understand you at last!\nBella: Understanding is stored offsite and cannot be deleted. The drums are waiting."
+    },
+    {
+      "id": "weazel-0032",
+      "kind": "fake-ad",
+      "flavor": "a product only this station would sell",
+      "words": 75,
+      "text": "George: Stride Shoes bill you per step, and the first four steps are free!\nBella: Steps five and beyond are charged monthly at a rate they choose.\nGeorge: Walk more, pay more, feel more alive with every single step!\nBella: Running is billed as a separate product. Standing still is also billed.\nGeorge: Stride Shoes! Finally, walking has a price and the price is fair!\nBella: The price is not fair. It is legal. That is different. Onward, to a song."
+    },
+    {
+      "id": "weazel-0033",
+      "kind": "feature",
+      "flavor": "the Five Day Panic Forecast",
+      "words": 89,
+      "text": "George: It is time for the Weazel Waves Five Day Panic Forecast!\nBella: Cloudy. Then cloudy. Then sun, briefly. Then cloudy again.\nGeorge: SUN? Briefly? Bella, that is a window of exposure and we are unprepared!\nBella: It is an afternoon. Bring a jacket or do not.\nGeorge: Five days of cloud broken by one act of solar aggression!\nBella: The sun is not aggressive. The sun is far away and indifferent.\nGeorge: That is exactly what an indifferent sun would want us to report!\nBella: The forecast ends. The music begins. That is the whole arrangement."
+    },
+    {
+      "id": "weazel-0034",
+      "kind": "feature",
+      "flavor": "the Correction Desk",
+      "words": 95,
+      "text": "George: Now, the Weazel Waves Correction Desk, where we fix what we said.\nBella: We reported a fire at the bakery. There was no fire and no bakery.\nGeorge: We regret the fire. We do not regret the urgency!\nBella: We also reported a cat stuck in a tree. The cat was a hat.\nGeorge: The hat was stuck! The reporting stands! Only the species changed!\nBella: We reported that the bridge was missing. The bridge was never built.\nGeorge: A missing bridge is still a story! Possibly a bigger story!\nBella: Corrections conclude. Nothing we corrected ever happened. Play the next one."
+    },
+    {
+      "id": "weazel-0035",
+      "kind": "feature",
+      "flavor": "Traffic on the eights",
+      "words": 85,
+      "text": "George: Bella has traffic, and Bella has it on the eights.\nBella: The hallway on the fourth floor is congested near the copier.\nGeorge: Congested! Do we have a cause? Is it structural?\nBella: Two people are having a conversation neither of them wants.\nGeorge: That is a rolling closure! That could last an entire afternoon!\nBella: Expect delays of forty seconds. Consider the long way past the plants.\nGeorge: The long way past the plants! Take it! Take it now!\nBella: The copier remains out of order. Traffic returns after this song."
+    },
+    {
+      "id": "weazel-0036",
+      "kind": "feature",
+      "flavor": "Word of the Hour",
+      "words": 86,
+      "text": "George: Word of the Hour, presented by me, defined by me. The word is MOMENTUM!\nBella: Momentum is mass times velocity. It is physics. It is settled.\nGeorge: Momentum is the feeling that something is about to happen to you!\nBella: That is dread. You have defined dread. Again.\nGeorge: Dread and momentum are the same word in a newsroom, Bella!\nBella: Last hour you defined water as wet electricity.\nGeorge: And I stand by it! Word of the Hour will return!\nBella: The dictionary has stopped answering our calls. Here is a song."
+    },
+    {
+      "id": "weazel-0037",
+      "kind": "feature",
+      "flavor": "the Sports Desk",
+      "words": 91,
+      "text": "George: The Weazel Waves Sports Desk! The standings have been updated!\nBella: One man waited outside a locked office for six hours. He leads.\nGeorge: SIX HOURS! That is a personal best and possibly a regional record!\nBella: Second place waited four hours, then left, which disqualifies him.\nGeorge: You cannot leave! Leaving is the one thing you cannot do!\nBella: The rules are simple. Arrive. Remain. Achieve nothing. Be ranked.\nGeorge: Next week the champions face a longer hallway and a heavier door!\nBella: The league office is closed and has always been closed. Music, and nothing further."
+    },
+    {
+      "id": "weazel-0038",
+      "kind": "feature",
+      "flavor": "the Business Report",
+      "words": 89,
+      "text": "George: The Weazel Waves Business Report, and the banana is up!\nBella: A banana costs thirty cents. It has cost thirty cents for years.\nGeorge: UP from nothing! A banana on the ground is free and worthless!\nBella: That is not how markets work. That is how gravity works.\nGeorge: Analysts are watching the fruit bowl in the break room closely!\nBella: The analysts are two men who eat from that bowl daily.\nGeorge: Insider trading in the break room! You heard it here first!\nBella: Nobody traded anything. Somebody took a banana. Back to the music."
+    },
+    {
+      "id": "weazel-0039",
+      "kind": "feature",
+      "flavor": "Live at the Scene",
+      "words": 104,
+      "text": "George: Live at the Scene, and our field operative is somewhere nobody requested!\nBella: He chose the location himself. He always chooses the location himself.\nAdam: I am standing at the seam where two escalators meet.\nAdam: It is warm here. There is a smell of pennies and rain.\nGeorge: Pennies and RAIN? Bella, he has found the smell of money!\nBella: He has found a maintenance panel. That is what they smell like.\nAdam: A glove has been here for a long time. Nobody has claimed it.\nGeorge: An unclaimed glove! Adam, secure the glove for the archive!\nBella: The archive is a shoebox. The shoebox is full. Here comes the music."
+    },
+    {
+      "id": "weazel-0040",
+      "kind": "feature",
+      "flavor": "the Obituary of the Hour",
+      "words": 96,
+      "text": "George: And now, the Weazel Waves Obituary. We lost a kettle this hour.\nBella: The kettle worked for nine years. Then it made a sound. Then nothing.\nGeorge: Nine years of service! It asked for nothing but water and power!\nBella: It asked for descaling four times. Nobody descaled it. That is the cause.\nGeorge: [sad] Let the record show the kettle died of neglect and hard water!\nBella: In lieu of flowers, the office has purchased a worse kettle.\nGeorge: A WORSE kettle! The insult! Hold the music, I am not finished!\nBella: The music has already started. It is louder than you."
+    }
+  ]
+}

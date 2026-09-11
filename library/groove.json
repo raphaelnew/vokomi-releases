@@ -1,0 +1,288 @@
+{
+  "station": "groove",
+  "version": 1,
+  "generated": "2026-09-12",
+  "writer": "claude-opus-5",
+  "segments": [
+    {
+      "id": "groove-0001",
+      "kind": "station-id",
+      "flavor": "the signature, low heat and high standards",
+      "words": 19,
+      "text": "Cyrus: Groove Kitchen. Low heat, high standards. Nothing leaves this kitchen cold.\nCyrus: The stool is open. The horns are coming."
+    },
+    {
+      "id": "groove-0002",
+      "kind": "talk-break",
+      "flavor": "Cyrus narrates one step of tonight's dish as if it were the record's arrangement; Della rates the result",
+      "words": 28,
+      "text": "Cyrus: Onions in now, slow, the way the horns ease in on a good record.\nCyrus: Della would rate that a seven. She is not here. Nine. Play the horns."
+    },
+    {
+      "id": "groove-0003",
+      "kind": "talk-break",
+      "flavor": "Della hums back a line from the last record and rates the bassline out of ten; Cyrus argues for the half point",
+      "words": 45,
+      "text": "Della: Hear that walk? Mmm. It goes down four steps and only climbs back three.\nCyrus: That missing step is the whole point. That is a seven at least.\nDella: Six and a half. The bass player was thinking about his lunch.\nCyrus: So am I. Let it play."
+    },
+    {
+      "id": "groove-0004",
+      "kind": "fake-ad",
+      "flavor": "the Inheritance Skillet, seasoned by somebody's grandmother",
+      "words": 79,
+      "text": "Cyrus: The Inheritance Skillet arrives already seasoned. Somebody's grandmother did forty years of the work.\nDella: [chuckle] Whose grandmother, exactly? That is a real question.\nCyrus: A grandmother. The skillet holds heat the way a good song holds a room.\nDella: It weighs as much as a small oven. Lift with the knees.\nCyrus: Never soap it. Never lend it. Never ask about the grandmother.\nDella: The Inheritance Skillet cannot be returned. It knows where you live now.\nCyrus: Heat it slow while this one plays."
+    },
+    {
+      "id": "groove-0005",
+      "kind": "talk-break",
+      "flavor": "a fake ad for a kitchen or dance product, sincere announcer grammar, rapid disclaimer from Della",
+      "words": 59,
+      "text": "Cyrus: Sunday Gravy comes in a jar now. Somebody's grandmother, bottled, with her blessing.\nDella: Her blessing cost them a fortune. She held out for six months.\nCyrus: Respect. It pours slow, it clings to the spoon, it hums a little.\nDella: Gravy does not hum, Cyrus. A jar is not a substitute for a Sunday.\nCyrus: Warm it low. Horns are up next."
+    },
+    {
+      "id": "groove-0006",
+      "kind": "feature",
+      "flavor": "the Leftover Report",
+      "words": 95,
+      "text": "Cyrus: Time for the Leftover Report. My neighbor came by twice since the last record.\nDella: Twice. He has a schedule now. That is a man with a system.\nCyrus: First visit he took greens. Second visit he brought the empty bowl back.\nDella: Empty? He returned it empty?\nCyrus: Washed, though. I will give him that. The man returns a clean bowl.\nDella: A clean bowl is not payment, Cyrus. A clean bowl is the least.\nCyrus: He also fixed the door that sticks. So the ledger is fair.\nDella: The ledger is generous. Put a record on before he knocks again."
+    },
+    {
+      "id": "groove-0007",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} as a dish on tonight's menu; Cyrus lists the ingredients",
+      "words": 80,
+      "text": "Cyrus: Let me read that last set back the way I would read a menu.\nDella: Go on. You have been waiting all night to do this.\nCyrus: First course, light and sharp. A horn line you could cut with a fork.\nDella: Second course was the heavy one. That bass sat down on the plate.\nCyrus: It did. Then dessert, which nobody asked for and everybody finished.\nDella: That is a menu. Now stop describing food and feed the room.\nCyrus: Kitchen is open. Next plate."
+    },
+    {
+      "id": "groove-0008",
+      "kind": "talk-break",
+      "flavor": "Lyle calls to correct one detail from the last break, then hangs up before anyone can answer",
+      "words": 111,
+      "text": "Cyrus: Before that fades, I want to say something about where it was recorded.\nDella: Careful. Every time you say where, the phone rings.\nCyrus: It was cut in a room above a hardware store. Small room, big ceiling.\nLyle: Below. The room was below the hardware store. And the city is wrong.\nDella: [sigh] Lyle. We have a doorbell. You could use the doorbell.\nLyle: Catalogue number ends in nine, not seven. Different pressing, different hiss, different...\nCyrus: And he is gone. Mid-word. The man leaves like a fade-out.\nDella: He is never wrong, though. That is the infuriating part.\nCyrus: Never. Below the hardware store, then. Nine, not seven.\nDella: The ceiling was big either way. Let it spin."
+    },
+    {
+      "id": "groove-0009",
+      "kind": "fake-ad",
+      "flavor": "the Sunday Six slow cooker, one setting: eventually",
+      "words": 76,
+      "text": "Cyrus: The Sunday Six slow cooker has one dial and one setting. Eventually.\nDella: That is not a setting. That is a mood.\nCyrus: It is a philosophy. Put the food in at noon. Trust the afternoon.\nDella: Trust is doing a lot of work in that sentence.\nCyrus: Six quarts. Heavy lid. Handles that do not burn your hands.\nDella: The Sunday Six makes no promises about dinner time. Or dinner.\nCyrus: Lid on. Let the record do the waiting with us."
+    },
+    {
+      "id": "groove-0010",
+      "kind": "talk-break",
+      "flavor": "Della hums back a line from the last record and rates the bassline out of ten; Cyrus argues for the half point",
+      "words": 30,
+      "text": "Cyrus: That bassline walked. I hummed it back myself and my hum was a crime.\nCyrus: Della is at the sink. In her absence I award it eight. Roll the next one."
+    },
+    {
+      "id": "groove-0011",
+      "kind": "feature",
+      "flavor": "the Pot Watch",
+      "words": 69,
+      "text": "Cyrus: Pot Watch. Current status of the pot. Close. Very close.\nDella: You said close two records ago. Close is not a temperature.\nCyrus: Close is a feeling. The lid is sweating. The kitchen smells honest.\nDella: Honest kitchens still serve food eventually. Give me a number.\nCyrus: Twenty minutes.\nDella: That is the same number as last hour. Your number never moves.\nCyrus: Good things do not move either. Let the record cover for me."
+    },
+    {
+      "id": "groove-0012",
+      "kind": "talk-break",
+      "flavor": "a fake ad for a kitchen or dance product, sincere announcer grammar, rapid disclaimer from Della",
+      "words": 44,
+      "text": "Cyrus: A word about Clean Hands record sleeves. Paper that forgives a cook.\nDella: Butter beads right off. Ask the man who ruined a whole soul boxset.\nCyrus: One box. One time. We agreed to stop discussing it on air.\nDella: We agreed that you would stop. Music."
+    },
+    {
+      "id": "groove-0013",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} as a dish on tonight's menu; Cyrus lists the ingredients",
+      "words": 57,
+      "text": "Cyrus: That one simmered. Drums in first, then the organ, then a lot of patience.\nDella: It was four minutes long, and you know that.\nCyrus: Felt like a stew. Onion bass, pepper in the guitar, horns laid on top.\nDella: The horns were the garnish. Garnish does not carry a whole dish.\nCyrus: They carried it tonight. Next dish, coming up."
+    },
+    {
+      "id": "groove-0014",
+      "kind": "fake-ad",
+      "flavor": "Bernard's Academy, six weeks to a respectable two-step",
+      "words": 79,
+      "text": "Della: Bernard's Academy is taking students again. Six weeks to a respectable two-step.\nCyrus: Respectable is the word they chose. Not good. Respectable.\nDella: Respectable is achievable. Good takes a lifetime and better shoes.\nCyrus: Week one is counting. Week two is the turn. Week three is confidence.\nDella: Weeks four through six are apologies to your partner.\nCyrus: Bernard himself only attends on Thursdays. Nobody knows where he is otherwise.\nDella: Results vary. Bernard varies. Refunds do not exist.\nCyrus: Practice to this next one. Slowly."
+    },
+    {
+      "id": "groove-0015",
+      "kind": "talk-break",
+      "flavor": "Lyle calls to correct one detail from the last break, then hangs up before anyone can answer",
+      "words": 82,
+      "text": "Cyrus: The phone is blinking. That is my neighbor or the man from the record store.\nDella: Your neighbor does not call. He just arrives with an empty bowl.\nLyle: It is Lyle. You said cayenne. The recipe you read takes white pepper.\nCyrus: Lyle, that is a kitchen matter. You correct records.\nLyle: I correct what is wrong. White pepper. And the B-side was better.\nDella: [laugh] He hung up. He always hangs up before the good part.\nCyrus: White pepper it is. Let the B-side answer him."
+    },
+    {
+      "id": "groove-0016",
+      "kind": "feature",
+      "flavor": "the Spice Cabinet",
+      "words": 82,
+      "text": "Cyrus: Open the Spice Cabinet. Tonight we match one spice to one instrument.\nDella: Cumin.\nCyrus: Baritone sax. Low, warm, and it stays in the room after.\nDella: That is right. Paprika.\nCyrus: Rhythm guitar. Not loud. But take it out and nothing works.\nDella: Cinnamon.\nCyrus: Backing vocals. A little is a gift. A lot is a problem.\nDella: You have thought about this more than a man should.\nCyrus: I have. Clove is a tambourine, and I will not be argued with.\nDella: Nobody is arguing. Season the next one."
+    },
+    {
+      "id": "groove-0017",
+      "kind": "talk-break",
+      "flavor": "Cyrus narrates one step of tonight's dish as if it were the record's arrangement; Della rates the result",
+      "words": 109,
+      "text": "Cyrus: I am building this in layers, and layers are just an arrangement you can eat.\nDella: Here we go. Give me the first verse.\nCyrus: The bottom layer is rhythm. Potatoes, sliced thin, laid flat, no opinions.\nDella: Potatoes have no opinions. Correct. Next.\nCyrus: Then the bass. Onion, butter, and time. That layer does the walking.\nDella: Mm. I can hear that layer already. Keep going.\nCyrus: The top layer is the horns. Cheese, pepper, and a little showing off.\nDella: Every horn section shows off. That is what horns are for.\nCyrus: Forty minutes covered, ten minutes open. Then we eat.\nDella: Seven and a half for the bass layer. Now play something while we wait."
+    },
+    {
+      "id": "groove-0018",
+      "kind": "station-id",
+      "flavor": "the signature, soft butter and softer bass",
+      "words": 23,
+      "text": "Cyrus: You are in the Groove Kitchen, where the butter is soft and the bass is softer.\nCyrus: Mind the pot. Here is the band."
+    },
+    {
+      "id": "groove-0019",
+      "kind": "fake-ad",
+      "flavor": "Midnight Rub, sixteen things in one jar",
+      "words": 36,
+      "text": "Cyrus: Midnight Rub comes in a plain black jar. Sixteen things inside, and eleven of them stay secret.\nCyrus: One spoon per shoulder. No refunds, no ingredient list, and no questions asked. Rub it in, let this ride."
+    },
+    {
+      "id": "groove-0020",
+      "kind": "feature",
+      "flavor": "Knife Skills",
+      "words": 79,
+      "text": "Cyrus: Knife Skills. Hold the onion like a record. Fingers curled, thumb behind, no hurry.\nDella: The thumb part is the part people skip. Then they come back with a story.\nCyrus: Cut on the beat and every piece comes out the same size.\nDella: Cut ahead of the beat and dinner is uneven, and so are you.\nCyrus: Slow hands, sharp blade. The board keeps time like a brush on a snare.\nDella: That I would rate. Give me a beat to practice on."
+    },
+    {
+      "id": "groove-0021",
+      "kind": "station-id",
+      "flavor": "the signature, the whole menu and the whole promise",
+      "words": 22,
+      "text": "Cyrus: [gentle] Slow-cooked funk, served warm. That is the whole menu and the whole promise.\nCyrus: Groove Kitchen. The next plate is already warm."
+    },
+    {
+      "id": "groove-0022",
+      "kind": "talk-break",
+      "flavor": "a fake ad for a kitchen or dance product, sincere announcer grammar, rapid disclaimer from Della",
+      "words": 29,
+      "text": "Cyrus: The Groove Kitchen wooden spoon. One piece of maple, and it outlives the cook.\nCyrus: Not a microphone. Two people have tried. Stir slow and let this next one move."
+    },
+    {
+      "id": "groove-0023",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} as a dish on tonight's menu; Cyrus lists the ingredients",
+      "words": 37,
+      "text": "Cyrus: On tonight's menu, that last one was the sweet course. Two horns, one organ, and no salt at all.\nCyrus: There was butter in that guitar, though. You could hear it melt. Send the next course out now."
+    },
+    {
+      "id": "groove-0024",
+      "kind": "fake-ad",
+      "flavor": "the Deep Pocket apron, one pocket fits a single",
+      "words": 73,
+      "text": "Cyrus: The Deep Pocket apron. Heavy canvas, four pockets, and one of them fits a single.\nDella: A record. In your apron. Beside the spoons.\nCyrus: Where else would a man keep it? Close to the work.\nDella: Grease, Cyrus. Grease is where you would keep it.\nCyrus: Double stitched. Straps cross the back so your neck stays free.\nDella: Deep Pocket is not liable for whatever melts in the pocket.\nCyrus: Tie it on. Here comes the next one."
+    },
+    {
+      "id": "groove-0025",
+      "kind": "talk-break",
+      "flavor": "Lyle calls to correct one detail from the last break, then hangs up before anyone can answer",
+      "words": 63,
+      "text": "Cyrus: Everybody calls that one the single. It sold the whole album.\nDella: Phone. That is the phone. You said single out loud.\nLyle: B-side. It was the B-side. The single is the slow one nobody plays.\nCyrus: The B-side outsold it, though. That counts for something.\nLyle: It counts as a B-side. Goodbye.\nDella: [sigh] He is correct and he is rude, both permanent. Back to the record."
+    },
+    {
+      "id": "groove-0026",
+      "kind": "feature",
+      "flavor": "the Fridge Note",
+      "words": 87,
+      "text": "Cyrus: There is a note on the fridge again. Somebody writes to me at night.\nDella: You write them. You write the notes and then you forget.\nCyrus: This one says do not touch the brown pot. Underlined twice.\nDella: That is your handwriting. Tall letters, angry line.\nCyrus: Then past me is looking out for present me, and I respect that.\nDella: Past you also wrote buy lemons, and there are no lemons.\nCyrus: Past me is a dreamer. The brown pot stays untouched either way.\nDella: Read the next note after the record."
+    },
+    {
+      "id": "groove-0027",
+      "kind": "talk-break",
+      "flavor": "Cyrus narrates one step of tonight's dish as if it were the record's arrangement; Della rates the result",
+      "words": 85,
+      "text": "Cyrus: The greens go in whole and they cook down to nothing. That is the long fade.\nDella: A fade is a decision. Greens are just surrender.\nCyrus: Greens are patience. Forty minutes and the pot drops by half.\nDella: So does a good outro. Everything gets quieter and nobody minds.\nCyrus: Pepper vinegar at the end. That is the last chord ringing out.\nDella: Now that I will rate. Pepper vinegar is an eight.\nCyrus: An eight from you is a parade.\nDella: Do not make it strange. Play the next one."
+    },
+    {
+      "id": "groove-0028",
+      "kind": "talk-break",
+      "flavor": "Della hums back a line from the last record and rates the bassline out of ten; Cyrus argues for the half point",
+      "words": 106,
+      "text": "Cyrus: I want to enter something into the record. A formal appeal.\nDella: The scale is not a court, Cyrus.\nCyrus: That bassline was perfect. Perfect means ten. You gave it eight and a half.\nDella: Eight and a half is the highest I have given in years.\nCyrus: Then what is a ten? Describe it. I would like it in words.\nDella: A ten would make me stop singing. Permanently. I would retire.\nCyrus: So the scale protects your job.\nDella: [serious] The scale protects the music. If everything is a ten, nothing is.\nCyrus: Eight and a half stands, then. Under protest.\nDella: Noted. Filed. Ignored.\nCyrus: Play it again and let the room decide."
+    },
+    {
+      "id": "groove-0029",
+      "kind": "fake-ad",
+      "flavor": "Aunt Verna's skillet cornbread mix",
+      "words": 67,
+      "text": "Della: Aunt Verna's skillet cornbread mix. One bag, one egg, one hot pan.\nCyrus: Verna does not use sugar. Verna has opinions about sugar.\nDella: Verna has opinions about everything and she is right about most of it.\nCyrus: The crust comes up gold and loud. You can hear it break.\nDella: Verna is not affiliated with any other Verna. Do not write to her.\nCyrus: Butter it warm. Music while it cools."
+    },
+    {
+      "id": "groove-0030",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} as a dish on tonight's menu; Cyrus lists the ingredients",
+      "words": 27,
+      "text": "Cyrus: That last one, plated: smoked bass, sweet guitar on top, one pinch of salt.\nCyrus: Three ingredients. No garnish. That is the whole dish. Next course is coming."
+    },
+    {
+      "id": "groove-0031",
+      "kind": "feature",
+      "flavor": "the Kitchen Timer nobody set",
+      "words": 69,
+      "text": "Della: Something is beeping. Cyrus, something in this kitchen is beeping.\nCyrus: That is the timer. I did not set it.\nDella: Then who set it?\nCyrus: Nobody. It has been going off on its own for a while now.\nDella: And you just let it?\nCyrus: I taste everything when it rings. Twice it was right.\nDella: Twice. Out of how many?\nCyrus: Do not ruin it. The timer has earned its place. Roll the music."
+    },
+    {
+      "id": "groove-0032",
+      "kind": "talk-break",
+      "flavor": "Lyle calls to correct one detail from the last break, then hangs up before anyone can answer",
+      "words": 50,
+      "text": "Cyrus: That horn section was the house band. They played that room nightly.\nLyle: Hired. One afternoon only. The house band was at a wedding.\nDella: Lyle. We have not even said hello yet.\nLyle: Hello. Check the back of the sleeve. Bye.\nCyrus: Every time. The sleeve wins. Let the horns speak for themselves."
+    },
+    {
+      "id": "groove-0033",
+      "kind": "talk-break",
+      "flavor": "Cyrus narrates one step of tonight's dish as if it were the record's arrangement; Della rates the result",
+      "words": 60,
+      "text": "Cyrus: Flour and fat in the pan, low, and we stir until it browns.\nDella: How brown?\nCyrus: The color of a good snare. You smell it before you see it.\nDella: A color is not a sound, Cyrus.\nCyrus: In this kitchen it is. The roux is the rhythm section.\nDella: Then it is a six. It rushed the beat. Now let the band cook."
+    },
+    {
+      "id": "groove-0034",
+      "kind": "fake-ad",
+      "flavor": "the Countertop Six radio, one knob, one speaker",
+      "words": 35,
+      "text": "Cyrus: The Countertop Six kitchen radio. One knob, one speaker, and a dial that always stops here.\nCyrus: Metal case, cloth grille, and it survives a dropped pan every single time. Turn it up and stand back."
+    },
+    {
+      "id": "groove-0035",
+      "kind": "talk-break",
+      "flavor": "Della hums back a line from the last record and rates the bassline out of ten; Cyrus argues for the half point",
+      "words": 80,
+      "text": "Della: Mmm. Hear that? The same note four times and it still went somewhere.\nCyrus: One string. He played that whole line on one string.\nDella: Seven.\nCyrus: Seven? For one string? That is a man doing more with less.\nDella: That is a man who did not want to move his hand.\nCyrus: Half a point for the economy. Half a point for the nerve.\nDella: Half a point in total. Seven and a half, and that is final.\nCyrus: I will take it. Roll the tape."
+    },
+    {
+      "id": "groove-0036",
+      "kind": "feature",
+      "flavor": "the House Rules",
+      "words": 78,
+      "text": "Cyrus: House rule of the night. Wash your hands, taste as you go, never rush a bassline.\nDella: Three rules, and two of them are about the food. That is the ratio here.\nCyrus: The third one covers everything else. Rushing is the only sin in this kitchen.\nDella: You rushed a pot once. I remember that pot.\nCyrus: One pot. Years ago. I have made my peace with it.\nDella: The pot has not forgiven you. Play something slow and prove the rule."
+    },
+    {
+      "id": "groove-0037",
+      "kind": "talk-break",
+      "flavor": "a fake ad for a kitchen or dance product, sincere announcer grammar, rapid disclaimer from Della",
+      "words": 118,
+      "text": "Cyrus: Word from the people at Sprung. They make a floor you install yourself.\nDella: A floor. We are selling floors now.\nCyrus: Not the whole floor. Tiles. They go over the floor you already have.\nDella: Why would a person need a second floor on top of the first?\nCyrus: Because the first one does not give. A good floor answers your feet.\nDella: Mine answers. It says stop.\nCyrus: Sprung tiles lock together in an afternoon. No glue, no nails, no landlord.\nDella: No landlord means nobody told the landlord.\nCyrus: Nobody needs to. They come up in spring and go down in the fall.\nDella: Sprung is not responsible for the neighbor below you. Nobody is.\nCyrus: Lay them down and put this next one on."
+    },
+    {
+      "id": "groove-0038",
+      "kind": "station-id",
+      "flavor": "the signature, Della's scale",
+      "words": 30,
+      "text": "Della: Groove Kitchen. Every bassline gets a number from me. None of them get ten.\nCyrus: She means it. I have never once seen a ten.\nDella: Sit down. Let the record talk."
+    },
+    {
+      "id": "groove-0039",
+      "kind": "fake-ad",
+      "flavor": "Sole Food shoes, built for kitchen floors",
+      "words": 70,
+      "text": "Cyrus: Sole Food shoes were built for kitchen floors and tested on a Saturday.\nDella: Tested by who? I want a name.\nCyrus: Forty people, one church hall, and a floor that has seen things.\nDella: That is a test. I accept that test.\nCyrus: Leather sole, soft heel, and they slide exactly as far as you ask.\nDella: Sole Food cannot make you graceful. Nothing can. Ask Bernard.\nCyrus: Lace them up. The floor is open."
+    },
+    {
+      "id": "groove-0040",
+      "kind": "feature",
+      "flavor": "the Second Helping",
+      "words": 82,
+      "text": "Cyrus: Second Helping. Once a night we go back for something we already had.\nDella: It is the only greedy thing this station does.\nCyrus: It is not greed. It is confirmation. Some records improve on the second plate.\nDella: Most do not. Most are a one-plate record, and that is fine.\nCyrus: A one-plate record is still a record.\nDella: So what gets the second helping?\nCyrus: The one with the horn line that would not leave me alone.\nDella: Good pick. Go on then. Twice in one night."
+    }
+  ]
+}

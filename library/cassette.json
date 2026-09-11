@@ -1,0 +1,288 @@
+{
+  "station": "cassette",
+  "version": 1,
+  "generated": "2026-09-12",
+  "writer": "claude-opus-5",
+  "segments": [
+    {
+      "id": "cassette-0001",
+      "kind": "station-id",
+      "flavor": "the station ID / sweeper, and it ends with a rewind",
+      "words": 21,
+      "text": "Vance: [cheerful] Cassette! Big hair, bigger chorus, and a countdown to absolutely nothing.\nVance: Number one with a bullet, forever. Rewind and go."
+    },
+    {
+      "id": "cassette-0002",
+      "kind": "station-id",
+      "flavor": "the station ID / sweeper, and it ends with a rewind",
+      "words": 23,
+      "text": "Vance: You are locked into Cassette, where the tape never wears out and the chorus never quits.\nVance: Hold the hairspray. Here comes the song."
+    },
+    {
+      "id": "cassette-0003",
+      "kind": "station-id",
+      "flavor": "the station ID / sweeper, and it ends with a rewind",
+      "words": 19,
+      "text": "Vance: [shouting] This is Cassette! Everything is loud, everything is neon, everything repeats.\nVance: Roll the tape back and hit play."
+    },
+    {
+      "id": "cassette-0004",
+      "kind": "station-id",
+      "flavor": "the station ID / sweeper, and it ends with a rewind",
+      "words": 25,
+      "text": "Vance: Cassette. Home of the drum sound that knocks doors off their hinges.\nVance: Ingrid says it is a preset. Ingrid is right. Rewind, and play it."
+    },
+    {
+      "id": "cassette-0005",
+      "kind": "talk-break",
+      "flavor": "Vance turns something ordinary into a countdown and commits fully",
+      "words": 28,
+      "text": "Vance: Tonight's weather, in reverse order. At number three, a breeze. Number two, one cloud.\nVance: Holding at number one for the ninth straight night — dark. Play the record."
+    },
+    {
+      "id": "cassette-0006",
+      "kind": "talk-break",
+      "flavor": "Vance turns something ordinary into a countdown and commits fully",
+      "words": 30,
+      "text": "Vance: The hours are charting tonight. Midnight is climbing. One in the morning is falling fast.\nVance: And four in the morning is a new entry, straight in at the top. Music!"
+    },
+    {
+      "id": "cassette-0007",
+      "kind": "talk-break",
+      "flavor": "Ingrid names the exact drum machine or synth on the last record; Vance takes it personally",
+      "words": 33,
+      "text": "Vance: That snare. That is a wall coming down. Nobody ever built a snare like it.\nIngrid: Drum machine, factory bank, gated reverb. Nine studios built it that same week.\nVance: Nine? Roll the next one."
+    },
+    {
+      "id": "cassette-0008",
+      "kind": "talk-break",
+      "flavor": "Boyd calls from a payphone with big news and runs out of coins before the point",
+      "words": 38,
+      "text": "Vance: Boyd is calling from the payphone. Boyd, the big news, go.\nBoyd: Vance, I have carried this all week, and the thing about it is —\nBoyd: Hang on. The machine is eating my —\nIngrid: Coins.\nVance: Gone. Play the song."
+    },
+    {
+      "id": "cassette-0009",
+      "kind": "talk-break",
+      "flavor": "Vance turns something ordinary into a countdown and commits fully",
+      "words": 35,
+      "text": "Vance: Here is tonight's studio coffee chart. At number three, this morning's cup, still warm, still climbing.\nVance: At two, the pot itself. New entry at the top, with a bullet: the plastic spoon. Hit the music."
+    },
+    {
+      "id": "cassette-0010",
+      "kind": "talk-break",
+      "flavor": "Vance turns something ordinary into a countdown and commits fully",
+      "words": 34,
+      "text": "Vance: Tonight my jacket is a chart. At number two, the zipper, which climbed all week and stuck.\nVance: And number one, with a bullet, immovable: the shoulders. Nothing beats the shoulders. Straight into the song."
+    },
+    {
+      "id": "cassette-0011",
+      "kind": "talk-break",
+      "flavor": "back-announce the last record as this week's number one with a bullet; Ingrid corrects the year",
+      "words": 42,
+      "text": "Vance: That record is this hour's number one with a bullet. Undisputed.\nIngrid: It charted twice. The first time was six years before you think.\nVance: Six? I was there. I had a scarf.\nIngrid: You had a scarf both times. Here comes the next one."
+    },
+    {
+      "id": "cassette-0012",
+      "kind": "talk-break",
+      "flavor": "Ingrid names the exact drum machine or synth on the last record; Vance takes it personally",
+      "words": 39,
+      "text": "Vance: That bass. That is a real player. You can hear fingers on the strings.\nIngrid: That is a synth. One oscillator, one filter sweep, no fingers at all.\nVance: [sigh] There are always fingers, Ingrid.\nIngrid: Not this time. Roll the tape."
+    },
+    {
+      "id": "cassette-0013",
+      "kind": "talk-break",
+      "flavor": "Ingrid names the exact drum machine or synth on the last record; Vance takes it personally",
+      "words": 53,
+      "text": "Vance: Those handclaps! A whole room of people clapping at once. You can feel the room.\nIngrid: Twelve claps, sampled once, retriggered. One person, one afternoon, one machine.\nVance: One person? That is a party of one.\nIngrid: It was a Tuesday. He clapped once and went to lunch.\nVance: I respect him more now. Next record, go."
+    },
+    {
+      "id": "cassette-0014",
+      "kind": "talk-break",
+      "flavor": "back-announce the last record as this week's number one with a bullet; Ingrid corrects the year",
+      "words": 58,
+      "text": "Vance: New at the top with a bullet — that one. A monster. A giant.\nIngrid: It is a giant. It is also four years older than you announced.\nVance: I round the years down. It keeps the whole chart feeling young.\nIngrid: Nothing on this chart is young. Not even the chorus.\nVance: The chorus is eternal! Into the next record now."
+    },
+    {
+      "id": "cassette-0015",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for hairspray, sincere eighties announcer grammar, rapid disclaimer from Ingrid",
+      "words": 61,
+      "text": "Vance: Cassette is brought to you by Monolith Hold hairspray.\nIngrid: [serious] Monolith Hold.\nVance: One pass, and your hair is a building. Wind does nothing. Doors bounce off.\nIngrid: Monolith Hold is flammable, permanent, and not approved for use near a candle.\nVance: It smells like victory and lemon. Ask for the black can.\nIngrid: Do not ask for the black can. Here comes the chorus."
+    },
+    {
+      "id": "cassette-0016",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a car phone, sincere eighties announcer grammar, rapid disclaimer from Ingrid",
+      "words": 68,
+      "text": "Vance: The Cordova Car Phone. A telephone. In your car. Think about that.\nIngrid: It weighs as much as a small dog and costs a great deal more.\nVance: Call the office from a parking lot. Call your mother from a bridge.\nIngrid: Range is forty feet. The bridge must be very close to the house.\nVance: Cordova. Because the future has a curly cord.\nIngrid: Antenna sold separately. Straight into the next song."
+    },
+    {
+      "id": "cassette-0017",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a home video system, sincere eighties announcer grammar, rapid disclaimer from Ingrid",
+      "words": 68,
+      "text": "Vance: The Panorama Four Hundred home video system. Top loading. Wood grain. Four heads.\nIngrid: Nobody knows what the fourth head does.\nVance: Record one show while you watch another show. Live in two places at once.\nIngrid: You will record the wrong channel. Everybody records the wrong channel.\nVance: The remote is attached by a cable, and that cable is thirty feet long.\nIngrid: Trip hazard. Not our fault. Here comes the record."
+    },
+    {
+      "id": "cassette-0018",
+      "kind": "feature",
+      "flavor": "the Countdown To Nothing",
+      "words": 72,
+      "text": "Vance: It is time for the Countdown To Nothing! Are you ready? Nobody is ready.\nIngrid: Nobody has ever been ready.\nVance: Five! Four! Three! Two! One!\nIngrid: And nothing.\nVance: Nothing! Beautiful, perfect nothing. Every hour, on the hour, we count down to it.\nIngrid: Why do we do this?\nVance: Because a countdown has to land somewhere, and nothing never disappoints.\nIngrid: That is almost wisdom.\nVance: It is entirely wisdom. Now, the opposite of nothing — this record."
+    },
+    {
+      "id": "cassette-0019",
+      "kind": "feature",
+      "flavor": "Name That Preset, the guessing game Vance always loses",
+      "words": 97,
+      "text": "Ingrid: Time for Name That Preset. I describe a sound. You name the machine.\nVance: I was born for this. Give me the sound.\nIngrid: A metal tube being hit in a stairwell, but polite about it.\nVance: A real metal tube in a real stairwell. Final answer. Lock it in.\nIngrid: It is a factory preset. Bank two. It is called Steel Drum.\nVance: Steel Drum is a place, Ingrid. It is a beach.\nIngrid: It is a slider on a machine in a cold room.\nVance: You have ruined the beach.\nIngrid: I have explained the beach.\nVance: Same thing. Next round after this record."
+    },
+    {
+      "id": "cassette-0020",
+      "kind": "feature",
+      "flavor": "the ex-wife report, who is doing great, apparently",
+      "words": 80,
+      "text": "Vance: And now, the part of the show I insist on. The ex-wife report.\nIngrid: [sigh] You do insist, yes.\nVance: She is doing great. Apparently. That is the whole report.\nIngrid: Who tells you this?\nVance: Everyone tells me this. Strangers tell me this. The man at the counter told me.\nIngrid: And how are you doing, Vance?\nVance: I am on the radio with big hair and a countdown. I am thriving.\nIngrid: That was almost convincing.\nVance: It was completely convincing. Here comes a loud one."
+    },
+    {
+      "id": "cassette-0021",
+      "kind": "talk-break",
+      "flavor": "Boyd calls from a payphone with big news and runs out of coins before the point",
+      "words": 65,
+      "text": "Vance: Boyd! From the payphone on the corner. What is the big news tonight?\nBoyd: This one is big, Vance. I have been sitting on it since Sunday.\nIngrid: Sit faster, Boyd.\nBoyd: So I opened the garage, and behind the mower there was a —\nVance: There was a what? Boyd?\nIngrid: He is out of coins again.\nVance: The garage keeps its mower and its secret. Back to the music."
+    },
+    {
+      "id": "cassette-0022",
+      "kind": "talk-break",
+      "flavor": "Vance turns something ordinary into a countdown and commits fully",
+      "words": 59,
+      "text": "Vance: I rode the elevator up tonight and counted it back down. Floor three, a strong debut.\nIngrid: Vance, that is an elevator. Not a chart.\nVance: Floor two held steady. And floor one, this studio, is number one with a bullet.\nIngrid: The building has four floors. You skipped one entirely.\nVance: Floor four is next week's chart. Take it away, tape deck."
+    },
+    {
+      "id": "cassette-0023",
+      "kind": "talk-break",
+      "flavor": "Ingrid names the exact drum machine or synth on the last record; Vance takes it personally",
+      "words": 78,
+      "text": "Vance: That choir at the end. A hundred voices. A cathedral. Goosebumps on the goosebumps.\nIngrid: One singer, four takes, a chorus pedal and a very patient engineer.\nVance: A hundred voices, Ingrid. I counted them myself.\nIngrid: You did not. Nobody counts a hundred voices at that speed.\nVance: I counted the feeling of them, which is the same number.\nIngrid: The cathedral is a preset. It is called Large Hall.\nVance: Large Hall is my favorite building in the world. Cue the song."
+    },
+    {
+      "id": "cassette-0024",
+      "kind": "talk-break",
+      "flavor": "back-announce the last record as this week's number one with a bullet; Ingrid corrects the year",
+      "words": 82,
+      "text": "Vance: That was the number one record in the country, with a bullet, and it still is.\nIngrid: It was number eleven. For one week. In one small country.\nVance: Eleven rounds up.\nIngrid: Eleven does not round up to one anywhere, Vance.\nVance: It does with the right attitude and a strong spotlight.\nIngrid: Your year is also wrong by about three summers.\nVance: My years are approximate. My enthusiasm is exact.\nIngrid: [sigh] Approximate is a generous word for it.\nVance: I chose it myself. Give me a chorus."
+    },
+    {
+      "id": "cassette-0025",
+      "kind": "talk-break",
+      "flavor": "Boyd calls from a payphone with big news and runs out of coins before the point",
+      "words": 85,
+      "text": "Vance: Payphone line! Boyd, you sound like you are standing in a wind tunnel.\nBoyd: It is the road, Vance. Big truck. Anyway, the news. Are you sitting?\nIngrid: We are always sitting. It is radio.\nBoyd: I found the thing. The thing I told you about in the spring.\nVance: The thing! He found the thing! Boyd, what is the thing?\nBoyd: It was under the — hold on, I have one more coin, I —\nIngrid: And the coin is gone.\nVance: The thing remains a mystery. On with the music."
+    },
+    {
+      "id": "cassette-0026",
+      "kind": "talk-break",
+      "flavor": "Vance turns something ordinary into a countdown and commits fully",
+      "words": 88,
+      "text": "Vance: Tonight's traffic light chart. At number three, the light on Ninth. Slow, moody, a grower.\nIngrid: A grower.\nVance: At number two, the blinking one nobody obeys. Reckless, exciting, very now.\nIngrid: And number one is red, I assume.\nVance: Red! Red has been number one for forty weeks. Red is a legend.\nIngrid: Red is a lamp, Vance. You waited at all three tonight.\nVance: I waited at all three and I enjoyed every single second.\nIngrid: That explains the mood you came in with.\nVance: The mood is called anticipation. Here is the song."
+    },
+    {
+      "id": "cassette-0027",
+      "kind": "talk-break",
+      "flavor": "Ingrid names the exact drum machine or synth on the last record; Vance takes it personally",
+      "words": 104,
+      "text": "Vance: That saxophone. A man in a coat on a fire escape at midnight. Real brass.\nIngrid: It is brass. It is also doubled by a keyboard playing the same line.\nVance: No.\nIngrid: Yes. The keyboard is louder than the saxophone in the mix.\nVance: You are telling me the man in the coat had help.\nIngrid: The man in the coat had a keyboard player standing behind him.\nVance: Was the keyboard player also wearing a coat?\nIngrid: [chuckle] Nobody ever asks that. Probably a cardigan.\nVance: A cardigan. The romance is gone, Ingrid. Completely gone.\nIngrid: The solo is still beautiful, cardigan and all.\nVance: It is. Play the next one, quickly."
+    },
+    {
+      "id": "cassette-0028",
+      "kind": "talk-break",
+      "flavor": "back-announce the last record as this week's number one with a bullet; Ingrid corrects the year",
+      "words": 108,
+      "text": "Vance: Straight in at number one with a bullet. That is the sound of a bullet.\nIngrid: A bullet is not a sound. And that record is nine years older than you said.\nVance: The chart is a living thing, Ingrid. It breathes. It moves.\nIngrid: The chart is a list. Lists do not breathe.\nVance: Mine does. Mine has lungs and a haircut.\nIngrid: A haircut is not a chart feature.\nVance: On this station the haircut is the whole feature.\nIngrid: Your chart had the weather at number two last night.\nVance: The weather is a strong performer. Consistent. Reliable. Very moody.\nIngrid: You are describing a sky.\nVance: I am describing a star. Next record, please."
+    },
+    {
+      "id": "cassette-0029",
+      "kind": "talk-break",
+      "flavor": "Boyd calls from a payphone with big news and runs out of coins before the point",
+      "words": 119,
+      "text": "Vance: Boyd is back at the payphone. Boyd, tell me you brought coins tonight.\nBoyd: A whole bag of them, Vance. Heavy bag. Very heavy bag.\nIngrid: That is a first.\nBoyd: So, the news. You know the shop on the corner with the awning?\nVance: The green awning, or the one that used to be green?\nIngrid: There are two awnings in this story already.\nBoyd: The one that used to be green. A truck pulled up, and out came —\nVance: Out came what? Boyd? The bag, Boyd, use the bag!\nIngrid: The bag was full of buttons. I could hear it.\nVance: Somebody sold that man a sack of buttons.\nIngrid: And the awning keeps its secret another week.\nVance: The awning wins again. Let the tape roll."
+    },
+    {
+      "id": "cassette-0030",
+      "kind": "talk-break",
+      "flavor": "Vance turns something ordinary into a countdown and commits fully",
+      "words": 97,
+      "text": "Vance: Big one tonight. The seasons, ranked, counted down, no appeals accepted.\nIngrid: The seasons.\nVance: At four, winter. Too long, poor chorus, terrible for the hair.\nIngrid: Hair is a category now.\nVance: Hair is the only category. At three, spring. Wet, ambitious, hair collapses.\nIngrid: Collapses.\nVance: Completely. It is a hard season for a working professional.\nIngrid: You are the only professional you have in mind.\nVance: At two, autumn. Big coat, big sky, tremendous hair.\nIngrid: And summer takes it.\nVance: Summer, number one with a bullet, and it always will be.\nVance: Because of the convertibles, obviously. Now, the number one record. Play it."
+    },
+    {
+      "id": "cassette-0031",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a waterbed showroom, sincere eighties announcer grammar, rapid disclaimer from Ingrid",
+      "words": 61,
+      "text": "Vance: Lagoon Waterbeds. Sleep on a lake, indoors, without a single fish.\nIngrid: A lake weighs a great deal. Ask about your floor first.\nVance: Heated. Padded. Available in six shades of brown.\nIngrid: Six shades of brown is not a choice, it is a mood.\nVance: Lagoon. Come in and float away from your troubles.\nIngrid: Do not float away with a cat present. Music, now."
+    },
+    {
+      "id": "cassette-0032",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for an aerobics videotape, sincere eighties announcer grammar, rapid disclaimer from Ingrid",
+      "words": 76,
+      "text": "Vance: New from our sponsors, the Thunder Aerobics tape. Ninety minutes. One leotard. No mercy.\nIngrid: Ninety minutes is longer than most people are alive on a Monday.\nVance: Grapevine. Lunge. Reach for something that is not there. Feel the burn!\nIngrid: The burn is your carpet. The tape does not cover carpet damage.\nVance: Comes with a headband in a color that does not exist in nature.\nIngrid: Neon is not a color. It is a warning. Back to the record."
+    },
+    {
+      "id": "cassette-0033",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for an answering machine, sincere eighties announcer grammar, rapid disclaimer from Ingrid",
+      "words": 68,
+      "text": "Vance: The Messenger Nine answering machine. Two tapes. One tiny speaker. Infinite possibility.\nIngrid: One tape records your greeting badly. The other loses the message.\nVance: Never miss a call again. Come home to a blinking red light.\nIngrid: The blinking red light is usually your uncle. It is always your uncle.\nVance: The Messenger Nine. Because you are a busy and important person.\nIngrid: You are not. Nobody is. Back into the music."
+    },
+    {
+      "id": "cassette-0034",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a tanning salon, sincere eighties announcer grammar, rapid disclaimer from Ingrid",
+      "words": 63,
+      "text": "Vance: Solarium Ten. Ten lamps. Ten minutes. One extremely confident color.\nIngrid: The color has a name. The name is orange.\nVance: Walk in pale. Walk out like a man who owns a boat.\nIngrid: He does not own a boat. He owns ten minutes of regret.\nVance: First session is free with any hairspray purchase.\nIngrid: Goggles are not optional, whatever the sign says. Back to the songs."
+    },
+    {
+      "id": "cassette-0035",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a personal stereo, sincere eighties announcer grammar, rapid disclaimer from Ingrid",
+      "words": 63,
+      "text": "Vance: Pocket Thunder. A whole stereo, on your belt, running on four batteries.\nIngrid: Four batteries lasting roughly one bus ride.\nVance: Orange foam headphones. Metal clip. A belt clip that has never once held.\nIngrid: The clip is decorative. The sidewalk gets the player eventually.\nVance: Pocket Thunder. Because music should follow you out the door.\nIngrid: Bring a spare clip and a broom. On with the song."
+    },
+    {
+      "id": "cassette-0036",
+      "kind": "feature",
+      "flavor": "the Video Vault, shot by shot, with Ingrid on the budget",
+      "words": 103,
+      "text": "Vance: Open the Video Vault! Picture it. A hallway. Fog. One door at the end.\nIngrid: The fog is a machine rented by the hour.\nVance: The door opens. The band is inside, playing on a floor made of light.\nIngrid: That floor is plywood with lamps underneath. Two lamps failed during the shoot.\nVance: A wind arrives from nowhere. Every coat moves as one coat.\nIngrid: One fan. Borrowed. Returned late.\nVance: The singer walks toward the camera and the hallway goes on forever.\nIngrid: The hallway was eleven feet long. They filmed it four times.\nVance: Eleven feet of pure eternity. That is the Video Vault. Back to the chorus."
+    },
+    {
+      "id": "cassette-0037",
+      "kind": "feature",
+      "flavor": "the Rewind, a live show played backward on request",
+      "words": 91,
+      "text": "Vance: You know what this show needs? A rewind. Hold on. Here it comes.\nIngrid: We cannot rewind a live show, Vance.\nVance: We can rewind anything. Watch me. Everything I said is going backward now.\nIngrid: You are just saying words in a different order.\nVance: Order different a in words saying just are you.\nIngrid: [chuckle] Fine. That was a rewind.\nVance: The Rewind. Every night, at no particular time, for no particular reason.\nIngrid: It is the only feature with a sound effect and no point.\nVance: Points are for the news. Let the music back in."
+    },
+    {
+      "id": "cassette-0038",
+      "kind": "feature",
+      "flavor": "the hair check, a studio report on volume",
+      "words": 84,
+      "text": "Vance: Hair check! Ingrid, how is the hair tonight?\nIngrid: My hair is fine. It is hair. It sits there.\nVance: Wrong answer. Hair does not sit. Hair arrives. Hair announces you.\nIngrid: Mine announces nothing. Mine is a rumor.\nVance: Mine is visible from the parking structure. Two people asked me for directions.\nIngrid: Directions to where?\nVance: To me. They were already there. That is the power of volume.\nIngrid: That is the power of standing under a light.\nVance: Same power, different source. Hair check complete. Give me that record."
+    },
+    {
+      "id": "cassette-0039",
+      "kind": "feature",
+      "flavor": "the studio address book, where a record was cut",
+      "words": 91,
+      "text": "Ingrid: Studio address book. That record was cut in a converted grain store by a river.\nVance: A river! With a little bridge and a boat and a man fishing?\nIngrid: With a loading dock and a broken window they never fixed.\nVance: I am picturing a holiday. I am packing already.\nIngrid: The room was cold. The engineer wore two coats indoors.\nVance: A cozy river holiday with coats. It gets better every second.\nIngrid: The reverb you love is that cold room. That is all it is.\nVance: Then the room is my favorite destination. Music, please."
+    },
+    {
+      "id": "cassette-0040",
+      "kind": "feature",
+      "flavor": "Mixtape Corner, the rules of a tape",
+      "words": 101,
+      "text": "Vance: Mixtape Corner. Rule one. The first song must arrive like a door kicked open.\nIngrid: Rule one is fine. Rule two is where you go wrong.\nVance: Rule two! The slow one goes at the end of side one. Always.\nIngrid: Then you have four minutes of blank tape and a click.\nVance: Blank tape is drama. Blank tape is the intermission.\nIngrid: Blank tape is arithmetic you did not do.\nVance: Rule three. Never label a side until the tape is finished.\nIngrid: You never label them at all. That is why they are all mysteries.\nVance: Every tape should be a mystery. Side one, track one. Go!"
+    }
+  ]
+}

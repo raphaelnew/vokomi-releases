@@ -1,0 +1,288 @@
+{
+  "station": "peak",
+  "version": 1,
+  "generated": "2026-09-12",
+  "writer": "claude-opus-5",
+  "segments": [
+    {
+      "id": "peak-0001",
+      "kind": "station-id",
+      "flavor": "the station ID, at fire-drill volume",
+      "words": 15,
+      "text": "Puck: [cheerful] PEAK FM! The station that treats a plain Tuesday like a fire drill! Music!"
+    },
+    {
+      "id": "peak-0002",
+      "kind": "station-id",
+      "flavor": "the station ID, with Bella overruled",
+      "words": 21,
+      "text": "Puck: Bella says I have had enough coffee for one entire morning.\nPuck: Bella does not run this station. PEAK FM! Music, go!"
+    },
+    {
+      "id": "peak-0003",
+      "kind": "station-id",
+      "flavor": "the station ID, two speeds only",
+      "words": 22,
+      "text": "Puck: Peak FM has two speeds. Loud, and slightly louder than loud.\nPuck: HAHA! Nobody has found a third speed. Back to the songs!"
+    },
+    {
+      "id": "peak-0004",
+      "kind": "station-id",
+      "flavor": "the station ID, the excited kettle",
+      "words": 15,
+      "text": "Puck: [shouting] PEAK FM! Somewhere a kettle just boiled from pure excitement! Here comes more music!"
+    },
+    {
+      "id": "peak-0005",
+      "kind": "talk-break",
+      "flavor": "a ridiculous on-air challenge for the listener with instant fake results",
+      "words": 28,
+      "text": "Puck: Challenge of the hour: say one kind thing to a houseplant, out loud, with feeling.\nPuck: Results already in. The plant grew, and the man cried. Song. Now. Go."
+    },
+    {
+      "id": "peak-0006",
+      "kind": "talk-break",
+      "flavor": "a ridiculous on-air challenge for the listener with instant fake results",
+      "words": 37,
+      "text": "Puck: New challenge: climb one single flight of stairs, and do not sigh once at the top. Easy.\nPuck: [laugh] Results are in. The entire building failed on the first step. Roll the music before I invent another one."
+    },
+    {
+      "id": "peak-0007",
+      "kind": "talk-break",
+      "flavor": "a ridiculous on-air challenge for the listener with instant fake results",
+      "words": 63,
+      "text": "Puck: Today's challenge: hold an elevator door open and smile for the entire ride.\nBella: Instant results are in. Four people got on. Not one pressed a button.\nPuck: NO WAY. They rode around as a group? With no destination at all?\nBella: Floor two. Then floor two again. They are friends now.\nPuck: That is beautiful and I take full credit. More music, and less of me."
+    },
+    {
+      "id": "peak-0008",
+      "kind": "talk-break",
+      "flavor": "a ridiculous on-air challenge for the listener with instant fake results",
+      "words": 84,
+      "text": "Puck: Big challenge: carry every grocery bag inside in one single heroic trip.\nBella: The results came back instantly, and they are not good.\nPuck: Tell me. I can take it. I invented this challenge myself.\nBella: Eleven bags. One man. Two hands. The eggs did not survive.\nPuck: The eggs knew the risk! They signed up for this!\nBella: They signed nothing. Eggs cannot sign anything.\nPuck: Then the potatoes rolled into the street and I caught four!\nBella: Four out of nine. Here is a song to calm the room."
+    },
+    {
+      "id": "peak-0009",
+      "kind": "talk-break",
+      "flavor": "a ridiculous on-air challenge for the listener with instant fake results",
+      "words": 104,
+      "text": "Puck: New challenge. One full hour without saying the word basically. Starting now.\nBella: You said it twice while explaining the rules.\nPuck: That does not count! Rules happen outside the game!\nBella: The scoreboard disagrees. The record in this building is nine seconds.\nPuck: NINE SECONDS? Give me a name. I want to beat an actual name.\nBella: It was a man in accounting, and he was asleep at the time.\nPuck: So the record belongs to an unconscious man. Perfect. I accept.\nBella: You have lost it twice since the rules ended.\nPuck: Then I am going for third place and a small trophy. One more song before anything else happens."
+    },
+    {
+      "id": "peak-0010",
+      "kind": "talk-break",
+      "flavor": "Puck's hot take of the hour; Bella ends it with one line; big reactions written as words",
+      "words": 29,
+      "text": "Puck: Hot take of the hour: soup is a drink and the spoon is stalling.\nBella: That is a lot of confidence from a man holding a fork. Hit the music."
+    },
+    {
+      "id": "peak-0011",
+      "kind": "talk-break",
+      "flavor": "Puck's hot take of the hour; Bella ends it with one line; big reactions written as words",
+      "words": 46,
+      "text": "Puck: Hot take. The snooze button is cardio. A person wakes up nine times. Nine!\nBella: That is not how cardio works, or mornings, or numbers.\nPuck: Nine wake ups! A full training camp before breakfast!\nBella: He is going to put that on a shirt. Next song, please, quickly."
+    },
+    {
+      "id": "peak-0012",
+      "kind": "talk-break",
+      "flavor": "Puck's hot take of the hour; Bella ends it with one line; big reactions written as words",
+      "words": 54,
+      "text": "Puck: Hot take: nobody owns an umbrella. Everyone is borrowing one from the future.\nBella: Oh. OH. Okay, that one almost landed.\nPuck: ALMOST? Every umbrella is a rental with no paperwork and no return date!\nBella: Then why is mine in your bag, with my name on the handle?\nPuck: Borrowing. From the future. Take it away, music."
+    },
+    {
+      "id": "peak-0013",
+      "kind": "talk-break",
+      "flavor": "Puck's hot take of the hour; Bella ends it with one line; big reactions written as words",
+      "words": 74,
+      "text": "Puck: Hot take of the hour. An office chair has wheels, so an office chair is a vehicle.\nBella: It is furniture. It is very clearly furniture.\nPuck: Four wheels, a seat, and a speed. That is a car with commitment issues.\nBella: There is no speed. It rolls when somebody pushes it.\nPuck: That is a speed! That is the entire definition of a speed!\nBella: He wants a licence plate for a chair. Straight into the next one."
+    },
+    {
+      "id": "peak-0014",
+      "kind": "talk-break",
+      "flavor": "Puck's hot take of the hour; Bella ends it with one line; big reactions written as words",
+      "words": 112,
+      "text": "Puck: Hot take, and I will defend it all hour. The second slice of toast is a disappointment.\nBella: A disappointment. Toast.\nPuck: The first slice gets the good butter, the attention, the respect. The second gets leftovers.\nBella: The second slice is identical. Same bread, same bag.\nPuck: Same bag, completely different destiny! The first slice is the headline act!\nBella: Ohhh he is building a ranking. I can hear it starting.\nPuck: I am not ranking. I am ordering toast.\nBella: Those are the same thing.\nPuck: Slice one, magnificent. Slice two, acceptable. Slice three, a cry for help.\nBella: Nobody has ever made a third slice.\nPuck: I have. Twice, before the first song. HAHA! Music. I have said enough."
+    },
+    {
+      "id": "peak-0015",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for the Enthusiasm Clock",
+      "words": 60,
+      "text": "Puck: The Enthusiasm Clock does not beep. The Enthusiasm Clock gives compliments until somebody stands up.\nBella: It knows four compliments. It says them forever, in the dark.\nPuck: A great morning starts with being told about it, loudly, at full volume.\nBella: Not for shared walls, light sleepers, or anybody with a nervous disposition.\nPuck: The Enthusiasm Clock. Wake up adored. Play something loud."
+    },
+    {
+      "id": "peak-0016",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for the Never Empty Mug",
+      "words": 61,
+      "text": "Puck: Introducing the Never Empty Mug, the only mug that refuses to reach the bottom.\nBella: It is a small mug inside a bigger mug. That is the entire invention.\nPuck: Every sip is met by another sip. The coffee simply continues.\nBella: Holds forty millilitres. Weighs two kilograms. Cannot be washed, ever.\nPuck: The Never Empty Mug. Endless, technically. Songs. Many of them. Starting now."
+    },
+    {
+      "id": "peak-0017",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for the Big Entrance Doorbell",
+      "words": 56,
+      "text": "Puck: The Big Entrance Doorbell replaces that sad little ding with a full chorus.\nBella: Forty seconds of chorus. Every time. Even for a delivery.\nPuck: A guest arrives, the key change lands, and the hallway becomes an event.\nBella: Neighbours may object. Courts have agreed with the neighbours.\nPuck: The Big Entrance Doorbell. Arrive like somebody. Cue a song immediately."
+    },
+    {
+      "id": "peak-0018",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for Hype Socks",
+      "words": 55,
+      "text": "Puck: Hype Socks cheer for a person every single time that person stands up.\nBella: They cheer when anyone stands. Including at funerals.\nPuck: Standing is an achievement! Hype Socks understand what the room refuses to say!\nBella: Volume cannot be lowered. The cheering cannot be switched off.\nPuck: Hype Socks. Applause, from the ankles. Rolling into the next track."
+    },
+    {
+      "id": "peak-0019",
+      "kind": "feature",
+      "flavor": "Guess That Sound",
+      "words": 67,
+      "text": "Puck: It is time for Guess That Sound! I make the sound, Bella names the sound.\nBella: I have never once been right.\nPuck: Ready? Here it comes. Nnnnyeeer. Nyer. Clunk.\nBella: A lorry reversing into a drum kit.\nPuck: It was a fridge door! A heavy fridge door!\nBella: Nothing about that was a fridge.\nPuck: It was the big fridge downstairs! We are so close! Here comes a chorus to fix that."
+    },
+    {
+      "id": "peak-0020",
+      "kind": "feature",
+      "flavor": "Word Of The Hour",
+      "words": 83,
+      "text": "Puck: Word Of The Hour! The word is spatula, and I will use it constantly.\nBella: You used it wrong before the segment even started.\nPuck: I said the traffic was spatula. That is a bold and modern usage.\nBella: That is not a usage. That is a man losing a word.\nPuck: Spatula! Say it once. Feel taller. Feel flatter, somehow.\nBella: The word means the thing that flips an egg. Nothing else.\nPuck: Not any more! Word Of The Hour, now with extra meanings! Music while I recover."
+    },
+    {
+      "id": "peak-0021",
+      "kind": "talk-break",
+      "flavor": "Sky patches in a caller moment that goes wrong fast; everyone talks over each other with dashes",
+      "words": 30,
+      "text": "Puck: The caller line rang. I answered with my very best radio voice. Nobody there.\nPuck: Just a hairdryer, running, for eleven seconds. I am pressing the button. Here is a song."
+    },
+    {
+      "id": "peak-0022",
+      "kind": "talk-break",
+      "flavor": "Sky patches in a caller moment that goes wrong fast; everyone talks over each other with dashes",
+      "words": 52,
+      "text": "Puck: Line one! Sky, where in the world are we finding you?\nSky: In a car wash! I thought I had time before the —\nPuck: Before the what? SKY? Before the WHAT?\nSky: [breathless] The water! It is the water! I have to go!\nBella: And that is our caller line. The songs take over now."
+    },
+    {
+      "id": "peak-0023",
+      "kind": "talk-break",
+      "flavor": "Sky patches in a caller moment that goes wrong fast; everyone talks over each other with dashes",
+      "words": 66,
+      "text": "Puck: Caller line! Sky is somewhere, and it sounds cold. Sky?\nSky: I am lost in a supermarket. Every aisle looks the same.\nPuck: Follow the music! Every shop plays music! Walk toward it!\nSky: That is a freezer humming. I followed a freezer for — oh no.\nBella: She dropped the phone into the frozen peas.\nPuck: SKY! The peas cannot help you! Back into the songs where it is safer."
+    },
+    {
+      "id": "peak-0024",
+      "kind": "talk-break",
+      "flavor": "Sky patches in a caller moment that goes wrong fast; everyone talks over each other with dashes",
+      "words": 88,
+      "text": "Puck: The caller line is live! Sky, welcome to Peak FM!\nSky: Finally. I have been holding for the gardening programme for forty minutes.\nPuck: The what? Sky, this is a morning show.\nBella: We have one fern. It is plastic, and it is thriving.\nSky: Then who do I ask about my tomatoes?\nPuck: I will take it! Tomatoes want sun, water, and no interference!\nBella: He has never grown a single thing in his life.\nSky: Still better than the gardening programme. Bye!\nPuck: SHE LIKED IT! Song next, and it is a good one."
+    },
+    {
+      "id": "peak-0025",
+      "kind": "talk-break",
+      "flavor": "Sky patches in a caller moment that goes wrong fast; everyone talks over each other with dashes",
+      "words": 113,
+      "text": "Puck: Caller line! Sky, it sounds like you are moving at speed.\nSky: I am on a bus and it will not stop.\nPuck: What do you mean it will not stop? Press the button!\nBella: She is being taken somewhere against her will by public transport.\nPuck: This is a hostage situation with a timetable! Sky, what can you see?\nSky: A roundabout. Then the same roundabout. I think we are going around twice.\nBella: Oh. OH. That is not a route. That is a loop.\nPuck: SKY! Get off at the studio! We will wave!\nSky: You are on the wrong side of the — here it goes again!\nBella: And she is gone. Around, and around. Onward, to a song."
+    },
+    {
+      "id": "peak-0026",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} like it just won an award; Puck overcommits",
+      "words": 27,
+      "text": "Puck: That run of songs just went undefeated. Not one weak track in it.\nPuck: I would put the whole thing in a museum. Here comes the next champion."
+    },
+    {
+      "id": "peak-0027",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} like it just won an award; Puck overcommits",
+      "words": 36,
+      "text": "Puck: I just gave that last song a full standing ovation, alone, in a completely empty studio. Both hands.\nPuck: Nobody else clapped, so I clapped twice as hard for the two of us. More music, same volume."
+    },
+    {
+      "id": "peak-0028",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} like it just won an award; Puck overcommits",
+      "words": 58,
+      "text": "Puck: That set of songs walked up, accepted the award, and thanked its parents.\nBella: A playlist does not have parents.\nPuck: Everything has parents, Bella! Somewhere out there is an older, slower song!\nBella: [sigh] He is going to write a speech for a playlist.\nPuck: I have already written it. It opens with gratitude. Cue the music, and cue it fast."
+    },
+    {
+      "id": "peak-0029",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} like it just won an award; Puck overcommits",
+      "words": 74,
+      "text": "Puck: I built a display case for that last hour of music. Glass. Velvet. The works.\nBella: It is a shoebox. He cut the window with a butter knife.\nPuck: It is a CASE! It has a window! A window makes it a case!\nBella: There is a shoe in it.\nPuck: The shoe is a placeholder! The real trophy is on its way!\nBella: There is no trophy. There has never been a trophy. Big song coming. Hold on."
+    },
+    {
+      "id": "peak-0030",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} like it just won an award; Puck overcommits",
+      "words": 113,
+      "text": "Puck: That last run of music deserves a speech, so I have written one.\nBella: How long is it?\nPuck: Four minutes. Five with the pauses. Six if the room reacts well.\nBella: The room is two people, and one of them is timing you.\nPuck: Fine. The short version. Songs, thank you for carrying this whole hour.\nBella: That was good. Stop there.\nPuck: I am not finished. There is a middle section with a list.\nBella: Of course there is.\nPuck: Thank you to the drums, the chorus, the quiet bit in the middle —\nBella: Twenty seconds.\nPuck: And thank you to whoever decided a song should have a chorus at all!\nBella: Time. Sit down. The songs continue. So does he."
+    },
+    {
+      "id": "peak-0031",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for Peak Hot Sauce",
+      "words": 56,
+      "text": "Puck: Peak Hot Sauce arrives in three strengths: brave, unwise, and full apology.\nBella: The apology is in the box. It is already written out.\nPuck: One drop wakes a sandwich. Two drops wake the neighbours.\nBella: Do not apply to skin, to bread, or to anything anyone intends to eat.\nPuck: Peak Hot Sauce. Regret, bottled. Back to the playlist."
+    },
+    {
+      "id": "peak-0032",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for the Polite Horn",
+      "words": 58,
+      "text": "Puck: The Polite Horn replaces that angry blast with a warm, sincere thank you.\nBella: It says thank you at one hundred decibels.\nPuck: Courtesy should be heard from three streets away. That is simply good manners.\nBella: Not legal in most places. Possibly not legal anywhere at all.\nPuck: The Polite Horn. Rude volume, lovely message. A song now. A big one."
+    },
+    {
+      "id": "peak-0033",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for Second Breakfast In A Can",
+      "words": 62,
+      "text": "Puck: Second Breakfast In A Can holds an entire second breakfast, in liquid form.\nBella: It is beige. It is warm. It arrives warm on purpose.\nPuck: Eggs, beans, and optimism, all shaken into one confident tin.\nBella: One can per year. Do not open near soft furnishings.\nPuck: Second Breakfast In A Can. Because the first one gave up. Let us hear something with a chorus."
+    },
+    {
+      "id": "peak-0034",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for Peak Paint",
+      "words": 59,
+      "text": "Puck: Peak Paint is the only paint bright enough to wake a room before sunrise.\nBella: It comes in one colour. The colour is called Consequences.\nPuck: One coat, and that room never feels sleepy again. Ever.\nBella: Cannot be covered. Two coats of white will not hide it.\nPuck: Peak Paint. Now the walls are awake too. We go back to the songs."
+    },
+    {
+      "id": "peak-0035",
+      "kind": "feature",
+      "flavor": "Puck Ranks Things",
+      "words": 87,
+      "text": "Puck: Puck Ranks Things! This hour I am ranking every chair in this building.\nBella: There are nine chairs.\nPuck: Number one, the good chair by the window. That chair knows what it is.\nBella: It is broken. It leans hard to the left.\nPuck: It leans with confidence! Number two, the stool nobody ever chooses!\nBella: Because it is a stool. Nobody chooses a stool.\nPuck: Last place, that plastic thing in the hallway. It has done nothing for anyone.\nBella: You sat in it all morning. Here is music instead of an apology."
+    },
+    {
+      "id": "peak-0036",
+      "kind": "feature",
+      "flavor": "the forecast for a town that does not exist",
+      "words": 80,
+      "text": "Puck: The Peak FM forecast for Mount Awake, a town that exists only here!\nBella: Because we invented it, and it has no residents.\nPuck: Sunshine at the summit, mild panic in the valley, sixteen degrees of pure potential.\nBella: Wind?\nPuck: Enthusiastic! Coming from every direction at once, which is scientifically impossible!\nBella: Nothing in that forecast is possible.\nPuck: Later in Mount Awake, more sun and a small parade!\nBella: There is no parade. There is nobody to parade. That is enough from the studio. Music."
+    },
+    {
+      "id": "peak-0037",
+      "kind": "feature",
+      "flavor": "Two Truths And A Puck",
+      "words": 82,
+      "text": "Puck: Two Truths And A Puck! Two of these are true. Bella finds the lie.\nBella: Go.\nPuck: One. I slept through an entire thunderstorm. Two. I own eleven identical shirts.\nPuck: Three. I have never lost an argument inside this studio.\nBella: The third one. Obviously the third one.\nPuck: WRONG! I have never lost an argument. I simply stop having them.\nBella: That is losing. That is the definition of losing.\nPuck: Then the lie was the shirts. There are fourteen. I am out of words. Song time."
+    },
+    {
+      "id": "peak-0038",
+      "kind": "feature",
+      "flavor": "the Peak FM Leaderboard",
+      "words": 78,
+      "text": "Puck: The Peak FM Leaderboard! The standing record is a paper plane across this studio.\nBella: Current holder, the man who fixes the lights, and he is not here.\nPuck: Eleven metres! Eleven! I have attempted it forty times this hour.\nBella: Best attempt, two metres, straight into a window.\nPuck: The window moved! I have witnesses!\nBella: You have one witness, and she is telling everybody the truth.\nPuck: New rule. Window interference now counts as distance! Now a song, and then more songs."
+    },
+    {
+      "id": "peak-0039",
+      "kind": "feature",
+      "flavor": "One Breath",
+      "words": 84,
+      "text": "Puck: One Breath! Bella asks a question, and I answer without breathing once.\nBella: Describe a perfect morning.\nPuck: Loud alarm, hot coffee, cold air, a good chorus, a green light, a friendly dog, a —\nBella: Breath.\nPuck: I DID NOT BREATHE! That was a pause for dramatic effect!\nBella: It was a gasp. Everybody in this room heard the gasp.\nPuck: Judges? Bella is the judge. Bella is also the opponent. This system is broken!\nBella: The system works fine. You lose. The music saves us again. Here it is."
+    },
+    {
+      "id": "peak-0040",
+      "kind": "feature",
+      "flavor": "Name That Snack",
+      "words": 77,
+      "text": "Puck: Name That Snack! Bella describes a snack badly. I name it in three guesses.\nBella: Small. Loud. Comes in a bag that is mostly air.\nPuck: Crisps! Obviously crisps! One guess, and I am finished!\nBella: Wrong. It was a bag of ice.\nPuck: A BAG OF ICE IS NOT A SNACK!\nBella: Small, loud, and mostly air. The rules are the rules.\nPuck: Those are my rules and they are being used against me! Back to the loud part of the hour."
+    }
+  ]
+}

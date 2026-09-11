@@ -1,0 +1,288 @@
+{
+  "station": "hitline",
+  "version": 1,
+  "generated": "2026-09-12",
+  "writer": "claude-opus-5",
+  "segments": [
+    {
+      "id": "hitline-0001",
+      "kind": "station-id",
+      "flavor": "station ID, the hour opens climbing",
+      "words": 15,
+      "text": "Tess: [cheerful] Hitline. Ten songs an hour, every one of them climbing. Number one starts now."
+    },
+    {
+      "id": "hitline-0002",
+      "kind": "station-id",
+      "flavor": "station ID, the signature sign-off",
+      "words": 18,
+      "text": "Tess: Hitline. Where the chart only goes one direction, and that direction is up.\nTess: And that's number one. Go!"
+    },
+    {
+      "id": "hitline-0003",
+      "kind": "station-id",
+      "flavor": "station ID, everything here is counted",
+      "words": 17,
+      "text": "Tess: You found Hitline. Everything here is counted, and everything counted is rising.\nTess: Volume up. Here it comes."
+    },
+    {
+      "id": "hitline-0004",
+      "kind": "station-id",
+      "flavor": "station ID, the fastest chart in the world",
+      "words": 20,
+      "text": "Tess: [shouting] HITLINE! Fastest chart in the world, and it is still getting faster.\nTess: Count with me. One, and play it."
+    },
+    {
+      "id": "hitline-0005",
+      "kind": "talk-break",
+      "flavor": "Tess counts three unrelated things about her day and ends on 'and that's number one'",
+      "words": 30,
+      "text": "Tess: Buttons on this jacket, six. Umbrellas lost this month, three. Songs I loved today, all of them.\nTess: That is three counts, one jacket, and that is number one. Play it."
+    },
+    {
+      "id": "hitline-0006",
+      "kind": "talk-break",
+      "flavor": "Tess counts three unrelated things about her day and ends on 'and that's number one'",
+      "words": 29,
+      "text": "Tess: Elevator rides today, nine. Floors I actually wanted, two. Choruses I sang in there, all nine.\nTess: Nine out of nine singing, and that is number one. Here we go."
+    },
+    {
+      "id": "hitline-0007",
+      "kind": "talk-break",
+      "flavor": "Tess counts three unrelated things about her day and ends on 'and that's number one'",
+      "words": 60,
+      "text": "Tess: Three counts before the next song. Socks matching, zero. Keys found, one. Ideas, forty.\nMilo: Forty ideas is up eleven percent on your own average, which I keep.\nTess: You keep an average of my ideas?\nMilo: Column R. It updates itself. And right now, column R is trending.\nTess: Then column R can take the bow, and that is number one. Roll it."
+    },
+    {
+      "id": "hitline-0008",
+      "kind": "talk-break",
+      "flavor": "Tess counts three unrelated things about her day and ends on 'and that's number one'",
+      "words": 84,
+      "text": "Tess: Counting the day so far. Doors I pushed that said pull, four.\nMilo: Four is high. The national figure is one point two doors.\nTess: Sandwiches eaten standing up, two. Both of them over this desk.\nMilo: The desk is now the third most crumbed surface in this building.\nTess: And songs that made me forget every one of those doors, all of them.\nMilo: That is still not a countable quantity, and I have tried to count it.\nTess: It is here, and that is number one. Music, please."
+    },
+    {
+      "id": "hitline-0009",
+      "kind": "talk-break",
+      "flavor": "Milo cites an invented chart statistic with total confidence and one absurd demographic",
+      "words": 31,
+      "text": "Milo: This next one is up sixty percent among people who own a ladder.\nTess: A ladder. That is the demographic.\nMilo: One ladder. Two ladders is a different chart entirely. Here it climbs."
+    },
+    {
+      "id": "hitline-0010",
+      "kind": "talk-break",
+      "flavor": "Milo cites an invented chart statistic with total confidence and one absurd demographic",
+      "words": 46,
+      "text": "Milo: Hitline fact. This song tests forty-one percent stronger with anyone currently holding a mug.\nTess: Holding a mug. Not drinking from it.\nMilo: Drinking from it drops you to nineteen. The mug is the variable, not the tea.\nTess: Mugs down, everyone. I want the honest number. Song, now!"
+    },
+    {
+      "id": "hitline-0011",
+      "kind": "talk-break",
+      "flavor": "Milo cites an invented chart statistic with total confidence and one absurd demographic",
+      "words": 64,
+      "text": "Milo: New data. This one performs eighty-eight percent better in rooms with one window.\nTess: One window. What happens in a room with two?\nMilo: It collapses. Two windows and the song tests worse than silence.\nTess: So the whole chart depends on somebody's builder.\nMilo: The builders are eleven percent of my sample and they refuse to answer.\nTess: Then we go with one window. Windows closed, volume up!"
+    },
+    {
+      "id": "hitline-0012",
+      "kind": "talk-break",
+      "flavor": "Milo cites an invented chart statistic with total confidence and one absurd demographic",
+      "words": 112,
+      "text": "Milo: I ran the numbers again and then I ran them a third time.\nTess: [sarcastic] That is two times, Milo. Three is a different word.\nMilo: This next track is up seventy-two percent among people who have named their car.\nTess: Named their car. As in given it a name.\nMilo: A first name only. Full names drop it to thirty-one percent. Nicknames, unreadable.\nTess: Why would a surname hurt a song?\nMilo: Formality. A car with a surname never dances. That is in the notes.\nTess: You keep notes about whether cars dance.\nMilo: I have a tab. It is colour coded and it is climbing.\nTess: Then start the engine, whatever its name is, and drive into this one!"
+    },
+    {
+      "id": "hitline-0013",
+      "kind": "talk-break",
+      "flavor": "a fake ad for a phone plan, an energy bar or a music festival, sincere announcer grammar, rapid disclaimer from Milo",
+      "words": 31,
+      "text": "Tess: Hitline runs on Nimbus Mobile. One plan, one price, one small footnote.\nMilo: The footnote is four pages. Page three is just the word sorry.\nTess: Nimbus Mobile. Ring us later. Music now!"
+    },
+    {
+      "id": "hitline-0014",
+      "kind": "talk-break",
+      "flavor": "a fake ad for a phone plan, an energy bar or a music festival, sincere announcer grammar, rapid disclaimer from Milo",
+      "words": 48,
+      "text": "Tess: Chorus Crunch. The energy bar with a key change inside.\nMilo: Bar contains no key change. The middle is caramel and regret.\nTess: One bar, one chorus, and the day gets loud again.\nMilo: Chew responsibly. Ninety percent of testers chewed in time. Terms chewy.\nTess: Chorus Crunch. Back to the climb!"
+    },
+    {
+      "id": "hitline-0015",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for an energy bar shaped like a sound wave",
+      "words": 59,
+      "text": "Tess: Thrum. The energy bar shaped like a sound wave and priced like a snack.\nMilo: Thrum contains oats, honey, and an ingredient listed only as more.\nTess: One Thrum before the last hour and the last hour becomes the first hour.\nMilo: Time does not reverse. Thrum makes no claim about time. Thrum is a bar.\nTess: Thrum. Chew loud. Now the music!"
+    },
+    {
+      "id": "hitline-0016",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a festival with a scheduled sunrise",
+      "words": 80,
+      "text": "Tess: Loudfield. One weekend, one valley, and a sunrise that arrives with a bassline.\nMilo: The sunrise is not scheduled by us. We schedule everything except the sunrise.\nTess: Sixty acts across five stages, and the smallest stage always wins the weekend.\nMilo: Smallest stage holds two hundred. Everyone else watches the biggest stage. Statistically.\nTess: Loudfield. Bring your voice. You will leave without it.\nMilo: [serious] Voice loss is common, expected, and not covered by the ticket.\nTess: Worth it. Every time. Back to the songs!"
+    },
+    {
+      "id": "hitline-0017",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a phone plan sold with one bar of signal",
+      "words": 59,
+      "text": "Tess: Halo Mobile. A phone plan with one bar of signal and infinite confidence.\nMilo: One bar is the plan. Two bars costs extra and is called Halo Plus.\nTess: Calls, texts, and a little ring of light around your name.\nMilo: The ring of light is a sticker. It is on the box. Terms apply.\nTess: Halo Mobile. Shine on. Let it play!"
+    },
+    {
+      "id": "hitline-0018",
+      "kind": "feature",
+      "flavor": "The Plant Report, the studio plant that is trending",
+      "words": 110,
+      "text": "Tess: Time for the Plant Report. Milo, how is the studio plant doing this week?\nMilo: The plant is up. It is always up. This week it is up thirteen percent.\nTess: Up in what sense? It has one leaf and no opinions.\nMilo: Two leaves. And it charts. Everyone who walks past it looks at it.\nTess: That is not charting, that is a plant in a corridor.\nMilo: A plant in a corridor with a thirteen percent look rate is a hit.\nTess: Then congratulations to the plant. Water it on the way past.\nMilo: It is already the third most photographed thing in this building.\nTess: Beaten only by the desk and the crumbs. Play on!"
+    },
+    {
+      "id": "hitline-0019",
+      "kind": "feature",
+      "flavor": "The Spreadsheet, Milo ranks the week's feelings",
+      "words": 91,
+      "text": "Tess: It is time for the spreadsheet. Milo keeps a spreadsheet of feelings.\nMilo: Of all feelings. Sorted, dated, and colour coded. This week has a clear winner.\nTess: Give me the winning feeling.\nMilo: The winning feeling is the one just before a chorus. Column C. Deep orange.\nTess: What is in second place?\nMilo: The feeling when a song you forgot comes on in a shop. Pale green.\nTess: Pale green is beautiful. What is last?\nMilo: Last is waiting for a song to load. Grey. Always grey. Never moves.\nTess: Nothing loads here. Deep orange, right now!"
+    },
+    {
+      "id": "hitline-0020",
+      "kind": "feature",
+      "flavor": "The Wrong Count, an audit of Milo's errors",
+      "words": 102,
+      "text": "Tess: The Wrong Count. Milo, how many times have you been wrong since we started?\nMilo: Zero. The count is zero. It has always been zero.\nTess: I have fourteen on my hand. I wrote them on my hand.\nMilo: A hand is not a source. Sources need a date and a signature.\nTess: I signed it. I signed my own hand, Milo.\nMilo: Then that is one source and one hand and no independent audit.\nTess: Number fifteen, right there, live.\nMilo: You cannot count a disagreement as a wrong. That is the rule.\nTess: I make the rules, I make the counts, and I make this song start now."
+    },
+    {
+      "id": "hitline-0021",
+      "kind": "talk-break",
+      "flavor": "a fake ad for a phone plan, an energy bar or a music festival, sincere announcer grammar, rapid disclaimer from Milo",
+      "words": 86,
+      "text": "Tess: Three days. One field. Big Field Weekend, and the sky is part of the ticket.\nMilo: Sky not included. The sky is weather, and weather is not our partner.\nTess: Forty acts. Four stages. One enormous chorus that you will hear from the road.\nMilo: Road not included either. Parking is the same field, sold twice.\nTess: Bring a coat you love and shoes you can forgive.\nMilo: Tickets are final. Weather is final. Your shoes are entirely your business.\nTess: Big Field Weekend. Get in the field. Here comes the chorus!"
+    },
+    {
+      "id": "hitline-0022",
+      "kind": "talk-break",
+      "flavor": "a fake ad for a phone plan, an energy bar or a music festival, sincere announcer grammar, rapid disclaimer from Milo",
+      "words": 108,
+      "text": "Tess: Something new. Toneline. A fresh ringtone every week, delivered while you sleep.\nMilo: Delivered is a strong word. It arrives. Sometimes it arrives at four.\nTess: Fifty-two ringtones a year. One for every mood you have ever had on a phone.\nMilo: Testing found people have six moods on a phone. Toneline sends fifty-two anyway.\nTess: Your phone rings and the room turns around. That is the promise.\nMilo: The room might turn around for someone else's phone. Toneline accepts no responsibility.\nTess: Cancel any time, they say, and I believe them.\nMilo: Cancelling is a form. The form is a ringtone. Play it to cancel.\nTess: Toneline. Let it ring, then let this one play!"
+    },
+    {
+      "id": "hitline-0023",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} as this week's biggest climber; Milo gives the percentage",
+      "words": 51,
+      "text": "Tess: That was Paper Rockets with Slow Down The Sun, this week's biggest climber.\nMilo: Up thirty-four places. Steepest move our board has recorded.\nTess: They were nowhere. Now the graph is a wall.\nMilo: It is a wall. Walls are up eight percent this week.\nTess: Keep climbing, Paper Rockets. Here comes the next one!"
+    },
+    {
+      "id": "hitline-0024",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} as this week's biggest climber; Milo gives the percentage",
+      "words": 66,
+      "text": "Tess: Biggest climber of the week, Hollow Neon with Tin Heart Parade.\nMilo: Up twenty-two places, and up sixty-one percent among people who whistle.\nTess: People who whistle are a demographic now?\nMilo: A strong group. Quiet, loyal, and they request nothing.\nTess: No requests at all. We should hire them.\nMilo: They whistle nine percent above tempo. Their only flaw.\nTess: Nine percent fast, and still loyal. Whistle along with this one!"
+    },
+    {
+      "id": "hitline-0025",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} as this week's biggest climber; Milo gives the percentage",
+      "words": 80,
+      "text": "Tess: Back-announcing the biggest climber on the board. Cold Arcade, with Half A Mile Of You.\nMilo: Up nineteen places. And up forty-four percent among people who cut their own hair.\nTess: That is very specific for a song about walking.\nMilo: The song is about walking. The haircut is about confidence. Both are climbing.\nTess: So the chart is measuring confidence now.\nMilo: The chart has always measured confidence. I just finally found the column.\nTess: Cold Arcade, halfway up and still walking. Next one now!"
+    },
+    {
+      "id": "hitline-0026",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} as this week's biggest climber; Milo gives the percentage",
+      "words": 111,
+      "text": "Tess: That climb you just heard belongs to Marble Youth and Ninety Windows.\nMilo: Up forty-one places. The biggest single jump this board has ever printed.\nTess: Forty-one places in one week. How does a song do that?\nMilo: Three ways. Someone sings it at work. Someone else asks what it is.\nTess: And the third way?\nMilo: The third way is a stairwell. Stairwells add eleven percent. Always have.\nTess: You are telling me stairwells make hits.\nMilo: Stairwells and lifts. Lifts are worth four. A stairwell is worth eleven.\nTess: Then take the stairs tomorrow and thank Marble Youth.\nMilo: I will take the stairs. I will also count them.\nTess: Count away. Ninety Windows, one more time, right now!"
+    },
+    {
+      "id": "hitline-0027",
+      "kind": "talk-break",
+      "flavor": "Pippa calls to request the same song again; the song is never named; she never gets it",
+      "words": 45,
+      "text": "Tess: Phones are lit, and one of them is Pippa. Pippa, hello!\nPippa: Hello Tess. You know the one I want.\nTess: I looked for it, Pippa. I looked twice.\nPippa: [gentle] Look between the other ones. It hides.\nMilo: Nothing hides in a chart. Here is something real instead."
+    },
+    {
+      "id": "hitline-0028",
+      "kind": "talk-break",
+      "flavor": "Pippa calls to request the same song again; the song is never named; she never gets it",
+      "words": 62,
+      "text": "Tess: Line one is glowing and I know that voice. Go ahead, Pippa.\nPippa: You know why I am calling. It has been a while.\nMilo: Four calls. I log them. Four calls, zero plays.\nPippa: Then the fifth is the lucky one. Put it on, Tess.\nTess: Not this hour, Pippa. Keep believing though.\nMilo: Belief is up nine percent. So is this next song. Hear it!"
+    },
+    {
+      "id": "hitline-0029",
+      "kind": "talk-break",
+      "flavor": "Pippa calls to request the same song again; the song is never named; she never gets it",
+      "words": 81,
+      "text": "Tess: Pippa is back. Pippa, you have thirty seconds and my full attention.\nPippa: I only need six. Same request. You know the one.\nTess: I do. I have known it for a long time now.\nMilo: For the record, the song she wants has no chart position at all.\nPippa: It has a position in my head. Very high. Right at the top.\nMilo: That is a sample of one. Statistically that is a rumour.\nPippa: [sad] Then play the rumour.\nTess: Next time, Pippa. This one now!"
+    },
+    {
+      "id": "hitline-0030",
+      "kind": "talk-break",
+      "flavor": "Pippa calls to request the same song again; the song is never named; she never gets it",
+      "words": 116,
+      "text": "Tess: Last phone call before the music. Pippa, I saw your name and smiled.\nPippa: Then you know what happens next. I would like my song.\nTess: Your song. The one you have never once described to me.\nPippa: I should not have to describe it. You already know it.\nMilo: I have searched every catalogue we hold, twice, and found nothing at all.\nTess: He really did search. He made a chart of the searching.\nMilo: Nine hours of searching. Down two percent on my previous searching.\nPippa: Then search slower. It is a slow song.\nTess: A clue! Milo, write that down. Slow.\nMilo: Slow narrows it to nine thousand. Not enough, Pippa.\nTess: Next time we get two clues. Until then, this one plays!"
+    },
+    {
+      "id": "hitline-0031",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for gum that extends a chorus",
+      "words": 55,
+      "text": "Tess: Encore. The gum that keeps a chorus going after the song has finished.\nMilo: Chorus not included. Encore includes gum. The chorus is entirely your own work.\nTess: Twelve pieces a pack. Twelve encores. One very busy jaw.\nMilo: Chewing for twelve encores takes ninety minutes. Consult nobody. Just stop eventually.\nTess: Encore, encore. And now, the next one!"
+    },
+    {
+      "id": "hitline-0032",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a monthly box of things a stage has touched",
+      "words": 81,
+      "text": "Tess: The Backstage Box arrives every month with things a stage has touched.\nMilo: Touched is broad. A stage touches the floor. The floor is in the box.\nTess: A poster, a wristband, and a letter from someone who was definitely there.\nMilo: The letter is printed. Someone was there when the printer was on.\nTess: Open it slowly. That is the whole point of a box.\nMilo: Boxes are up six percent among people who open things slowly.\nTess: The Backstage Box. Now, back to the stage!"
+    },
+    {
+      "id": "hitline-0033",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a wristband that lights up on the beat",
+      "words": 59,
+      "text": "Tess: Sparkline Bands. A wristband that lights up on the beat, and only the beat.\nMilo: It lights on any beat. Including your heart. Especially during the quiet songs.\nTess: Put ten thousand of them in a field and the field becomes a chorus.\nMilo: Field not included. Band glows for nine hours then glows differently for one.\nTess: Sparkline. Wear the light. Music!"
+    },
+    {
+      "id": "hitline-0034",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for sparkling water measured in bubbles",
+      "words": 61,
+      "text": "Tess: Topline. Sparkling water with the exact amount of sparkle a number one deserves.\nMilo: Sparkle is measured in bubbles. Topline contains bubbles. That is the measurement.\nTess: Cold, loud, and gone in four seconds, like the best chorus of your life.\nMilo: Four seconds is the record. The average is eleven. Do not race it.\nTess: Topline. Pour it up. Here comes the next climb!"
+    },
+    {
+      "id": "hitline-0035",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for an app that lends you a stadium echo",
+      "words": 83,
+      "text": "Tess: Bigroom. The app that turns any small room into a very large room.\nMilo: The room does not change size. The app changes the echo. The echo lies.\nTess: Sing into your phone and hear yourself in a stadium with forty thousand friends.\nMilo: The forty thousand are a recording. They cheer for everyone. They cheered for me.\nTess: Even Milo got cheered. That is the technology working.\nMilo: It is a loop of applause. It is a good loop. Terms apply.\nTess: Bigroom. Make it enormous. Sing along!"
+    },
+    {
+      "id": "hitline-0036",
+      "kind": "feature",
+      "flavor": "The Number Two, an hourly pause for the song that just missed",
+      "words": 102,
+      "text": "Tess: Every hour we pause for the song at number two. Milo, who is it?\nMilo: Wax Harbour, with Tell Me Twice. Two places off the top. Again.\nTess: Number two is the hardest place in the world to stand.\nMilo: It is also the safest. Number two has never been dropped by anybody.\nTess: That is a cold way to comfort a band, Milo.\nMilo: It is a warm number. Ninety-one percent of number twos are loved more.\nTess: Loved more but played less. That is a sad chart.\nMilo: Every chart is a sad chart if you read down the page.\nTess: Then we read upward. Up we go!"
+    },
+    {
+      "id": "hitline-0037",
+      "kind": "feature",
+      "flavor": "The Countdown, which never quite reaches zero",
+      "words": 87,
+      "text": "Tess: Countdown to the next song. Ten. Nine. Eight.\nMilo: You skipped nothing yet. I am watching.\nTess: Seven. Six. Five and a half. Five and a quarter.\nMilo: That is not how counting works, and I count for a living.\nTess: Four. Three. Three again, because I liked it.\nMilo: You cannot like a number back into existence.\nTess: Two. One. And a tiny half after the one.\nMilo: There is no half after one. One is the end. Zero is the end.\nTess: [laughing] Zero is for people who stop. Here is the song!"
+    },
+    {
+      "id": "hitline-0038",
+      "kind": "feature",
+      "flavor": "Chart Court, where Milo prosecutes a song for climbing too fast",
+      "words": 92,
+      "text": "Tess: Chart Court is in session. Milo, read the charge.\nMilo: The song Iron Lantern is accused of climbing too fast. Eleven places overnight.\nTess: Climbing fast is not a crime. That is the entire job.\nMilo: It is suspicious. Nothing honest moves eleven places while people sleep.\nTess: Maybe people were awake. People are awake at strange hours.\nMilo: Forty percent of the climb happened between three and four. Explain that.\nTess: Somebody could not sleep and pressed play. Court finds that beautiful.\nMilo: The court is one person and she likes the song.\nTess: Case dismissed. Play the evidence!"
+    },
+    {
+      "id": "hitline-0039",
+      "kind": "feature",
+      "flavor": "One Word Reviews, converted into a percentage",
+      "words": 87,
+      "text": "Tess: One Word Reviews. I give the song one word. Milo turns it into a number.\nMilo: I do. The word goes in, the percentage comes out. Ready.\nTess: That last one. My word is enormous.\nMilo: Enormous scores eighty-eight. It is the fourth strongest word you have ever used.\nTess: What beat it?\nMilo: Unstoppable, glittering, and once, memorably, the word yes.\nTess: Yes was a good review. Short and completely honest.\nMilo: Yes tested at ninety-six. Nothing has beaten yes.\nTess: Then the next one has to earn a yes. Let us hear it!"
+    },
+    {
+      "id": "hitline-0040",
+      "kind": "feature",
+      "flavor": "Two Truths and a Chart, where every fact turns out invented",
+      "words": 102,
+      "text": "Tess: Two Truths and a Chart. Milo gives me three facts. One is invented.\nMilo: Fact one. The average song is played first in a kitchen.\nTess: Plausible. Keep going.\nMilo: Fact two. People sing louder with wet hair. Ninety-one percent louder.\nTess: Also plausible, sadly. And the third?\nMilo: Fact three. Every hit has a door in it somewhere.\nTess: A door. In the song.\nMilo: In the lyric, the video, or the studio. There is always a door.\nTess: I am saying the door one is invented.\nMilo: All three were invented. That is the game. I never said otherwise.\nTess: You absolutely did. Play something with a door in it!"
+    }
+  ]
+}

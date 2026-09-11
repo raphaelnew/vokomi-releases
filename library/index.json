@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "generated": "2026-09-11T19:30:45Z",
+  "stations": [
+    {
+      "id": "arcade",
+      "file": "arcade.json",
+      "bytes": 22851,
+      "sha256": "54a5829078e4e685db58152944e165a8090f127b7115291aeadad65e5133fbbc",
+      "segments": 40
+    },
+    {
+      "id": "block",
+      "file": "block.json",
+      "bytes": 22605,
+      "sha256": "777781b88e08d8bf866a41fc623b313bd54f3b33e9d6680b4cde021c74282b3b",
+      "segments": 40
+    },
+    {
+      "id": "brief",
+      "file": "brief.json",
+      "bytes": 23242,
+      "sha256": "d326d15b624436426e6303db8eff69cc8c7ca62d4416af0b5d2bf534dc70e05f",
+      "segments": 40
+    },
+    {
+      "id": "cassette",
+      "file": "cassette.json",
+      "bytes": 24203,
+      "sha256": "7d2420237485418e217209d046ae6010e5001906b111780c860ee246833c9d8c",
+      "segments": 40
+    },
+    {
+      "id": "concert",
+      "file": "concert.json",
+      "bytes": 25422,
+      "sha256": "5098f9c69576a4868db15ebf41c66db3b6a20265c5825a208da45265da146db5",
+      "segments": 40
+    },
+    {
+      "id": "groove",
+      "file": "groove.json",
+      "bytes": 22963,
+      "sha256": "cc8be7a428bc6f7ec8b53a95877560ab4f5e8e9a1c065e5906be0bd3c045c006",
+      "segments": 40
+    },
+    {
+      "id": "hitline",
+      "file": "hitline.json",
+      "bytes": 24446,
+      "sha256": "8877e3f741a46e63593149449bfb60d801a8ff4a4162458a170ee2db4d738fb1",
+      "segments": 40
+    },
+    {
+      "id": "lighthouse",
+      "file": "lighthouse.json",
+      "bytes": 22450,
+      "sha256": "6e3f52aa491a717899482c740bd5a1dbdaa12611fa7ead2902a8cfe06b36b63f",
+      "segments": 40
+    },
+    {
+      "id": "midnight",
+      "file": "midnight.json",
+      "bytes": 23918,
+      "sha256": "b0c822217d313e3a0ffc862d53f80b9529fb2227e834a93b3f72de076c681f86",
+      "segments": 40
+    },
+    {
+      "id": "peak",
+      "file": "peak.json",
+      "bytes": 21971,
+      "sha256": "8f0c770ec74e11cdee6a7c7eeac0a9e53f1d8a72de88d0ac92c04e0a5168cf93",
+      "segments": 40
+    },
+    {
+      "id": "studyhall",
+      "file": "studyhall.json",
+      "bytes": 23271,
+      "sha256": "a4a55d8f3b28b2578c751dd293fe9df8007fa928270cd7745c20096c589ea1f9",
+      "segments": 40
+    },
+    {
+      "id": "voltage",
+      "file": "voltage.json",
+      "bytes": 22884,
+      "sha256": "66a0b2357eb0a22817c603730ee894b4535898b4c105e611d3883f980ad584ea",
+      "segments": 40
+    },
+    {
+      "id": "weazel",
+      "file": "weazel.json",
+      "bytes": 24691,
+      "sha256": "f1189e6e437da0240558bc4429a79324e57ea15135673e790b0b4abb0f3b1233",
+      "segments": 40
+    }
+  ]
+}

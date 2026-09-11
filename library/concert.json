@@ -1,0 +1,288 @@
+{
+  "station": "concert",
+  "version": 1,
+  "generated": "2026-09-12",
+  "writer": "claude-opus-5",
+  "segments": [
+    {
+      "id": "concert-0001",
+      "kind": "station-id",
+      "flavor": "the station ID — the signature",
+      "words": 17,
+      "text": "Rupert: [gentle] Concert Hall. Every program note here is a chase, and every chase ends in music. Listen."
+    },
+    {
+      "id": "concert-0002",
+      "kind": "station-id",
+      "flavor": "the station ID — the radiator in B flat",
+      "words": 22,
+      "text": "Rupert: Concert Hall. The radiator in the east wall holds a steady B flat.\nRupert: The orchestra has decided to join it. Strings, please."
+    },
+    {
+      "id": "concert-0003",
+      "kind": "station-id",
+      "flavor": "the station ID — a composer runs out of time",
+      "words": 25,
+      "text": "Rupert: [serious] This is Concert Hall. Somewhere in the next hour, a composer runs out of time.\nRupert: We know how it ends. He finishes. Play it."
+    },
+    {
+      "id": "concert-0004",
+      "kind": "station-id",
+      "flavor": "the station ID — the dates are exact",
+      "words": 24,
+      "text": "Rupert: Concert Hall. The story is true, the dates are approximate, and the music is exact.\nHilde: The dates are not approximate. I am here. Begin."
+    },
+    {
+      "id": "concert-0005",
+      "kind": "talk-break",
+      "flavor": "Rupert tells one ordinary biographical fact about a composer as a thriller — debts, deadlines, a chase — and lands on 'and then — silence'",
+      "words": 27,
+      "text": "Rupert: He owed a tailor for two coats. The finale was due. He wrote it on the bill.\nRupert: And then — silence. Then the finale. It starts now."
+    },
+    {
+      "id": "concert-0006",
+      "kind": "talk-break",
+      "flavor": "Rupert tells one ordinary biographical fact about a composer as a thriller — debts, deadlines, a chase — and lands on 'and then — silence'",
+      "words": 29,
+      "text": "Rupert: He sold one sonata to three publishers in one week, and spelled his name differently each time.\nRupert: All three printed it. All three were right. Here is the sonata."
+    },
+    {
+      "id": "concert-0007",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} as tonight's orchestra, with one line of program notes",
+      "words": 29,
+      "text": "Rupert: That was our orchestra, unhurried, in a hall with better acoustics than ours.\nRupert: The second movement was written for a friend who never heard it. More, in a moment."
+    },
+    {
+      "id": "concert-0008",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} as tonight's orchestra, with one line of program notes",
+      "words": 29,
+      "text": "Rupert: That was tonight's orchestra, playing a wedding dance that the composer wrote for a funeral.\nRupert: Nobody noticed for a hundred years. We noticed tonight. The next one begins now."
+    },
+    {
+      "id": "concert-0009",
+      "kind": "talk-break",
+      "flavor": "Rupert tells one ordinary biographical fact about a composer as a thriller — debts, deadlines, a chase — and lands on 'and then — silence'",
+      "words": 50,
+      "text": "Rupert: A young organist wanted to hear the greatest player alive, so he walked. Two hundred miles.\nHilde: On foot. In winter. With no promise the man would be at the keyboard.\nRupert: He stayed four months. His employers were furious. And then — silence.\nHilde: Then this. Listen to what he brought home."
+    },
+    {
+      "id": "concert-0010",
+      "kind": "talk-break",
+      "flavor": "Hilde corrects one date or key signature with love; Rupert accepts the correction like a plot twist",
+      "words": 48,
+      "text": "Rupert: The piece we just heard sits in C minor, which is the key of storms and debts.\nHilde: E flat major, Rupert. With love. The storm is two pieces later.\nRupert: E flat. So the debts were paid. That changes the whole evening.\nHilde: It changes nothing. Play the next one."
+    },
+    {
+      "id": "concert-0011",
+      "kind": "talk-break",
+      "flavor": "a fake ad for hearing aids, velvet seats or a subscription series, hushed sincere announcer grammar, rapid disclaimer from Hilde",
+      "words": 50,
+      "text": "Rupert: [gentle] A word about Velvetine, the cushion for the third hour of an opera.\nHilde: The third hour is when the seat becomes the subject of the evening.\nRupert: Velvetine is silent. It forgives. It asks nothing of your posture.\nHilde: Velvetine is not a cure for the plot. Back to the orchestra."
+    },
+    {
+      "id": "concert-0012",
+      "kind": "talk-break",
+      "flavor": "Gus the night watchman weighs in on the last tempo; he thinks it rushed, and he has keys to find",
+      "words": 44,
+      "text": "Gus: Watchman. That last movement went by like a man late for a train.\nRupert: Gus, the marking is allegro vivace.\nGus: The marking has never carried a ring of keys down a dark corridor.\nHilde: [chuckle] The next piece is slow, Gus. Take the long way round."
+    },
+    {
+      "id": "concert-0013",
+      "kind": "fake-ad",
+      "flavor": "a fake ad — Larghetto lozenges, read solo",
+      "words": 35,
+      "text": "Rupert: Larghetto lozenges dissolve in complete silence, wrapped in soft paper, for the patron in row G with a cough.\nRupert: Larghetto does not treat the cough. It treats the wrapper only. Now, back to the andante."
+    },
+    {
+      "id": "concert-0014",
+      "kind": "fake-ad",
+      "flavor": "a fake ad — Quietleaf programmes, paper that does not rustle",
+      "words": 74,
+      "text": "Rupert: [gentle] Quietleaf prints the evening programme on paper that does not rustle.\nHilde: The page turns. Nobody turns with it.\nRupert: Every note, every date, every name, in type large enough to read in the dark.\nHilde: The dates are correct. I checked them myself, twice, with a candle.\nRupert: Quietleaf. The only sound in the hall should be the orchestra.\nHilde: Quietleaf paper is not suitable for paper aeroplanes, fans, or hats.\nRupert: Especially hats. The second half begins."
+    },
+    {
+      "id": "concert-0015",
+      "kind": "fake-ad",
+      "flavor": "a fake ad — Cadenza opera glasses",
+      "words": 77,
+      "text": "Rupert: Cadenza opera glasses bring the conductor's eyebrows to within a foot of your face.\nHilde: You will see the exact moment he decides to take the repeat.\nRupert: You will see the second oboe agree with him. Silently. Professionally.\nHilde: You will see a great deal of the harpist's shoes.\nRupert: Cadenza. Because the interesting part is never at the front.\nHilde: Cadenza is for the stage only, and the balcony has rules about this.\nRupert: It does. Eyes forward. The concerto continues."
+    },
+    {
+      "id": "concert-0016",
+      "kind": "fake-ad",
+      "flavor": "a fake ad — The Long Programme, a subscription series",
+      "words": 91,
+      "text": "Rupert: [serious] The Long Programme. Nine concerts. One seat. Your seat, from autumn to spring.\nHilde: The same seat every time. The same neighbour every time.\nRupert: By the fourth concert you will know his coat. By the sixth, his opinions.\nHilde: By the ninth you will have agreed about one slow movement and nothing else.\nRupert: That is a friendship. The Long Programme sells it in a single envelope.\nHilde: The Long Programme cannot move you away from him. We have tried, on your behalf.\nRupert: Nine nights. One envelope. The first of them starts with this."
+    },
+    {
+      "id": "concert-0017",
+      "kind": "feature",
+      "flavor": "And Then — Silence — the copyist",
+      "words": 74,
+      "text": "Rupert: [serious] And then — silence. Tonight, the copyist.\nHilde: The most frightened man in the building, every time.\nRupert: The parts were still wet when the audience sat down. He carried them up the aisle.\nHilde: Second violins got their pages during the applause for the conductor.\nRupert: They sight-read a premiere. In public. For money.\nHilde: And it went perfectly, which is the part nobody believes.\nRupert: Listen to the piece that was still drying. Second violins, forgive them."
+    },
+    {
+      "id": "concert-0018",
+      "kind": "feature",
+      "flavor": "And Then — Silence — the drum one bar early",
+      "words": 87,
+      "text": "Rupert: The timpanist counted one hundred and forty bars of rest.\nHilde: One hundred and forty-one. That is the whole story.\nRupert: He came in one bar early, alone, in a silent hall, on the loudest instrument there.\nHilde: [gasp] In front of the composer.\nRupert: In front of the composer, who stood up.\nHilde: And wrote it into the score the following morning. The early entry is now correct.\nRupert: Three hundred players since have played a mistake with total conviction.\nHilde: They have no idea. Listen for the drum, one bar too soon."
+    },
+    {
+      "id": "concert-0019",
+      "kind": "feature",
+      "flavor": "And Then — Silence — the horn player on the ice",
+      "words": 115,
+      "text": "Rupert: Tonight on And Then — Silence, a horn player, a river, and a bridge that was gone.\nHilde: The bridge went in a flood. The premiere was across the water.\nRupert: He walked onto the ice at four in the afternoon with the horn on his back.\nHilde: The ice held. It had held for a month. It held for him.\nRupert: Halfway across, it spoke. One long crack, from bank to bank.\nHilde: [gasp] And he stopped.\nRupert: He did not stop. He was late.\nHilde: He arrived during the tuning, sat down, and played the solo cold.\nRupert: And then — silence, and then that solo. It is the one you know.\nHilde: Here it is, with the ice still in it."
+    },
+    {
+      "id": "concert-0020",
+      "kind": "feature",
+      "flavor": "And Then — Silence — the flat harpsichord",
+      "words": 75,
+      "text": "Rupert: The harpsichord arrived from the country a semitone flat, and the tuner had gone home.\nHilde: The whole orchestra transposed. By sight. During the overture.\nRupert: Every string player. Every wind player. One key down, no rehearsal, no discussion.\nHilde: The oboe refused, and the oboe was right, because the oboe cannot.\nRupert: So the oboe sat out and has been insufferable ever since.\nHilde: For three hundred years. Here is the piece, in the key it was written in."
+    },
+    {
+      "id": "concert-0021",
+      "kind": "talk-break",
+      "flavor": "Hilde corrects one date or key signature with love; Rupert accepts the correction like a plot twist",
+      "words": 57,
+      "text": "Rupert: The symphony arrived in seventeen eighty-seven, in a summer so hot the ink would not dry.\nHilde: Seventeen eighty-eight, Rupert. Not seven.\nRupert: Eighty-eight. Then he was a year poorer and the ink still would not dry.\nHilde: He wrote three symphonies that summer. Nobody paid him for any of them.\nRupert: Thrilling. Devastating. Here is the second of the three."
+    },
+    {
+      "id": "concert-0022",
+      "kind": "talk-break",
+      "flavor": "a fake ad for hearing aids, velvet seats or a subscription series, hushed sincere announcer grammar, rapid disclaimer from Hilde",
+      "words": 63,
+      "text": "Rupert: Concert Hall thanks Softsole, the evening shoe for people who arrive during the first movement.\nHilde: The heel is felt. The sole is felt. The shame is left untreated.\nRupert: Softsole crosses an old wooden floor at a quarter of the usual volume.\nHilde: Softsole will not find your seat for you in the dark.\nRupert: Nothing will. Row nine, aisle side, and back to the strings."
+    },
+    {
+      "id": "concert-0023",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} as tonight's orchestra, with one line of program notes",
+      "words": 63,
+      "text": "Rupert: That was tonight's orchestra, and that was a concerto written for a left hand alone.\nHilde: The right hand was lost in a war. The music never mentions it.\nRupert: You hear two hands. There is one. The thriller is in what is missing.\nHilde: The composer heard it once, and wept, and said nothing useful afterwards.\nRupert: Nobody ever does. More from the same orchestra now."
+    },
+    {
+      "id": "concert-0024",
+      "kind": "talk-break",
+      "flavor": "Gus the night watchman weighs in on the last tempo; he thinks it rushed, and he has keys to find",
+      "words": 68,
+      "text": "Gus: Evening. Whoever conducted that finale was being chased by something.\nRupert: It is marked presto, Gus.\nGus: Presto is a speed. That was a getaway.\nHilde: [chuckle] He is not wrong. The last page is three bars shorter than the score.\nRupert: Gus, you have keys to find.\nGus: I have one left. It opens the organ loft, and I am in no hurry.\nHilde: Then take an adagio with you. Here it is."
+    },
+    {
+      "id": "concert-0025",
+      "kind": "talk-break",
+      "flavor": "Rupert tells one ordinary biographical fact about a composer as a thriller — debts, deadlines, a chase — and lands on 'and then — silence'",
+      "words": 81,
+      "text": "Rupert: The bailiffs came at dawn. He had one symphony, unfinished, and a mattress.\nHilde: He put the symphony in the mattress.\nRupert: They took the chairs. They took the clock. They sat on the mattress to write the list.\nHilde: [gasp] On it?\nRupert: On it. Forty minutes. Then they left, and the symphony was still there.\nHilde: He finished it that week and sold it to pay for the chairs.\nRupert: And then — silence. Then the slow movement, which he wrote sitting on the floor."
+    },
+    {
+      "id": "concert-0026",
+      "kind": "talk-break",
+      "flavor": "Hilde corrects one date or key signature with love; Rupert accepts the correction like a plot twist",
+      "words": 79,
+      "text": "Rupert: They call it The Hunt, because of the horns in the opening bars.\nHilde: The composer never called it anything. A publisher in Vienna called it The Hunt.\nRupert: So the horns are not horns.\nHilde: The horns are horns. The hunt is an invention, sold on the cover, in larger type.\nRupert: A publisher renamed a masterpiece to move copies. That is a heist.\nHilde: It is marketing, and it worked for two hundred years.\nRupert: Then let us hear the crime. Horns first."
+    },
+    {
+      "id": "concert-0027",
+      "kind": "talk-break",
+      "flavor": "a fake ad for hearing aids, velvet seats or a subscription series, hushed sincere announcer grammar, rapid disclaimer from Hilde",
+      "words": 76,
+      "text": "Rupert: Concert Hall is brought to you by Cloakroom Nine, where your coat is returned warm.\nHilde: Warm. They keep the rail above the radiator.\nRupert: The radiator that plays B flat.\nHilde: Your coat comes back in tune. Some patrons report a faint hum in the lining.\nRupert: Cloakroom Nine. One ticket, one coat, no argument at the end of the evening.\nHilde: Cloakroom Nine is not responsible for what you left in the pockets.\nRupert: Nothing good, ever. The overture, now."
+    },
+    {
+      "id": "concert-0028",
+      "kind": "talk-break",
+      "flavor": "Gus the night watchman weighs in on the last tempo; he thinks it rushed, and he has keys to find",
+      "words": 81,
+      "text": "Rupert: Gus is here, which means the last one was too fast.\nGus: The last one was fine. The one before it was a scandal.\nHilde: [surprised] Oh. A scandal.\nGus: Nobody needs to reach the end of a minuet that badly.\nRupert: The conductor is admired for his energy, Gus.\nHilde: He is also admired for finishing eight minutes early.\nGus: I walk the whole building after. Eleven doors. Energy is not the problem.\nRupert: Then we take the next one at your pace. Eleven doors, one adagio."
+    },
+    {
+      "id": "concert-0029",
+      "kind": "talk-break",
+      "flavor": "Hilde corrects one date or key signature with love; Rupert accepts the correction like a plot twist",
+      "words": 107,
+      "text": "Rupert: He wrote it at midnight, by one candle, with the shutters closed against his creditors.\nHilde: He wrote it after breakfast. The household accounts say so, in his wife's hand.\nRupert: After breakfast.\nHilde: With the shutters open. There was a dog.\nRupert: You are taking the candle away from me, Hilde.\nHilde: I am giving you a dog and a window. It is a better scene.\nRupert: And the key is A minor.\nHilde: A flat major. With love, Rupert. A flat.\nRupert: A flat major, after breakfast, with a dog. The thriller survives.\nHilde: It always does. The music is the alibi.\nRupert: Then hear the alibi. Second movement first, because he wrote it first."
+    },
+    {
+      "id": "concert-0030",
+      "kind": "talk-break",
+      "flavor": "a fake ad for hearing aids, velvet seats or a subscription series, hushed sincere announcer grammar, rapid disclaimer from Hilde",
+      "words": 107,
+      "text": "Rupert: [gentle] Concert Hall is supported by Hushwell, and Hushwell has added a room.\nHilde: A room?\nRupert: The Hall Setting. It adds the reverberation of a stone church to whatever you are hearing.\nHilde: Your kitchen becomes a cathedral. Your kettle becomes an event.\nRupert: The tap in the bathroom becomes a fountain in an Italian courtyard.\nHilde: The dog becomes a choir.\nRupert: Every Hushwell is fitted by a person who has heard an orchestra from the inside.\nHilde: The Hall Setting cannot be switched off during an argument, and we did warn you.\nRupert: We did. Hushwell. Hear the room that is not there.\nHilde: Now hear the one that is. The orchestra returns."
+    },
+    {
+      "id": "concert-0031",
+      "kind": "talk-break",
+      "flavor": "back-announce {STREAM} as tonight's orchestra, with one line of program notes",
+      "words": 111,
+      "text": "Rupert: That was tonight's orchestra, and the piece was written for a funeral that was cancelled.\nHilde: The patron recovered. He lived another thirty years and never mentioned the music again.\nRupert: Imagine hearing your own funeral music at dinner. Twice.\nHilde: The score sat in a cupboard until his grandson sold the cupboard.\nRupert: The buyer wanted the cupboard. The music came free, in a drawer, under a hat.\nHilde: The hat is in a museum. The music is here.\nRupert: Which is the correct arrangement.\nHilde: The second subject is the one that sounds like a question.\nRupert: It is a question. Nobody answers it, which is why we keep playing it.\nHilde: Play it again, hat and all."
+    },
+    {
+      "id": "concert-0032",
+      "kind": "talk-break",
+      "flavor": "Gus the night watchman weighs in on the last tempo; he thinks it rushed, and he has keys to find",
+      "words": 117,
+      "text": "Rupert: The watchman has arrived with an opinion and a face.\nGus: That overture was played by people who wanted to go home.\nHilde: They did want to go home. It was a long rehearsal.\nGus: Then they should have gone home. You do not hurry a beginning.\nRupert: Gus times the overtures against the clock in the east corridor.\nHilde: The clock is four minutes fast.\nRupert: The clock is the only honest thing in the building, according to Gus.\nHilde: The radiator is honest. It is a B flat, and it is holding.\nGus: The radiator never rushes. Forty years. Same note. Learn from the radiator.\nRupert: Words for the whole profession. Take your keys, Gus.\nHilde: And take us into something slow enough for him."
+    },
+    {
+      "id": "concert-0033",
+      "kind": "fake-ad",
+      "flavor": "a fake ad — Rowlight, a lamp for one page",
+      "words": 82,
+      "text": "Rupert: Rowlight is a lamp the size of a thumb, and it points at one page only.\nHilde: One page. Not the row. Not the stage. Not the soloist's music stand.\nRupert: The beam stops where the page stops. The person beside you stays in the dark.\nHilde: Where they belong.\nRupert: Rowlight runs for eleven hours, which is two operas and one interval.\nHilde: Rowlight is not a torch, a signal, or a way to find the exit.\nRupert: For that we have Gus. The next piece, please."
+    },
+    {
+      "id": "concert-0034",
+      "kind": "fake-ad",
+      "flavor": "a fake ad — the Movement Counter",
+      "words": 86,
+      "text": "Rupert: [gentle] The Movement Counter is a card, and the card knows how many movements remain.\nHilde: Four holes. One thumb. You move the thumb. The card tells the truth.\nRupert: No more clapping alone in a silent hall. No more the look from row A.\nHilde: The look from row A is a national treasure and should be preserved.\nRupert: The Movement Counter. Small, quiet, and correct.\nHilde: The Movement Counter does not work on an opera, a suite, or anything French.\nRupert: Nothing works on anything French. Count us back in."
+    },
+    {
+      "id": "concert-0035",
+      "kind": "fake-ad",
+      "flavor": "a fake ad — Crescendo Cellars, the interval wine",
+      "words": 75,
+      "text": "Rupert: Crescendo Cellars pours your interval wine before the first note is played.\nHilde: It waits on a small shelf with your name on a card.\nRupert: No queue. No elbows. No forty minutes of hope for one glass.\nHilde: The wine is warm by then.\nRupert: The wine is at the temperature of the room, which is the same sentence, said kindly.\nHilde: Crescendo Cellars is not responsible for the second half.\nRupert: Nobody is. Glasses down, and on we go."
+    },
+    {
+      "id": "concert-0036",
+      "kind": "fake-ad",
+      "flavor": "a fake ad — Tempus, the pocket metronome",
+      "words": 83,
+      "text": "Rupert: Tempus is a metronome the size of a coin, and it keeps your own time.\nHilde: Your own time is usually wrong. That is the charm of the product.\nRupert: Wind it once. It ticks for a week. It never apologises.\nHilde: It does not stop when you stop. It waits, and it judges.\nRupert: Tempus. For the student, the conductor, and the man with the keys.\nHilde: Tempus is not an argument, although it has ended several.\nRupert: It has. Set it aside, and let the orchestra decide."
+    },
+    {
+      "id": "concert-0037",
+      "kind": "feature",
+      "flavor": "And Then — Silence — the bellows boy",
+      "words": 103,
+      "text": "Rupert: An organ needs air, and air needs a boy on a lever, and the boy was fourteen.\nHilde: He had been pumping since the morning service. It was now evening.\nRupert: In the middle of the fugue, the boy slept. The air ran out.\nHilde: The sound goes down like a ship. Slowly. Then not at all.\nRupert: Four hundred people heard a great fugue die of exhaustion.\nHilde: The organist kept his hands on the keys until the last of the air was gone.\nRupert: And then — silence. Real silence, the kind you can hear.\nHilde: The boy woke and pumped. They started again. We start again too."
+    },
+    {
+      "id": "concert-0038",
+      "kind": "feature",
+      "flavor": "And Then — Silence — the score in the fish basket",
+      "words": 121,
+      "text": "Rupert: The only score was stolen on a Tuesday. The premiere was on the Friday.\nHilde: Stolen, or borrowed by a rival with a sense of theatre.\nRupert: The composer did not write it out again. He went to bed.\nHilde: [surprised] He went to bed?\nRupert: For two days. His housekeeper answered the door and told everyone he was dead.\nHilde: She was protecting him. She was also enjoying it.\nRupert: On Thursday evening a basket of fish arrived at the kitchen door.\nHilde: Under the fish, wrapped in cloth, the score. Dry. Complete. Unsigned.\nRupert: It smelled of the harbour for the rest of its life. It still does.\nHilde: The library keeps it in a box of its own, for that reason.\nRupert: Nobody ever confessed. Here is Friday."
+    },
+    {
+      "id": "concert-0039",
+      "kind": "feature",
+      "flavor": "And Then — Silence — the wrong act",
+      "words": 137,
+      "text": "Rupert: She came on for act three. The orchestra was in act two.\nHilde: She had been waiting in a cold corridor for forty minutes, and she had had enough.\nRupert: She sang the aria from the last act, at the wrong end of the story.\nHilde: The conductor had one second to choose, and he chose her.\nRupert: The orchestra turned twenty pages at once. It sounded like a flock of birds.\nHilde: Then they played the last act, then the second, then the third.\nRupert: The opera ended in the middle. The audience stood up anyway.\nHilde: Two critics called it a revelation. One of them knew what had happened.\nRupert: The other has a chair at a university.\nHilde: [chuckle] He does.\nRupert: Wrong order, right music. That is our whole programme, honestly.\nHilde: It is. Take us out with her aria, in its proper place."
+    },
+    {
+      "id": "concert-0040",
+      "kind": "feature",
+      "flavor": "And Then — Silence — the duel over a bowing mark",
+      "words": 99,
+      "text": "Rupert: Two violinists disagreed about one bowing mark. Up, or down.\nHilde: Up or down. Three strokes of a pen, and they went outside.\nRupert: Swords, at dawn, behind the theatre, over the direction of a bow.\nHilde: Neither was hurt. Both were cold. Both were sorry by breakfast.\nRupert: They played the concert that evening, side by side, at the same desk.\nHilde: And the bowing in the parts is still ambiguous, because neither would mark it.\nRupert: Every orchestra since has argued about that bar.\nHilde: Politely. Mostly.\nRupert: Listen to the bar. You will not hear the duel, and that is the tragedy.\nHilde: Play on."
+    }
+  ]
+}

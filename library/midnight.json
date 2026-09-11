@@ -1,0 +1,288 @@
+{
+  "station": "midnight",
+  "version": 1,
+  "generated": "2026-09-12",
+  "writer": "claude-opus-5",
+  "segments": [
+    {
+      "id": "midnight-0001",
+      "kind": "station-id",
+      "flavor": "the station ID, landing like the house signature",
+      "words": 20,
+      "text": "Michael: Midnight Jazz. Everything worth saying gets quieter after one in the morning.\nMichael: So does everything worth playing. Here it comes."
+    },
+    {
+      "id": "midnight-0002",
+      "kind": "station-id",
+      "flavor": "the station ID, the street outside the window",
+      "words": 25,
+      "text": "Michael: The streetlights are doing their best. The coffee gave up an hour ago.\nMichael: Midnight Jazz. Stay exactly where you are, and let the music work."
+    },
+    {
+      "id": "midnight-0003",
+      "kind": "station-id",
+      "flavor": "the station ID, one line and a locked door",
+      "words": 13,
+      "text": "Michael: Midnight Jazz. Noir hours only. The door locked an hour ago. Play on."
+    },
+    {
+      "id": "midnight-0004",
+      "kind": "station-id",
+      "flavor": "the station ID, with Sarah refusing to let it land clean",
+      "words": 22,
+      "text": "Sarah: Midnight Jazz. Velvet, low light, and a host who pretends he is fine.\nMichael: Mm. I am fine.\nSarah: Heh. Sure. Play the horns."
+    },
+    {
+      "id": "midnight-0005",
+      "kind": "talk-break",
+      "flavor": "a slow noir observation about the city at night that turns into a dry punchline",
+      "words": 28,
+      "text": "Michael: Every parked car on this block points the same direction tonight. Nobody planned that.\nMichael: The city agrees on one thing a night, and it chose parking. More music."
+    },
+    {
+      "id": "midnight-0006",
+      "kind": "talk-break",
+      "flavor": "Sarah teases Michael about a habit; he loses gracefully; back-announce {STREAM} on the way out",
+      "words": 44,
+      "text": "Sarah: You stirred that coffee again. It is black. There has never been anything to stir.\nMichael: It settles my thinking.\nSarah: Heh. It settles nothing. You just like the sound the spoon makes.\nMichael: ...I like the sound the spoon makes. Take us back into the horns."
+    },
+    {
+      "id": "midnight-0007",
+      "kind": "talk-break",
+      "flavor": "a 'last call' style toast to everyone still awake, with one unexpected twist",
+      "words": 29,
+      "text": "Michael: Last call, quietly. To everyone still awake on purpose, and everyone awake by accident.\nMichael: The second group is bigger, better dressed, and owns all the better stories. Horns, go."
+    },
+    {
+      "id": "midnight-0008",
+      "kind": "talk-break",
+      "flavor": "George stumbles in with barstool wisdom that is accidentally profound; Michael and Sarah react",
+      "words": 65,
+      "text": "George: I always take the last stool. Nobody sits past you. Nobody walks behind you.\nMichael: That is either wisdom or a security habit.\nGeorge: At my age they are the same thing.\nSarah: Hahaha. Michael, write that on a napkin before he forgets it.\nMichael: He will not forget it. He has said it nine times tonight.\nGeorge: Ninth time is when it starts working. Put the music back on."
+    },
+    {
+      "id": "midnight-0009",
+      "kind": "talk-break",
+      "flavor": "a slow noir observation about the city at night that turns into a dry punchline",
+      "words": 28,
+      "text": "Michael: Two blocks over, the bakery light comes on. The only honest window on the street.\nMichael: Everybody else is faking it until sunrise. Heh. So are we. Roll it."
+    },
+    {
+      "id": "midnight-0010",
+      "kind": "talk-break",
+      "flavor": "Sarah teases Michael about a habit; he loses gracefully; back-announce {STREAM} on the way out",
+      "words": 60,
+      "text": "Sarah: You are tapping again. Three beats, every time, like a waltz nobody asked for.\nMichael: I do not tap.\nSarah: You tapped through the whole last number. The desk knows the tune by heart.\nMichael: ...the desk and I have an arrangement.\nSarah: Mm-hm. You lost this one. Say goodnight to the desk.\nMichael: Goodnight, desk. Back into the music, where the tapping is legal."
+    },
+    {
+      "id": "midnight-0011",
+      "kind": "talk-break",
+      "flavor": "a 'last call' style toast to everyone still awake, with one unexpected twist",
+      "words": 38,
+      "text": "Michael: Last call. The toast goes out to everybody who never quite got around to the business of going home.\nMichael: I am raising the melted ice in a chipped glass, and somehow it still counts. Back to the music."
+    },
+    {
+      "id": "midnight-0012",
+      "kind": "talk-break",
+      "flavor": "George stumbles in with barstool wisdom that is accidentally profound; Michael and Sarah react",
+      "words": 73,
+      "text": "George: A jukebox is honest. You pay, you pick, and then you live with it.\nMichael: That is the whole arrangement, yes.\nGeorge: Life is a jukebox where somebody else already paid.\nSarah: [gentle] Oh, that one landed. George, do you hear yourself?\nGeorge: Rarely. That is how I keep saying good things.\nMichael: Heh. He is not wrong.\nSarah: He is never wrong after midnight. That is the rule.\nMichael: Then let the rule stand. Horns, take it from here."
+    },
+    {
+      "id": "midnight-0013",
+      "kind": "talk-break",
+      "flavor": "a slow noir observation about the city at night that turns into a dry punchline",
+      "words": 33,
+      "text": "Michael: There is a traffic light on an empty corner, working its full routine for absolutely nobody tonight.\nMichael: Green, amber, red, patient as a saint. We should all work like that. Cue the piano."
+    },
+    {
+      "id": "midnight-0014",
+      "kind": "talk-break",
+      "flavor": "Sarah teases Michael about a habit; he loses gracefully; back-announce {STREAM} on the way out",
+      "words": 74,
+      "text": "Sarah: You said let it breathe again. That is four times tonight. I counted.\nMichael: Music needs room.\nSarah: Wine needs room. Music needs a needle and somebody who stops talking.\nMichael: ...that is a fair hit.\nSarah: I have more. You also say mm when you agree, which is not a word.\nMichael: It is a word in this building.\nSarah: Heh. It is a noise with a union card.\nMichael: I concede. Let it brea— let the horns have it."
+    },
+    {
+      "id": "midnight-0015",
+      "kind": "talk-break",
+      "flavor": "a 'last call' style toast to everyone still awake, with one unexpected twist",
+      "words": 65,
+      "text": "Michael: Last call at the counter. Raise whatever is in reach.\nSarah: To the people still awake.\nMichael: To the boiler in the basement, actually. It has not quit in forty years.\nSarah: [surprised] Oh. That is where you were going with this.\nMichael: It works nights, it makes a terrible noise, and nobody thanks it.\nSarah: So it is you, with pipes. To the boiler, and back to the bandstand."
+    },
+    {
+      "id": "midnight-0016",
+      "kind": "talk-break",
+      "flavor": "George stumbles in with barstool wisdom that is accidentally profound; Michael and Sarah react",
+      "words": 105,
+      "text": "George: Every story worth telling starts the same way. Somebody left, and somebody stayed.\nMichael: And which one tells the story?\nGeorge: The one who stayed. The other one is busy.\nSarah: Hahaha. George, that is the meanest true thing I have heard all week.\nMichael: Mm. Mean and accurate overlap more than people like to admit.\nSarah: They overlap constantly. That is why you two get along so well.\nMichael: We get along because he lets me finish a sentence.\nGeorge: I let you start one. Finishing has always been your own business.\nSarah: [laugh] Oh, he got you. He got you clean.\nMichael: He did. Hold the stool, George. Music, hold the room."
+    },
+    {
+      "id": "midnight-0017",
+      "kind": "talk-break",
+      "flavor": "a slow noir observation about the city at night that turns into a dry punchline",
+      "words": 27,
+      "text": "Michael: The last bus went past with every light on and nobody inside it.\nMichael: Somewhere a schedule is being honored for its own sake. Respect. Roll the tape."
+    },
+    {
+      "id": "midnight-0018",
+      "kind": "talk-break",
+      "flavor": "Sarah teases Michael about a habit; he loses gracefully; back-announce {STREAM} on the way out",
+      "words": 105,
+      "text": "Sarah: That pen has been behind your ear for three hours. It has never written anything.\nMichael: It is ready if something happens.\nSarah: Michael, nothing happens here. That is the entire appeal of the place.\nMichael: Something could.\nSarah: Heh. If something happens, you will describe it beautifully and forget to write it down.\nMichael: ...that has occurred before.\nSarah: It occurs nightly. You narrate. I keep the notes. The pen keeps your ear warm.\nMichael: The pen has seniority.\nSarah: The pen has tenure. It will outlast both of us and never file a word.\nMichael: Fine. You win, as usual.\nSarah: I always do. Now let the music write something down for once."
+    },
+    {
+      "id": "midnight-0019",
+      "kind": "talk-break",
+      "flavor": "a 'last call' style toast to everyone still awake, with one unexpected twist",
+      "words": 34,
+      "text": "Michael: Last call, and the glass goes up for anybody who planned to quit something tonight and did not.\nMichael: They are not brave, only slow. In this house that earns the same medal. Music, please."
+    },
+    {
+      "id": "midnight-0020",
+      "kind": "talk-break",
+      "flavor": "George stumbles in with barstool wisdom that is accidentally profound; Michael and Sarah react",
+      "words": 58,
+      "text": "George: Two cubes. Always two. One is stingy and three is an apology.\nMichael: An apology for what?\nGeorge: For whatever a man is about to say after the fourth drink.\nSarah: [chuckle] He has a system. Michael, he has a whole system.\nMichael: He has a philosophy with a garnish.\nSarah: Mm. Two cubes. Noted forever. Let the horns pour the next one."
+    },
+    {
+      "id": "midnight-0021",
+      "kind": "talk-break",
+      "flavor": "a slow noir observation about the city at night that turns into a dry punchline",
+      "words": 81,
+      "text": "Michael: The hotel sign down the block lost a letter. It has read OTEL for years.\nSarah: And nobody fixed it.\nMichael: Nobody fixed it. At some point a broken sign becomes the name of the place.\nSarah: That is true of signs. Is it true of people?\nMichael: ...ask me again at four in the morning.\nSarah: Heh. I will set an alarm and everything.\nMichael: Set two. I will gracefully dodge the first one.\nSarah: You always do, and I always let you. Take it away, horns."
+    },
+    {
+      "id": "midnight-0022",
+      "kind": "talk-break",
+      "flavor": "Sarah teases Michael about a habit; he loses gracefully; back-announce {STREAM} on the way out",
+      "words": 107,
+      "text": "Sarah: You have not looked at the clock once tonight. Not once.\nMichael: I know what time it is.\nSarah: You know what song it is. Those are different sciences.\nMichael: Third ballad means quarter past. Fourth means the coffee is a crime.\nSarah: [laugh] That is not a clock. That is a superstition with a playlist.\nMichael: It has never been wrong.\nSarah: It has never been checked. There is a difference, and I am enjoying it.\nMichael: ...you are enjoying it visibly.\nSarah: I am. Look up, Michael. Tell me the hour. I dare you.\nMichael: Mm. Somewhere between the slow one and the slower one.\nSarah: Hahaha. Correct, unfortunately. Give the slower one some room."
+    },
+    {
+      "id": "midnight-0023",
+      "kind": "talk-break",
+      "flavor": "a 'last call' style toast to everyone still awake, with one unexpected twist",
+      "words": 83,
+      "text": "Michael: Last call, and the counter is open to the honest.\nSarah: Define honest.\nMichael: Anybody who meant to do one thing today and did not do it.\nSarah: Oh, that is everyone. That is the whole room.\nMichael: That is the point. To the undone thing. It waited. It will keep waiting.\nSarah: [gentle] To the undone thing. It is very patient.\nMichael: Patience is all it has. Mm. It has outlasted better plans than mine.\nSarah: And now the horns, which have never waited for anybody in their lives."
+    },
+    {
+      "id": "midnight-0024",
+      "kind": "talk-break",
+      "flavor": "George stumbles in with barstool wisdom that is accidentally profound; Michael and Sarah react",
+      "words": 108,
+      "text": "George: Every coat check has one coat nobody comes back for. Every single one.\nMichael: There is one in the closet here. Grey. Been there since before me.\nGeorge: That coat is somebody's whole decision. They chose the cold instead.\nSarah: [gasp] Oh. George. That is horrible and I love it.\nMichael: It is a little horrible.\nSarah: It is beautiful horrible. There is a difference and he found it.\nGeorge: I did not find it. I left a coat like that once, and walked.\nMichael: ...ah.\nSarah: [gentle] Oh, George. And it was warm out, I suppose.\nMichael: He made a call. The coat made its own.\nSarah: Heh. Let the grey coat hang. Horns, take the room."
+    },
+    {
+      "id": "midnight-0025",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a product only this station would sell",
+      "words": 61,
+      "text": "Michael: A word from the counter. The Long Night Curtain. Nine layers of velvet, zero daylight.\nSarah: The Long Night Curtain does not know what day it is and refuses to learn.\nMichael: Hang it once. Wake up whenever it feels earned.\nSarah: Users report missing appointments, seasons, and one entire wedding.\nMichael: The Long Night Curtain. Daylight is only a rumor. Back to the record."
+    },
+    {
+      "id": "midnight-0026",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for the coffee that is really a decision",
+      "words": 63,
+      "text": "Michael: Sponsored by Fourth Cup. Roasted at midnight, ground at midnight, brewed with an apology.\nSarah: Fourth Cup is not coffee. It is a decision about tomorrow.\nMichael: One cup, and the night opens like a door with no lock.\nSarah: Do not operate a conversation. Do not promise anything before dawn.\nMichael: Fourth Cup. The third cup was the polite one.\nSarah: Mm. Pour carefully. Horns, pour freely."
+    },
+    {
+      "id": "midnight-0027",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a turntable with one honest flaw",
+      "words": 63,
+      "text": "Michael: The Ambrose Turntable. Solid brass arm, felt mat, and one honest flaw.\nSarah: The Ambrose will not lift the needle. Ever. That is the flaw.\nMichael: Side one plays until somebody in the room admits they want it to stop.\nSarah: Nobody admits it. Households have been rearranged around this machine.\nMichael: The Ambrose. It waits longer than anybody.\nSarah: Heh. Let it wait. Let the horns go."
+    },
+    {
+      "id": "midnight-0028",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for weather that cannot change its mind",
+      "words": 72,
+      "text": "Michael: New from the back room, the Wet Street Machine. One sound, recorded perfectly.\nSarah: One sound. Rain on one street. The same street, all night, forever.\nMichael: Some nights a person needs weather that cannot change its mind.\nSarah: The Wet Street Machine has no other settings and will not take requests.\nMichael: It is honest work. Set it low and let the room get older.\nSarah: [gentle] Mm. And now some weather with a horn section."
+    },
+    {
+      "id": "midnight-0029",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a lamp with strong opinions about seating",
+      "words": 70,
+      "text": "Michael: Presenting the Two Foot Lamp. It lights a chair. It lights nothing else.\nSarah: The Two Foot Lamp has been described as unhelpful by three separate electricians.\nMichael: The rest of the room goes soft, and the troubles lose the address.\nSarah: Troubles have been known to find it anyway. The lamp is not a lawyer.\nMichael: The Two Foot Lamp. Small light, large opinion about where to sit.\nSarah: Sit down. Horns are coming."
+    },
+    {
+      "id": "midnight-0030",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for stationery that never mails anything",
+      "words": 67,
+      "text": "Michael: From our sponsor, the Unsent Notebook. Good paper, black cover, no address line.\nSarah: The Unsent Notebook has never mailed anything. That is the entire product.\nMichael: Write the whole speech. The one with the good ending. Then close the cover.\nSarah: Contents have been read aloud at exactly zero important moments.\nMichael: The Unsent Notebook. Say it all. Say it here.\nSarah: And say nothing over the horns. They are up."
+    },
+    {
+      "id": "midnight-0031",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a car service that refuses the fast route",
+      "words": 68,
+      "text": "Michael: Tonight's sponsor is Long Way Cars. Same fare, wrong route, on purpose.\nSarah: Long Way Cars will not take the bridge. The bridge is too quick.\nMichael: The driver says nothing. The meter runs like a slow song.\nSarah: Long Way Cars is not liable for anything realized in the back seat.\nMichael: Some things only arrive at forty miles an hour with the window down.\nSarah: Mm. Window down. Volume up. Go."
+    },
+    {
+      "id": "midnight-0032",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for a machine with a very small conscience",
+      "words": 64,
+      "text": "Michael: The Kindly Machine answers the phone and keeps only the pleasant calls.\nSarah: Everything else is filed under weather and never mentioned again.\nMichael: Sixty seconds of tape. Brass housing. One very small conscience.\nSarah: The Kindly Machine has deleted apologies, confessions, and two job offers.\nMichael: It meant well. That is the most any machine can offer.\nSarah: [chuckle] Let it mean well. Let the horns mean more."
+    },
+    {
+      "id": "midnight-0033",
+      "kind": "feature",
+      "flavor": "the three o'clock weather for a city that is not on any map",
+      "words": 95,
+      "text": "Michael: And now the three o'clock weather, for a city that has never appeared on a map.\nSarah: Conditions at the harbor are wet, which is the harbor's only setting.\nMichael: Fog on the low streets. Fog on the high streets. Fog in the elevator.\nSarah: Visibility is one block, which locals consider generous.\nMichael: Overnight low is a coat and a half. Tomorrow, the same, warmer in the lie.\nSarah: [chuckle] Warmer in the lie. Put that on the tourism poster.\nMichael: They did. Nobody came.\nSarah: Their loss. That is the three o'clock weather, and here is the sound of it."
+    },
+    {
+      "id": "midnight-0034",
+      "kind": "feature",
+      "flavor": "the last word, where Sarah hands Michael a word and he defines it",
+      "words": 91,
+      "text": "Sarah: Time for the last word. Michael, the word is glimmer.\nMichael: Glimmer. Light that is not committed to anything yet.\nSarah: Go on.\nMichael: A glimmer is hope with an alibi. It can always say it was passing through.\nSarah: [laugh] Hope with an alibi. He does this nightly and I never see it coming.\nMichael: I have had years of practice and very little else to do.\nSarah: Mm. One point to the gentleman at the microphone.\nMichael: Keep the point. I will trade it for the next four minutes of piano.\nSarah: Sold. Piano, you are up."
+    },
+    {
+      "id": "midnight-0035",
+      "kind": "feature",
+      "flavor": "the case file, a noir case with an extremely dull solution",
+      "words": 107,
+      "text": "Michael: Open the case file. A man loses his keys at midnight and calls it fate.\nSarah: It is not fate.\nMichael: He retraces the evening. The coat, the counter, the cab, the long walk home.\nSarah: The keys are in the coat.\nMichael: The keys are in the coat. They were always in the coat.\nSarah: Case closed in eleven seconds. You took four minutes.\nMichael: The four minutes are the case, Sarah. Anybody can find keys.\nSarah: Heh. Not anybody. Some of us have a spare and a system.\nMichael: And no story to tell about it.\nSarah: [laugh] Ouch. That is a hit. A clean one, too.\nMichael: Mm. The file closes. The music opens."
+    },
+    {
+      "id": "midnight-0036",
+      "kind": "feature",
+      "flavor": "the house cocktail, named after a feeling",
+      "words": 84,
+      "text": "Sarah: The house cocktail tonight is called The Almost.\nMichael: I am afraid to ask what is in it.\nSarah: Rye, one sugar, and the bitters somebody meant to buy and did not.\nMichael: So it is short one ingredient.\nSarah: It is short one ingredient. That is why it is called The Almost.\nMichael: Heh. Does it work?\nSarah: It works beautifully. Nobody has ever finished one and nobody has ever complained.\nMichael: That is the finest review a drink can get.\nSarah: Stir it slow. The horns will handle the rest."
+    },
+    {
+      "id": "midnight-0037",
+      "kind": "feature",
+      "flavor": "the long silence, five seconds held for something specific",
+      "words": 81,
+      "text": "Michael: It is time for the long silence. Five seconds, and we hold it for something.\nSarah: What are we holding it for?\nMichael: Every conversation that ended one sentence too early.\nSarah: [gentle] Oh. That is a very big silence.\nMichael: It is. Five seconds will not cover it. We start somewhere.\nSarah: [whisper] Then start counting, and I will not say a word.\nMichael: Five. Four. Three. Mm. Close enough.\nSarah: Heh. You never make it to one.\nMichael: I never do. Let the piano finish the count."
+    },
+    {
+      "id": "midnight-0038",
+      "kind": "feature",
+      "flavor": "the night menu, read aloud although the kitchen is closed",
+      "words": 88,
+      "text": "Michael: The kitchen closed hours ago, so here is the night menu, read for its own sake.\nSarah: Nothing on it is available.\nMichael: Soup of the day, which was a fine day. Bread, warm at one point.\nSarah: The fish was excellent and is now a memory with bones.\nMichael: Dessert is a story the cook tells about a cake in another city.\nSarah: [chuckle] The cake in the other city. It gets better every time.\nMichael: It does. Kitchen closed. Menu read. Appetite untouched.\nSarah: Mm. Nobody leaves hungry if the horns are generous."
+    },
+    {
+      "id": "midnight-0039",
+      "kind": "feature",
+      "flavor": "the closing line from a novel nobody wrote",
+      "words": 72,
+      "text": "Michael: And now the closing line, from a novel nobody wrote and everybody has read.\nSarah: Let us hear it.\nMichael: He locked the door, and for the first time the room agreed with him.\nSarah: [sigh] Ohhh. That is good. That is annoyingly good.\nMichael: It came to me at the counter and refused to leave.\nSarah: Who published this one?\nMichael: Nobody. That is why the ending holds up.\nSarah: Heh. Shelve it carefully. The strings are waiting."
+    },
+    {
+      "id": "midnight-0040",
+      "kind": "feature",
+      "flavor": "the second set, the band that plays after everyone goes home",
+      "words": 119,
+      "text": "Sarah: Here comes the part where Michael describes the second set again.\nMichael: The second set starts when the last customer leaves and the chairs go up.\nSarah: There is no second set. The band goes home.\nMichael: The band goes home. The room keeps playing. That is the second set.\nSarah: Michael.\nMichael: Radiators on the low end. Ice machine on the two and four.\nSarah: [laugh] The ice machine is not a drummer.\nMichael: The ice machine is the most reliable drummer in this city.\nSarah: Mm. It never asks for a solo, I will give it that.\nMichael: It never asks for anything. It just keeps time until somebody returns.\nSarah: [gentle] All right. You win this one. Barely.\nMichael: Barely is a win. Second set, take over."
+    }
+  ]
+}

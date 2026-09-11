@@ -1,0 +1,288 @@
+{
+  "station": "block",
+  "version": 1,
+  "generated": "2026-09-12",
+  "writer": "claude-opus-5",
+  "segments": [
+    {
+      "id": "block-0001",
+      "kind": "station-id",
+      "flavor": "the Block Radio signature",
+      "words": 17,
+      "text": "Dez: Block Radio. Respect the craft. Every record in this hour earned its spot. Here comes another one."
+    },
+    {
+      "id": "block-0002",
+      "kind": "station-id",
+      "flavor": "the Block Radio signature",
+      "words": 21,
+      "text": "Dez: You are on Block Radio, where nothing gets explained twice.\nDez: [cheerful] You caught it the first time. Let the record run."
+    },
+    {
+      "id": "block-0003",
+      "kind": "station-id",
+      "flavor": "the Block Radio signature",
+      "words": 16,
+      "text": "Dez: Block Radio. Two turntables, one standard, no shortcuts.\nDez: If it knocks, it plays. Here it comes."
+    },
+    {
+      "id": "block-0004",
+      "kind": "station-id",
+      "flavor": "the Block Radio signature",
+      "words": 26,
+      "text": "Dez: Block Radio. Respect the craft, and the craft respects you back.\nNia: [sarcastic] The craft also hears a clipped snare. Every time.\nDez: She is never wrong. Music."
+    },
+    {
+      "id": "block-0005",
+      "kind": "talk-break",
+      "flavor": "Nia breaks down one element of the last beat and lands a verdict",
+      "words": 30,
+      "text": "Nia: The kick and the bass were standing in the same doorway.\nDez: Somebody had to move.\nNia: The bass moved. That is why the drop breathes.\nDez: Verdict accepted. Roll the next one."
+    },
+    {
+      "id": "block-0006",
+      "kind": "talk-break",
+      "flavor": "back-announce the mix as the sound system that runs the block; Dez gives it one line of respect",
+      "words": 28,
+      "text": "Dez: That sound system has run this block since before any of us got here.\nDez: It never asks for credit and it never misses a night. Respect. Music up."
+    },
+    {
+      "id": "block-0007",
+      "kind": "talk-break",
+      "flavor": "Walt calls to remember the quiet years and gets corrected with one detail from his own past",
+      "words": 35,
+      "text": "Dez: Walt, how was the block back then?\nWalt: Quiet. You could hear the ice truck from three streets away.\nNia: Walt, you owned the loudest van on this street.\nWalt: [chuckle] That van had taste. Play the record."
+    },
+    {
+      "id": "block-0008",
+      "kind": "talk-break",
+      "flavor": "Dez's demo tape comes up again; he says no comment and Nia adds one more fact about it",
+      "words": 28,
+      "text": "Nia: I found the paper insert from your demo tape. The tracklist is numbers.\nDez: No comment.\nNia: Track four is called four.\nDez: [sigh] Still no comment. Let the record talk."
+    },
+    {
+      "id": "block-0009",
+      "kind": "talk-break",
+      "flavor": "Nia breaks down one element of the last beat and lands a verdict",
+      "words": 44,
+      "text": "Dez: Nia, the sample on that one. Talk to me.\nNia: Flute loop, pitched down a whole step, and they left the tape hiss in.\nDez: On purpose?\nNia: [serious] On purpose. That hiss is the glue holding the whole track together.\nDez: That is craft. Keep it rolling."
+    },
+    {
+      "id": "block-0010",
+      "kind": "talk-break",
+      "flavor": "back-announce the mix as the sound system that runs the block; Dez gives it one line of respect",
+      "words": 34,
+      "text": "Dez: Those corner cabinets were built out of a closet door, two car magnets, and pure stubbornness.\nDez: They still move more air than anything sold with a warranty. Respect. The next record goes through them."
+    },
+    {
+      "id": "block-0011",
+      "kind": "talk-break",
+      "flavor": "Walt calls to remember the quiet years and gets corrected with one detail from his own past",
+      "words": 46,
+      "text": "Dez: Walt, you said the summers used to be silent around here.\nWalt: Silent. A fan in a window and somebody washing a car.\nNia: You had two porch speakers pointed straight at the street.\nWalt: [chuckle] They were small speakers, young lady.\nDez: Small and aimed. Take us back in."
+    },
+    {
+      "id": "block-0012",
+      "kind": "talk-break",
+      "flavor": "Dez's demo tape comes up again; he says no comment and Nia adds one more fact about it",
+      "words": 44,
+      "text": "Nia: Side B of your demo tape is eleven minutes of you counting in.\nDez: No comment.\nNia: Eleven minutes, Dez. One two three four, over and over, with real conviction.\nDez: [sigh] The conviction was free. No comment stands.\nNia: Noted. Let the next record count itself in."
+    },
+    {
+      "id": "block-0013",
+      "kind": "talk-break",
+      "flavor": "Nia breaks down one element of the last beat and lands a verdict",
+      "words": 57,
+      "text": "Dez: The drums on that last one. What did you hear?\nNia: No swing at all. Every hat sits exactly on the grid.\nDez: And it still knocks.\nNia: It knocks because the handclap lands late. Three frames late, on every four.\nDez: Somebody did that on purpose.\nNia: Somebody did that on purpose for twenty years. Verdict is respect. Run it back."
+    },
+    {
+      "id": "block-0014",
+      "kind": "talk-break",
+      "flavor": "back-announce the mix as the sound system that runs the block; Dez gives it one line of respect",
+      "words": 59,
+      "text": "Dez: That was the mix, running through the same system that runs this block.\nNia: Whoever owns it replaced the tweeters twice and never touched the tuning.\nDez: Because the tuning was right the first time. That is the whole point.\nNia: [serious] Right the first time is rare. Say that again for the room.\nDez: Right the first time. Respect. Let it ride."
+    },
+    {
+      "id": "block-0015",
+      "kind": "talk-break",
+      "flavor": "Walt calls to remember the quiet years and gets corrected with one detail from his own past",
+      "words": 55,
+      "text": "Dez: Walt is back. Walt, tell them how peaceful the park used to be.\nWalt: Peaceful. Grass, dominoes, and one man selling ice from a cooler.\nNia: [sarcastic] And a drum circle. Every Sunday. Led by you.\nWalt: That was community, not noise.\nDez: You had congas and a cowbell, Walt.\nWalt: [laugh] The cowbell was borrowed. Play the music, please."
+    },
+    {
+      "id": "block-0016",
+      "kind": "talk-break",
+      "flavor": "Dez's demo tape comes up again; he says no comment and Nia adds one more fact about it",
+      "words": 56,
+      "text": "Nia: I finally played the whole demo tape through the big speakers in studio two.\nDez: No comment.\nNia: The hook is a cereal jingle. Slowed down, but it is a cereal jingle.\nDez: [groan] No. Comment.\nNia: You even kept the little bell at the end of the jingle.\nDez: That bell was mine. Everything else, no comment. Next one, please."
+    },
+    {
+      "id": "block-0017",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for sneakers, car speakers or a studio for rent, rapid disclaimer from Nia",
+      "words": 51,
+      "text": "Dez: Block Radio is brought to you by Bodega Ones canvas sneakers.\nNia: One color. One price. No logo bigger than a thumbnail.\nDez: Bodega Ones. The shoe that looks better after the summer than before it.\nNia: Bodega Ones are not waterproof, not fireproof, and not a personality.\nDez: They are, though. Hit the music."
+    },
+    {
+      "id": "block-0018",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for sneakers, car speakers or a studio for rent, rapid disclaimer from Nia",
+      "words": 57,
+      "text": "Nia: RattleStop trunk kits. For the car that knocks and then buzzes.\nDez: Foam, felt, and eight clips. Ten minutes in a parking lot.\nNia: The bass stays. The rattle leaves. Nobody hears the license plate again.\nDez: [cheerful] RattleStop. Because a buzz is not bass.\nNia: RattleStop does not cover mirrors, hubcaps, or arguments with a passenger.\nDez: Back to the music."
+    },
+    {
+      "id": "block-0019",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for sneakers, car speakers or a studio for rent, rapid disclaimer from Nia",
+      "words": 76,
+      "text": "Dez: Room Nine is open for rent, by the hour, through the back entrance.\nNia: Concrete floor. Dead corner. A console older than everybody in it.\nDez: Room Nine. No clock on the wall, because the clock is in the headphones.\nNia: The neighbors upstairs work nights, so the room is yours until six.\nDez: Bring your own cables. Bring your own patience.\nNia: Room Nine does not refund a session you slept through.\nDez: Fair enough. Send it back to the record."
+    },
+    {
+      "id": "block-0020",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for sneakers, car speakers or a studio for rent, rapid disclaimer from Nia",
+      "words": 58,
+      "text": "Nia: Halfback studio headphones. One cup on, one cup off, the way you actually work.\nDez: The swivel does not squeak. We tested it for an hour.\nNia: [serious] I tested it. He watched.\nDez: Halfback. Hear the room and the mix at the same time.\nNia: Halfback is not responsible for what you miss while listening to yourself.\nDez: [laugh] Take it away."
+    },
+    {
+      "id": "block-0021",
+      "kind": "talk-break",
+      "flavor": "Nia breaks down one element of the last beat and lands a verdict",
+      "words": 75,
+      "text": "Dez: Nia. The mix on that one. Go.\nNia: The vocal is riding hot and everything else ducks out of its way.\nDez: I noticed the guitar disappearing.\nNia: It does not disappear. It gets pushed down four decibels every time he breathes.\nDez: That is either lazy or genius.\nNia: It is neither. It is a choice, and it makes the voice feel close.\nDez: Verdict?\nNia: The choice works. I would still give the guitar a little room. Let it play."
+    },
+    {
+      "id": "block-0022",
+      "kind": "talk-break",
+      "flavor": "back-announce the mix as the sound system that runs the block; Dez gives it one line of respect",
+      "words": 80,
+      "text": "Dez: Back through the system that keeps this block honest.\nNia: Honest is the word. That rig has no tricks in it at all.\nDez: No tricks. One box, one horn, and a man who knows exactly where to aim it.\nNia: He aims it at the wall across the street and lets the street do the rest.\nDez: That is engineering.\nNia: That is somebody who listened before he bought anything.\nDez: One line of respect, then we keep it moving.\nNia: Respect. Now let it knock."
+    },
+    {
+      "id": "block-0023",
+      "kind": "talk-break",
+      "flavor": "Walt calls to remember the quiet years and gets corrected with one detail from his own past",
+      "words": 83,
+      "text": "Dez: Walt called in. Walt, you said the barbershop used to be quiet as a library.\nWalt: Quieter. Clippers, a fan, and one man losing at checkers.\nNia: There was a radio behind the third chair. Yours.\nWalt: ...that radio was low.\nDez: My uncle said you kept it on the window sill, facing the street.\nWalt: [cough] A window sill is not the same as loud.\nNia: The whole corner knew those songs by heart, Walt.\nWalt: [chuckle] Fine. That was me. Put something on, and make it something good."
+    },
+    {
+      "id": "block-0024",
+      "kind": "talk-break",
+      "flavor": "Dez's demo tape comes up again; he says no comment and Nia adds one more fact about it",
+      "words": 75,
+      "text": "Nia: Somebody asked me about the demo tape again.\nDez: No comment.\nNia: I told them the truth. It was recorded in a stairwell for the reverb.\nDez: That stairwell was a good room and it cost nothing.\nNia: There was a choir rehearsing two floors up. They are on the tape.\nDez: [sigh] No comment.\nNia: Track six is you rapping over other people's harmony, and it almost works.\nDez: Almost is generous. That is my only comment. Put a record on."
+    },
+    {
+      "id": "block-0025",
+      "kind": "talk-break",
+      "flavor": "Nia breaks down one element of the last beat and lands a verdict",
+      "words": 110,
+      "text": "Dez: Break it down for me. That whole beat, one element.\nNia: The drums. It is one break, chopped into eight pieces, and reassembled.\nDez: Sounds like a full kit to me.\nNia: It is not. Listen to the room. The same room tone sits under every hit.\nDez: So the room gives it away.\nNia: The room always gives it away. Somebody recorded that break in a small space.\nDez: And they kept the chop instead of cleaning it.\nNia: They kept the chop because the little stumble at the end makes it swing.\nDez: The mistake is the groove.\nNia: The mistake is always the groove. Verdict is respect, and I want it louder.\nDez: Louder it is. Go."
+    },
+    {
+      "id": "block-0026",
+      "kind": "talk-break",
+      "flavor": "back-announce the mix as the sound system that runs the block; Dez gives it one line of respect",
+      "words": 108,
+      "text": "Dez: That was the mix, coming back through the loudest honest speakers on this block.\nNia: Honest is right. Nothing boosted. No smile curve. Flat and a little mean.\nDez: The man who runs it sweeps the sidewalk in front of it every morning.\nNia: He sweeps because people stand there. People stand there because it sounds correct.\nDez: I have heard expensive rigs lose to that one.\nNia: Expensive is not the same as tuned. It never has been.\nDez: Same two horns for thirty years. New grill cloth every spring.\nNia: That is the whole secret. Somebody keeps it alive and never once brags.\nDez: Respect to the corner. Send the music back through it."
+    },
+    {
+      "id": "block-0027",
+      "kind": "talk-break",
+      "flavor": "Walt calls to remember the quiet years and gets corrected with one detail from his own past",
+      "words": 106,
+      "text": "Dez: Walt is on the line and he has a complaint. Walt.\nWalt: Everything is loud now. When I came up, this block went to sleep at ten.\nNia: Walt. The block party.\nWalt: What block party?\nNia: The one with the generator, two speakers, and an extension cord across the street.\nDez: Somebody told me it ran until sunrise. Twice.\nWalt: ...it ran until sunrise once.\nNia: And the second night?\nWalt: [cough] The second night the generator quit. That is not the same thing.\nDez: [laugh] So the block was quiet because the gas ran out.\nWalt: The block was quiet because we were tired. Put the music on, young man.\nDez: Gladly. Here it goes."
+    },
+    {
+      "id": "block-0028",
+      "kind": "talk-break",
+      "flavor": "Dez's demo tape comes up again; he says no comment and Nia adds one more fact about it",
+      "words": 110,
+      "text": "Nia: I digitized the whole demo tape this week. Both sides, all forty minutes.\nDez: No comment.\nNia: The bass is only on the left side. The entire tape, start to finish.\nDez: ...no comment.\nNia: You mixed the whole thing on headphones with one dead cup, did you not?\nDez: [sigh] The right cup worked fine.\nNia: The right cup had no bass in it, Dez. You could not hear what you were doing.\nDez: I could hear the hook, and the hook is what matters.\nNia: The hook is good. It is genuinely good. I will say that once and never again.\nDez: [surprised] Wait. Say that again.\nNia: No. Once. Now play the record and let it go."
+    },
+    {
+      "id": "block-0029",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for sneakers, car speakers or a studio for rent, rapid disclaimer from Nia",
+      "words": 73,
+      "text": "Dez: The Brickbox Four Hundred has arrived, and it does one thing.\nNia: Sixteen pads. One knob. No screen, no menu, no updates ever.\nDez: You load your sounds, you hit the pads, you keep the take.\nNia: The knob is volume. That is the only knob it will ever be.\nDez: Brickbox. Built in a shop, not in a boardroom.\nNia: Brickbox is not responsible for beats made at four in the morning.\nDez: Nobody ever is. Music, please."
+    },
+    {
+      "id": "block-0030",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for sneakers, car speakers or a studio for rent, rapid disclaimer from Nia",
+      "words": 65,
+      "text": "Nia: The Dig Bag holds fifty records and one sandwich.\nDez: Canvas body. Real leather strap. A seam that has never once let go.\nNia: Fifty records is heavy. The strap knows. The strap does not care.\nDez: Dig Bag. Made for people who walk home with the whole crate.\nNia: Dig Bag is not liable for warped records, sore shoulders, or empty wallets.\nDez: Worth it. Back to the block."
+    },
+    {
+      "id": "block-0031",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for sneakers, car speakers or a studio for rent, rapid disclaimer from Nia",
+      "words": 82,
+      "text": "Dez: The Kitchen Table Mic is for the closet booth and the coat rack.\nNia: One capsule. One pattern. It hears the voice and ignores the refrigerator.\nDez: No shock mount needed. Hang it from anything that does not move.\nNia: [serious] Anything that does not move. That part is the whole instruction.\nDez: The Kitchen Table Mic. Because the room is the problem, not the money.\nNia: It will not fix your neighbors, your ceiling, or your writing.\nDez: Two out of three would be nice. Music, go."
+    },
+    {
+      "id": "block-0032",
+      "kind": "fake-ad",
+      "flavor": "a fake ad for sneakers, car speakers or a studio for rent, rapid disclaimer from Nia",
+      "words": 58,
+      "text": "Nia: Storm Door Company. They build a door that actually closes.\nDez: Ours does not. Ours has never closed in its entire life.\nNia: One hinge, one sweep, one latch that catches the first time.\nDez: Storm Door. Peace of mind, measured in decibels.\nNia: Storm Door cannot remove a cousin who is already in the hallway.\nDez: [laugh] Nothing can. Open the faders."
+    },
+    {
+      "id": "block-0033",
+      "kind": "feature",
+      "flavor": "recurring bit — Craft Check",
+      "words": 75,
+      "text": "Dez: Craft Check. One rule, one test, every time.\nNia: The rule is the small speaker rule.\nDez: If a beat only works on a big system, it does not work.\nNia: Play it on a phone. Play it in a kitchen. Play it on a laptop.\nDez: If the kick vanishes, the kick was never really there.\nNia: The low end you feel is not the low end you hear. Build for both.\nDez: That is Craft Check. Play something loud."
+    },
+    {
+      "id": "block-0034",
+      "kind": "feature",
+      "flavor": "recurring bit — House Rules",
+      "words": 76,
+      "text": "Nia: House rule number four. Nobody touches the faders but me.\nDez: House rule number five. Nobody sits on the couch during a take.\nNia: That couch squeaks. It has squeaked through three good verses.\nDez: Four good verses.\nNia: [sigh] Four. And the couch stays, because everyone likes the couch.\nDez: Rule number six. If you break a rule, you buy the coffee.\nNia: Somebody owes me a lot of coffee.\nDez: I do not know who that could be. Start the record."
+    },
+    {
+      "id": "block-0035",
+      "kind": "feature",
+      "flavor": "recurring bit — Sample Court",
+      "words": 98,
+      "text": "Dez: Sample Court is in session. Nia, the charge.\nNia: The charge is laziness. Two bars looped, nothing moved, nothing added.\nDez: The defense?\nNia: The defense is that the two bars are perfect and they knew it.\nDez: Did they filter it?\nNia: They filtered the top off in the second verse. That is one small effort.\nDez: One effort is not a defense.\nNia: It is if the loop carries the whole record. And this one does.\nDez: Then the court finds the flip honest. Case closed.\nNia: Honest, not lazy. There is a difference and it is audible.\nDez: Court adjourned. Put the record back on."
+    },
+    {
+      "id": "block-0036",
+      "kind": "feature",
+      "flavor": "recurring bit — One Knob",
+      "words": 68,
+      "text": "Nia: One Knob. If they took every control off that board but one.\nDez: I keep the high pass. Everything gets cleaner the second you use it.\nNia: Wrong. You keep the fader.\nDez: The fader is not a knob.\nNia: The fader is the only knob that matters. Loud and quiet is the whole job.\nDez: [chuckle] She wins this one. She wins most of them.\nNia: One Knob, settled. Let the music up."
+    },
+    {
+      "id": "block-0037",
+      "kind": "feature",
+      "flavor": "recurring bit — First Bar",
+      "words": 84,
+      "text": "Dez: First Bar. A record gets one bar to earn the rest of itself.\nNia: Some records need two. I allow two.\nDez: Generous. The last one earned it in four beats.\nNia: It earned it in the first hit. That snare arrives before you are ready.\nDez: Early snare, late clap. Somebody in there knows exactly what they are doing.\nNia: Nobody accidentally builds a first bar like that.\nDez: That is First Bar. The rest of the record is homework.\nNia: And it did the homework. Roll it back in."
+    },
+    {
+      "id": "block-0038",
+      "kind": "feature",
+      "flavor": "recurring bit — Dollar Bin",
+      "words": 95,
+      "text": "Nia: Dollar Bin. One record, no label, no name on it anywhere.\nDez: Bought for a dollar out of a milk crate on a folding table.\nNia: Play the intro. Eleven seconds of organ and a woman clearing her throat.\nDez: Then the drums come in and the whole thing sounds like a church basement.\nNia: Because it was one. Somebody's uncle owned that organ.\nDez: Somebody pressed a hundred of these and gave them all to family.\nNia: And one of them survived a milk crate. That is the whole story.\nDez: Dollar Bin. Cheapest lesson in the building. Drop the needle."
+    },
+    {
+      "id": "block-0039",
+      "kind": "feature",
+      "flavor": "recurring bit — Two Words",
+      "words": 52,
+      "text": "Dez: Two Words. Nia reviews the last record in exactly two words.\nNia: Patient. Expensive.\nDez: Expensive?\nNia: Somebody paid for that string section. Nobody fakes those bows.\nDez: Two words, and I have four follow-up questions.\nNia: You get none. That is the point of the bit.\nDez: [laugh] Hard rules on this show. Bring the music back."
+    },
+    {
+      "id": "block-0040",
+      "kind": "feature",
+      "flavor": "recurring bit — The Ending",
+      "words": 80,
+      "text": "Dez: Nobody talks about the last bar. Everybody talks about the first one.\nNia: The ending tells you whether anyone was still paying attention.\nDez: A fade is a shrug.\nNia: A fade is a shrug. A hard stop is a decision.\nDez: That one stopped dead on the four. No reverb tail, nothing.\nNia: It stopped because the song was finished. That is rare and I respect it.\nDez: Learn the ending, and the beginning takes care of itself.\nNia: Now let the next one start properly."
+    }
+  ]
+}

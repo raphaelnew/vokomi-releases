@@ -1,0 +1,288 @@
+{
+  "station": "voltage",
+  "version": 1,
+  "generated": "2026-09-12",
+  "writer": "claude-opus-5",
+  "segments": [
+    {
+      "id": "voltage-0001",
+      "kind": "station-id",
+      "flavor": "the drop that says the station name",
+      "words": 21,
+      "text": "Zane: Voltage FM. Where the sunrise is a rumor and nobody has confirmed it yet.\nZane: [shouting] Hands up. Back to the floor."
+    },
+    {
+      "id": "voltage-0002",
+      "kind": "station-id",
+      "flavor": "the sign-on that never signs off",
+      "words": 15,
+      "text": "Zane: This is Voltage FM. The night never ended. You just blinked for nine hours. Music."
+    },
+    {
+      "id": "voltage-0003",
+      "kind": "station-id",
+      "flavor": "peak time is a permanent condition",
+      "words": 24,
+      "text": "Zane: Voltage FM. Every hour here is peak time, including the ones with daylight in them.\nZane: The bass is structural. The floor is legal. Go."
+    },
+    {
+      "id": "voltage-0004",
+      "kind": "station-id",
+      "flavor": "the lights never came up",
+      "words": 24,
+      "text": "Zane: You are on Voltage FM, where the lights never came up and nobody asked them to.\nZane: [cheerful] Stay loud. Here comes the low end."
+    },
+    {
+      "id": "voltage-0005",
+      "kind": "talk-break",
+      "flavor": "Zane's one more speech, delivered like a manifesto, while Mara counts them against him",
+      "words": 29,
+      "text": "Zane: One more. That is the whole philosophy of this station. One more is a promise, not a number.\nZane: Numbers end. Promises just keep playing. Here is the next one."
+    },
+    {
+      "id": "voltage-0006",
+      "kind": "talk-break",
+      "flavor": "back-announce the mix as the sound system Zane personally wired; Mara reports the BPM",
+      "words": 29,
+      "text": "Zane: That low end came through a rig I wired myself, with a torch in my teeth.\nZane: Two cables were wrong. Both of them improved it. More of that now."
+    },
+    {
+      "id": "voltage-0007",
+      "kind": "talk-break",
+      "flavor": "Mara identifies the last track with an invented label, catalogue number and BPM; Zane pretends he knew",
+      "words": 29,
+      "text": "Zane: Knew that one. Voltage Black, catalogue oh four two, one hundred twenty-four beats per minute.\nZane: Mara left the sleeve face up on the desk. I have excellent eyes. Onward."
+    },
+    {
+      "id": "voltage-0008",
+      "kind": "talk-break",
+      "flavor": "Rollo calls from a taxi that is still not there; the driver has an opinion on the setlist",
+      "words": 30,
+      "text": "Zane: Rollo, where are you?\nRollo: Three streets out. The driver says your last track was too fast for a Tuesday.\nMara: Tell him Tuesday is not a tempo. Zane, take it faster."
+    },
+    {
+      "id": "voltage-0009",
+      "kind": "talk-break",
+      "flavor": "a fake ad for a club product, sincere announcer grammar, rapid disclaimer from Mara",
+      "words": 43,
+      "text": "Zane: Second Wind chewing gum, for the hour after your last hour. One piece, one more hour.\nMara: Second Wind may cause honesty, dancing at work, and a strong opinion about hi-hats.\nZane: Chew one, hear the difference, and let this next record do the rest."
+    },
+    {
+      "id": "voltage-0010",
+      "kind": "talk-break",
+      "flavor": "Zane's one more speech, delivered like a manifesto, while Mara counts them against him",
+      "words": 45,
+      "text": "Zane: That was one more. This is one more. I contain an unlimited supply of one mores.\nMara: That is eleven one mores since midnight. The word has stopped meaning anything at all.\nZane: Words are cheap, records are expensive, and here comes a very costly number twelve."
+    },
+    {
+      "id": "voltage-0011",
+      "kind": "talk-break",
+      "flavor": "back-announce the mix as the sound system Zane personally wired; Mara reports the BPM",
+      "words": 43,
+      "text": "Zane: That whole record came through a rig I built from spare parts and stubbornness.\nMara: One hundred twenty-six beats per minute, and the left speaker is a converted fridge.\nZane: That fridge holds a note longer than anything I have ever paid money for. More."
+    },
+    {
+      "id": "voltage-0012",
+      "kind": "talk-break",
+      "flavor": "Mara identifies the last track with an invented label, catalogue number and BPM; Zane pretends he knew",
+      "words": 42,
+      "text": "Mara: That was Halogen Duchess on Grey Ceiling, catalogue G C oh nine, one hundred thirty.\nZane: Grey Ceiling. Obviously. I have had that one since before it had a catalogue number.\nMara: You asked me what it was. Twice. In writing. Next one, please."
+    },
+    {
+      "id": "voltage-0013",
+      "kind": "talk-break",
+      "flavor": "Rollo calls from a taxi that is still not there; the driver has an opinion on the setlist",
+      "words": 59,
+      "text": "Zane: Rollo is on the line. Rollo, tell me you can see the door from there.\nRollo: I can see a door. The driver says it is the wrong one and he is not turning.\nMara: He has been not turning for forty minutes. That is commitment. That is almost a genre.\nZane: Stay on the meter, Rollo. We will play you in."
+    },
+    {
+      "id": "voltage-0014",
+      "kind": "talk-break",
+      "flavor": "a fake ad for a club product, sincere announcer grammar, rapid disclaimer from Mara",
+      "words": 58,
+      "text": "Zane: The smoke machine is running again and nobody in this building admits to owning it.\nMara: So the makers of Nobody's Fog have sent us one of their own. Sincerely, apparently.\nZane: Nobody's Fog. Atmosphere with no paperwork. It belongs to no one and follows everyone.\nMara: Nobody's Fog is not a fire. Please stop calling. Back into the deep end."
+    },
+    {
+      "id": "voltage-0015",
+      "kind": "talk-break",
+      "flavor": "Zane's one more speech, delivered like a manifesto, while Mara counts them against him",
+      "words": 58,
+      "text": "Zane: Here is the thing about one more. One more is not a quantity, it is a posture.\nMara: It is absolutely a quantity. I keep a notebook, and the notebook disagrees with your posture.\nZane: Burn the notebook. Nobody in history ever left a club early because of good bookkeeping.\nMara: Fourteen. That is fourteen. Play your one more, manifesto man."
+    },
+    {
+      "id": "voltage-0016",
+      "kind": "talk-break",
+      "flavor": "back-announce the mix as the sound system Zane personally wired; Mara reports the BPM",
+      "words": 60,
+      "text": "Zane: I ran the cable for that sound through the ceiling, on a chair, in the dark.\nMara: One hundred twenty-two beats per minute, and the chair is still up there, holding it.\nZane: The chair is part of the system now. It is in the signal path.\nMara: Then the chair gets a credit on the next white label. Roll the next one."
+    },
+    {
+      "id": "voltage-0017",
+      "kind": "talk-break",
+      "flavor": "Mara identifies the last track with an invented label, catalogue number and BPM; Zane pretends he knew",
+      "words": 75,
+      "text": "Mara: Track ID. Salt Cathedral, on my own white label, Third Shift, catalogue T S three.\nZane: Third Shift. I knew that. I said that. I said it in my head, very loudly.\nMara: One hundred eighteen beats per minute. Fifty copies pressed. Forty-nine are in my flat.\nZane: Fifty copies. That is not a label, that is a hobby with a catalogue number.\nMara: It is a hobby that you have now played twice. Here comes the third time."
+    },
+    {
+      "id": "voltage-0018",
+      "kind": "talk-break",
+      "flavor": "Rollo calls from a taxi that is still not there; the driver has an opinion on the setlist",
+      "words": 77,
+      "text": "Zane: Rollo, give me a distance. Any distance. A number of streets, a country, anything.\nRollo: Close. The driver has a disc in the glovebox and he would like it played.\nMara: Everyone has a disc in the glovebox. That is why the roads are so slow.\nZane: What is on it?\nRollo: He says it is the sound of a real night. Eleven minutes. No drums.\nMara: No drums. Tell him the meter and the kick drum both keep time. Next record."
+    },
+    {
+      "id": "voltage-0019",
+      "kind": "talk-break",
+      "flavor": "a fake ad for a club product, sincere announcer grammar, rapid disclaimer from Mara",
+      "words": 83,
+      "text": "Zane: Brought to you by Dawn Patrol, the only sunglasses engineered for people leaving at sunrise.\nMara: The lenses are so dark that they are, technically, a small wall.\nZane: Dawn Patrol. Because daylight is an opinion, and you do not have to agree with it.\nMara: They also float, which matters to nobody, and is printed on the box anyway.\nZane: Float sunglasses. Wear them indoors. Live a full and heavily shaded life.\nMara: Dawn Patrol protects against nothing. Not daylight, not regret. Straight back to the floor."
+    },
+    {
+      "id": "voltage-0020",
+      "kind": "talk-break",
+      "flavor": "Zane's one more speech, delivered like a manifesto, while Mara counts them against him",
+      "words": 84,
+      "text": "Zane: [serious] One more is a unit of time. It is longer than an hour and shorter than regret.\nMara: Science has not confirmed this. My stopwatch has. Your one more averages forty-one minutes.\nZane: Forty-one minutes is a fair one. A short one more is an insult to the floor.\nMara: You said that at the last one more. And the one before that one more.\nZane: Consistency is the whole brand. One more, starting now. Watch the clock, Mara.\nMara: Watch started. Nobody believe him. Take it away."
+    },
+    {
+      "id": "voltage-0021",
+      "kind": "talk-break",
+      "flavor": "back-announce the mix as the sound system Zane personally wired; Mara reports the BPM",
+      "words": 116,
+      "text": "Zane: Channel three on this desk does not work, and I have never once fixed it.\nMara: You wired channel three yourself, with a lighter and a paperclip.\nZane: I did. That is why I respect it. It failed honestly, on its own terms.\nMara: It has been failing honestly for nine years. That is a long, honest career.\nZane: Everything here came out of one long night and one warm lighter.\nMara: And it is holding one hundred twenty-nine beats per minute without a single wobble.\nZane: Steady as a heart, built by a man with no sleep.\nMara: Do not touch channel three. Do not look at channel three.\nZane: Nobody touches channel three. Everybody dances. That is the arrangement. Let it run."
+    },
+    {
+      "id": "voltage-0022",
+      "kind": "talk-break",
+      "flavor": "Mara identifies the last track with an invented label, catalogue number and BPM; Zane pretends he knew",
+      "words": 124,
+      "text": "Mara: Track ID. Copper Ankle, on Blue Hour Industries, catalogue B H one one, promo only.\nZane: Blue Hour. I was in the room when they cut that. Great biscuits.\nMara: Blue Hour Industries is a garage with no door and one working plug.\nZane: That is the room. I stood by the plug. I remember the plug clearly.\nMara: One hundred thirty-one beats per minute. Two hundred copies. One hundred ninety went nowhere.\nZane: Nowhere is a strong market. Nowhere has taste and very cheap rent.\nMara: You had never heard of this record before I put it on the desk.\nZane: I had heard of it spiritually. Play it again and I will remember more.\nMara: I will play the other side. You can invent a memory of that one too."
+    },
+    {
+      "id": "voltage-0023",
+      "kind": "talk-break",
+      "flavor": "Rollo calls from a taxi that is still not there; the driver has an opinion on the setlist",
+      "words": 117,
+      "text": "Zane: Rollo. I can hear an engine. I can hear it going around in a circle.\nRollo: Roundabout. Fourth lap. The driver refuses to leave while this record is still playing.\nMara: That is the correct decision. Nobody should exit a roundabout during a breakdown.\nZane: Rollo, how much is on the meter?\nRollo: The driver has turned the meter off. He says this one is on him.\nMara: [gasp] A free lap. The man has become a fan. Print him a card.\nZane: Two more laps, Rollo. Tell him the next one is longer and better.\nRollo: He says he can do six laps. He has nowhere to be either.\nMara: Nobody here has anywhere to be. Six laps, Zane. Give the man his record."
+    },
+    {
+      "id": "voltage-0024",
+      "kind": "talk-break",
+      "flavor": "a fake ad for a club product, sincere announcer grammar, rapid disclaimer from Mara",
+      "words": 114,
+      "text": "Zane: This next part is sponsored by Still Going, the app for the hour after the hour.\nMara: You open it and it shows you a map of everyone who has not gone home.\nZane: Little glowing dots. Each dot is a person saying, not yet, not yet, not yet.\nMara: The dots move very slowly. Some dots have stopped moving. Still Going does not check.\nZane: Still Going. Find the room that is still warm. Follow a dot. Become a dot.\nMara: Still Going cannot find your coat, your keys, or the reason you left the house.\nZane: None of those things are the point. The point is the next room.\nMara: The next room is right here. Turn it up."
+    },
+    {
+      "id": "voltage-0025",
+      "kind": "fake-ad",
+      "flavor": "Ear Cathedral earplugs",
+      "words": 59,
+      "text": "Zane: Voltage FM is brought to you tonight by Ear Cathedral, the earplug with a nave.\nMara: It is shaped like a tiny church. It sits in the ear and hums.\nZane: Ear Cathedral removes the hiss and keeps the holy part. Hear tomorrow, from inside tonight.\nMara: Ear Cathedral is not a place of worship and cannot marry you. Back to it."
+    },
+    {
+      "id": "voltage-0026",
+      "kind": "fake-ad",
+      "flavor": "Puddle, the droppable water bottle",
+      "words": 56,
+      "text": "Zane: Here is a word about Puddle, the only water bottle designed to be dropped repeatedly.\nMara: It bounces. It also holds its shape after a stranger stands on it twice.\nZane: Puddle. Because hydration should survive the same night you did. Cap included, cap optional.\nMara: Puddle is not a flotation device, a weapon, or a friend. Music, please."
+    },
+    {
+      "id": "voltage-0027",
+      "kind": "fake-ad",
+      "flavor": "Floorproof trainers",
+      "words": 36,
+      "text": "Zane: Floorproof trainers are engineered for eight hours of standing, one hour of nonsense, and a very long walk home.\nZane: Floorproof. Your feet will forgive you eventually, and nobody else will. Straight back into this one now."
+    },
+    {
+      "id": "voltage-0028",
+      "kind": "fake-ad",
+      "flavor": "Nine Volt energy shot",
+      "words": 85,
+      "text": "Zane: The next hour is powered by Nine Volt, the energy shot with a warning on both sides.\nMara: One bottle. Two flavours. Copper, and a second flavour they refuse to name.\nZane: Nine Volt goes in cold and comes out as confidence. Your hands will find rhythm.\nMara: Your hands will find rhythm and then keep it for two days.\nZane: Nine Volt. Feel the current. Recommended by nobody, loved by everybody on this floor.\nMara: Nine Volt is not tested, approved, or sorry. Do not blink. Here we go."
+    },
+    {
+      "id": "voltage-0029",
+      "kind": "fake-ad",
+      "flavor": "Arrival, the car service that is nearly there",
+      "words": 35,
+      "text": "Zane: Arrival is the car service that promises to be nearly there, and it always keeps that exact promise.\nZane: Arrival. You will be nearly there forever, in total comfort. Here is some music to travel by."
+    },
+    {
+      "id": "voltage-0030",
+      "kind": "fake-ad",
+      "flavor": "Neverclose, the all-night laundry",
+      "words": 58,
+      "text": "Zane: A sincere word about Neverclose, the laundry that has no closing time and no staff.\nMara: The machines run all night. The lights buzz. It smells like a warm cloud.\nZane: Bring the shirt. Bring the whole night. Neverclose takes both and returns one of them.\nMara: Neverclose is not responsible for items, colours, or anything you leave behind. Back in."
+    },
+    {
+      "id": "voltage-0031",
+      "kind": "fake-ad",
+      "flavor": "Softfloor bass underlay",
+      "words": 83,
+      "text": "Zane: Tonight's next record is presented by Softfloor, the underlay that keeps your bass entirely yours.\nMara: Two centimetres of grey foam standing between a good night and a formal letter.\nZane: Softfloor absorbs the low end before it reaches the ceiling of the person below.\nMara: The person below will still know. They always know. But they cannot prove it.\nZane: Softfloor. Structural concerns, solved quietly. Roll it out and turn it up.\nMara: Softfloor is not soundproofing and will not survive a tribunal. Let the bass through."
+    },
+    {
+      "id": "voltage-0032",
+      "kind": "fake-ad",
+      "flavor": "The Long Yolk, breakfast for the undefeated",
+      "words": 37,
+      "text": "Zane: The Long Yolk serves a full, quiet breakfast to people who have not yet agreed that it is morning.\nZane: The Long Yolk. Eggs, silence, and absolutely no questions at all. Until sunrise, stay exactly where you are."
+    },
+    {
+      "id": "voltage-0033",
+      "kind": "feature",
+      "flavor": "the White Label Hour",
+      "words": 101,
+      "text": "Mara: It is time for the White Label Hour, where I play a record with no information.\nZane: No artist. No title. No catalogue number. Just a blank sleeve and a promise.\nMara: This one has a thumbprint on the label. That is the only fact available.\nZane: Whose thumb?\nMara: Unknown. Possibly the pressing plant. Possibly a person who regretted the whole thing immediately.\nZane: I love a regret record. Regret is the most danceable emotion we have.\nMara: Four minutes long. Nobody will ever identify it. Nobody will ever hear it again.\nZane: Then this is the only time it exists. White Label Hour. Let it go."
+    },
+    {
+      "id": "voltage-0034",
+      "kind": "feature",
+      "flavor": "the Smoke Report",
+      "words": 86,
+      "text": "Zane: Time for the Smoke Report. Mara, what are we looking at on the floor?\nMara: Visibility is down to one metre. Heavy fog from the machine that nobody owns.\nZane: Conditions?\nMara: Warm, damp, faintly sweet. A front is moving in from the cloakroom corner.\nZane: Any chance of clearing?\nMara: None. The machine has no switch. We looked. We looked for a long time.\nZane: Then the forecast is more of the same, with a strong chance of bass.\nMara: Smoke Report complete. Visibility poor, morale excellent. Straight into the next one."
+    },
+    {
+      "id": "voltage-0035",
+      "kind": "feature",
+      "flavor": "BPM Court",
+      "words": 123,
+      "text": "Mara: BPM Court is now in session. I am the judge. Zane is the accused.\nZane: I plead not guilty and also I would like to leave.\nMara: The charge is playing a one hundred forty beat per minute record at the wrong moment.\nZane: The moment was right. The room was wrong. That is a different crime.\nMara: Three people sat down. One person left. One person applauded, which confuses the case.\nZane: That one person understood the assignment. I would like them named in the record.\nMara: The court finds you guilty of enthusiasm in the first degree. Sentence is immediate.\nZane: What is the sentence?\nMara: You play the same record again, and this time the room sits down properly.\nZane: Court is adjourned. Here it comes, faster than before."
+    },
+    {
+      "id": "voltage-0036",
+      "kind": "feature",
+      "flavor": "the Lost Property Table",
+      "words": 98,
+      "text": "Zane: Tonight on the Lost Property Table, we have four items and no explanations.\nMara: One glove. One single trainer. A door key with a bell on it.\nZane: A bell. Somebody attached a bell to their key so they could hear it fall.\nMara: They heard it fall. They kept dancing. That is a decision made with full information.\nZane: And item four?\nMara: A sandwich, wrapped, untouched, labelled with a name I will not read out.\nZane: Somebody packed a sandwich for the club. That is the most optimistic object here.\nMara: The table stays by the door until sunrise. Claim nothing. Dance more."
+    },
+    {
+      "id": "voltage-0037",
+      "kind": "feature",
+      "flavor": "the Sunrise Denial",
+      "words": 73,
+      "text": "Zane: It is time for the Sunrise Denial, the hourly moment where I deny the sunrise.\nMara: The sky outside is doing something orange and it is doing it very confidently.\nZane: That is a streetlight with ambition. Denied.\nMara: Birds, Zane. There are birds.\nZane: Birds work nights too. Some birds are simply committed. Denied.\nMara: Noted. The denial stands. The sun has no comment.\nZane: The night continues by official ruling. Play something with no daylight in it."
+    },
+    {
+      "id": "voltage-0038",
+      "kind": "feature",
+      "flavor": "the cloakroom ticket nobody claims",
+      "words": 89,
+      "text": "Zane: Cloakroom ticket forty-one has been on the hook for three weeks now.\nMara: A long black coat. Heavy. One pocket contains a receipt and a single screw.\nZane: A screw. Loose in the pocket. That is a person who fixes things reluctantly.\nMara: Or a person who removed a screw from something and walked away forever.\nZane: Both stories are good. Neither one comes back for the coat.\nMara: Forty-one stays on the hook. The coat has become part of the building.\nZane: Everything stays here eventually. Coats, people, the smoke. Let us keep going."
+    },
+    {
+      "id": "voltage-0039",
+      "kind": "feature",
+      "flavor": "the Catalogue Reading",
+      "words": 84,
+      "text": "Mara: Time for the Catalogue Reading. I read catalogue numbers aloud and Zane stays completely quiet.\nZane: I will try. I have never managed it.\nMara: K R two one. Deep Hollow four. Night Trade oh oh six.\nZane: Night Trade oh oh six is the greatest record ever pressed and I am emotional.\nMara: You lasted nine seconds. That is a personal best by a wide margin.\nZane: Read the last one properly and I will play it immediately.\nMara: Night Trade oh oh six. Go on then. Play it."
+    },
+    {
+      "id": "voltage-0040",
+      "kind": "feature",
+      "flavor": "the Rig Tour",
+      "words": 113,
+      "text": "Zane: Welcome to the Rig Tour. Tonight we meet the subwoofer. His name is The Landlord.\nMara: You named a speaker after the man who writes you letters about that speaker.\nZane: I did. Respect your enemy. Keep him in the corner where you can see him.\nMara: The Landlord weighs ninety kilograms and moves two centimetres to the left every night.\nZane: He is walking. Slowly. Towards the door. He wants out and I understand him.\nMara: One day you will open up and The Landlord will simply be gone.\nZane: Then I will follow the marks on the floor and bring him home.\nMara: That is the Rig Tour. Say goodnight to The Landlord. He is about to speak."
+    }
+  ]
+}
